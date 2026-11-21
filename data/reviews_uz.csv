@@ -1,0 +1,181 @@
+review_id,date,book,category,stars,text,city
+1,2026-01-03,O'tkan kunlar,roman,4,Ajoyib xizmat. Sifati aʼlo.,Buxoro
+2,2026-07-23,Boburnoma,tarix,4,Sotuvchi juda xushmuomala. Muqovasi chiroyli.,Andijon
+3,2026-05-10,Преступление и наказание,roman,5,Yetkazib berish tez boʻldi.,Nukus
+4,2026-07-02,Мастер и Маргарита,roman,4,Muqovasi chiroyli.,Buxoro
+5,2026-02-09,Mehrobdan chayon,roman,1,Narxi juda qimmat. Yetkazib berish kechikdi.,Toshkent
+6,2026-09-24,Big Data: A Revolution,texnologiya,3,Oʻrtacha xizmat.,Toshkent
+7,2026-05-17,Speech and Language Processing,texnologiya,3,Oddiy kitob. Kutganimdek.,Andijon
+8,2026-04-01,Big Data: A Revolution,texnologiya,4,Yetkazib berish tez boʻldi. Hammaga tavsiya qilaman.,Andijon
+9,2026-10-15,Python Crash Course,texnologiya,1,Sifati yomon. Javob berishmadi.,Nukus
+10,2026-07-04,Shum bola,qissa,4,Narxi arzon va sifatli. Narxi arzon va sifatli.,Andijon
+11,2026-10-21,Dunyoning ishlari,qissa,5,Hammaga tavsiya qilaman.,Nukus
+12,2026-03-07,Ufq,roman,4,Hammaga tavsiya qilaman. Ajoyib xizmat.,Nukus
+13,2026-05-04,Boburnoma,tarix,5,Sifati aʼlo.,Andijon
+14,2026-10-02,Преступление и наказание,roman,5,Ajoyib xizmat. Sotuvchi juda xushmuomala.,Buxoro
+15,2026-08-11,Преступление и наказание,roman,5,Kitob juda qiziqarli ekan.,Toshkent
+16,2026-10-19,Automate the Boring Stuff with Python,texnologiya,5,Narxi arzon va sifatli.,Samarqand
+17,2026-06-10,Speech and Language Processing,texnologiya,5,Sifati aʼlo. Yetkazib berish tez boʻldi.,Nukus
+18,2026-03-07,Ufq,roman,5,Kitob juda qiziqarli ekan. Ajoyib xizmat.,Andijon
+19,2026-02-12,Big Data: A Revolution,texnologiya,1,Qadoqlash yomon.,Nukus
+20,2026-01-26,Kecha va kunduz,roman,5,Sifati aʼlo.,Buxoro
+21,2026-09-13,Speech and Language Processing,texnologiya,3,Oʻrtacha xizmat.,Buxoro
+22,2026-01-17,Xamsa (tanlangan),she'riyat,3,Yomon emas.,Buxoro
+23,2026-07-17,Kecha va kunduz,roman,5,Yetkazib berish tez boʻldi. Muqovasi chiroyli.,Buxoro
+24,2026-08-10,Sariq devni minib,bolalar,4,Yetkazib berish tez boʻldi. Yetkazib berish tez boʻldi.,Andijon
+25,2026-05-08,Kecha va kunduz,roman,4,Sifati aʼlo.,Samarqand
+26,2026-05-06,Kecha va kunduz,roman,4,Yetkazib berish tez boʻldi. Yetkazib berish tez boʻldi.,Nukus
+27,2026-10-17,Ikki eshik orasi,roman,2,Javob berishmadi.,Nukus
+28,2026-05-23,Xamsa (tanlangan),she'riyat,4,Kitob juda qiziqarli ekan.,Samarqand
+29,2026-01-13,Xamsa (tanlangan),she'riyat,5,Sifati aʼlo. Ajoyib xizmat.,Nukus
+30,2026-06-23,Boburnoma,tarix,5,Sifati aʼlo. Kitob juda qiziqarli ekan.,Toshkent
+31,2026-06-05,Ikki eshik orasi,roman,5,Muqovasi chiroyli. Hammaga tavsiya qilaman.,Toshkent
+32,2026-06-20,Ufq,roman,4,Sotuvchi juda xushmuomala. Yetkazib berish tez boʻldi.,Nukus
+33,2026-10-17,Speech and Language Processing,texnologiya,5,Hammaga tavsiya qilaman. Muqovasi chiroyli.,Andijon
+34,2026-08-27,Dunyoning ishlari,qissa,5,Muqovasi chiroyli. Narxi arzon va sifatli.,Nukus
+35,2026-04-13,Dunyoning ishlari,qissa,5,Sifati aʼlo. Ajoyib xizmat.,Toshkent
+36,2026-07-31,Shum bola,qissa,1,Kitob sahifalari yirtilgan ekan.,Andijon
+37,2026-10-18,Automate the Boring Stuff with Python,texnologiya,4,Muqovasi chiroyli.,Buxoro
+38,2026-01-28,Мастер и Маргарита,roman,2,Javob berishmadi. Buyurtma notoʻgʻri keldi.,Buxoro
+39,2026-04-01,Automate the Boring Stuff with Python,texnologiya,3,Oddiy kitob. Yetkazib berish tez boʻldi.,Andijon
+40,2026-03-20,Мастер и Маргарита,roman,5,Yetkazib berish tez boʻldi. Kitob juda qiziqarli ekan.,Toshkent
+41,2026-10-16,Boburnoma,tarix,5,Sifati aʼlo. Muqovasi chiroyli.,Andijon
+42,2026-02-03,Mehrobdan chayon,roman,4,Narxi arzon va sifatli.,Samarqand
+43,2026-03-11,Kecha va kunduz,roman,5,Ajoyib xizmat.,Andijon
+44,2026-05-23,Ufq,roman,5,Ajoyib xizmat. Hammaga tavsiya qilaman.,Nukus
+45,2026-06-13,Automate the Boring Stuff with Python,texnologiya,5,Kitob juda qiziqarli ekan. Sifati aʼlo.,Nukus
+46,2026-07-24,Big Data: A Revolution,texnologiya,5,Ajoyib xizmat. Narxi arzon va sifatli.,Samarqand
+47,2026-05-06,Xamsa (tanlangan),she'riyat,2,Qadoqlash yomon. Javob berishmadi.,Nukus
+48,2026-02-18,Kecha va kunduz,roman,5,Ajoyib xizmat.,Samarqand
+49,2026-02-15,O'tkan kunlar,roman,4,Sotuvchi juda xushmuomala. Hammaga tavsiya qilaman.,Toshkent
+50,2026-10-11,Ikki eshik orasi,roman,5,Muqovasi chiroyli.,Nukus
+51,2026-06-19,Python Crash Course,texnologiya,4,Ajoyib xizmat. Kitob juda qiziqarli ekan.,Toshkent
+52,2026-06-03,Speech and Language Processing,texnologiya,5,Kitob juda qiziqarli ekan.,Samarqand
+53,2026-03-07,Mehrobdan chayon,roman,5,Sotuvchi juda xushmuomala.,Toshkent
+54,2026-03-10,Automate the Boring Stuff with Python,texnologiya,5,Hammaga tavsiya qilaman.,Toshkent
+55,2026-09-27,Ikki eshik orasi,roman,4,Sifati aʼlo.,Toshkent
+56,2026-10-21,Kecha va kunduz,roman,5,Sotuvchi juda xushmuomala.,Toshkent
+57,2026-10-23,Speech and Language Processing,texnologiya,2,Kitob sahifalari yirtilgan ekan.,Samarqand
+58,2026-09-13,Ikki eshik orasi,roman,4,Ajoyib xizmat. Hammaga tavsiya qilaman.,Samarqand
+59,2026-03-20,Sariq devni minib,bolalar,4,Narxi arzon va sifatli. Yetkazib berish tez boʻldi.,Nukus
+60,2026-09-02,Xamsa (tanlangan),she'riyat,4,Kitob juda qiziqarli ekan.,Buxoro
+61,2026-01-28,Shum bola,qissa,5,Hammaga tavsiya qilaman. Yetkazib berish tez boʻldi.,Buxoro
+62,2026-02-06,Xamsa (tanlangan),she'riyat,5,Kitob juda qiziqarli ekan. Hammaga tavsiya qilaman.,Nukus
+63,2026-08-04,Мастер и Маргарита,roman,4,Narxi arzon va sifatli. Hammaga tavsiya qilaman.,Nukus
+64,2026-08-04,Python Crash Course,texnologiya,5,Sotuvchi juda xushmuomala.,Buxoro
+65,2026-07-17,Sariq devni minib,bolalar,5,Narxi arzon va sifatli.,Nukus
+66,2026-01-01,Dunyoning ishlari,qissa,5,Sotuvchi juda xushmuomala. Hammaga tavsiya qilaman.,Samarqand
+67,2026-02-13,Kecha va kunduz,roman,4,Yetkazib berish tez boʻldi.,Nukus
+68,2026-07-16,Ikki eshik orasi,roman,4,Yetkazib berish tez boʻldi. Sifati aʼlo.,Samarqand
+69,2026-10-07,Ufq,roman,4,Narxi arzon va sifatli. Narxi arzon va sifatli.,Nukus
+70,2026-03-09,Ufq,roman,5,Ajoyib xizmat. Ajoyib xizmat.,Nukus
+71,2026-07-31,Mehrobdan chayon,roman,4,Yetkazib berish tez boʻldi.,Samarqand
+72,2026-02-19,Преступление и наказание,roman,4,Kitob juda qiziqarli ekan.,Buxoro
+73,2026-10-26,Boburnoma,tarix,4,Kitob juda qiziqarli ekan. Sifati aʼlo.,Buxoro
+74,2026-10-06,Speech and Language Processing,texnologiya,5,Sotuvchi juda xushmuomala. Ajoyib xizmat.,Toshkent
+75,2026-07-30,O'tkan kunlar,roman,5,Ajoyib xizmat.,Samarqand
+76,2026-10-04,Ikki eshik orasi,roman,4,Muqovasi chiroyli.,Toshkent
+77,2026-06-04,Shum bola,qissa,3,Oʻrtacha xizmat.,Andijon
+78,2026-04-17,Big Data: A Revolution,texnologiya,2,Sifati yomon.,Toshkent
+79,2026-04-05,Ikki eshik orasi,roman,2,Qadoqlash yomon.,Nukus
+80,2026-05-19,Xamsa (tanlangan),she'riyat,1,Javob berishmadi.,Andijon
+81,2026-03-16,Mehrobdan chayon,roman,5,Hammaga tavsiya qilaman. Narxi arzon va sifatli.,Buxoro
+82,2026-08-26,Преступление и наказание,roman,5,Hammaga tavsiya qilaman. Muqovasi chiroyli.,Nukus
+83,2026-06-25,Xamsa (tanlangan),she'riyat,4,Narxi arzon va sifatli.,Toshkent
+84,2026-04-02,Kecha va kunduz,roman,3,Yomon emas.,Nukus
+85,2026-04-15,Automate the Boring Stuff with Python,texnologiya,3,Oʻrtacha xizmat. Yomon emas.,Andijon
+86,2026-06-13,Speech and Language Processing,texnologiya,4,Hammaga tavsiya qilaman. Hammaga tavsiya qilaman.,Toshkent
+87,2026-07-03,Mehrobdan chayon,roman,5,Muqovasi chiroyli.,Buxoro
+88,2026-03-03,Big Data: A Revolution,texnologiya,5,Yetkazib berish tez boʻldi.,Toshkent
+89,2026-09-18,Mehrobdan chayon,roman,4,Kitob juda qiziqarli ekan.,Toshkent
+90,2026-08-10,Mehrobdan chayon,roman,5,Sifati aʼlo.,Samarqand
+91,2026-09-20,Ufq,roman,5,Kitob juda qiziqarli ekan.,Toshkent
+92,2026-05-15,O'tkan kunlar,roman,5,Yetkazib berish tez boʻldi. Hammaga tavsiya qilaman.,Andijon
+93,2026-01-10,O'tkan kunlar,roman,4,Sotuvchi juda xushmuomala.,Nukus
+94,2026-02-22,Python Crash Course,texnologiya,5,Muqovasi chiroyli.,Toshkent
+95,2026-01-22,Ufq,roman,5,Sifati aʼlo.,Buxoro
+96,2026-04-18,Boburnoma,tarix,5,Hammaga tavsiya qilaman. Narxi arzon va sifatli.,Samarqand
+97,2026-06-12,Мастер и Маргарита,roman,2,Qadoqlash yomon. Javob berishmadi.,Andijon
+98,2026-10-17,Python Crash Course,texnologiya,5,Hammaga tavsiya qilaman.,Nukus
+99,2026-07-19,Мастер и Маргарита,roman,4,Sifati aʼlo. Hammaga tavsiya qilaman.,Andijon
+100,2026-07-22,Xamsa (tanlangan),she'riyat,5,Hammaga tavsiya qilaman. Yetkazib berish tez boʻldi.,Andijon
+101,2026-05-19,Mehrobdan chayon,roman,5,Ajoyib xizmat.,Andijon
+102,2026-03-06,Speech and Language Processing,texnologiya,5,Narxi arzon va sifatli.,Samarqand
+103,2026-03-06,Shum bola,qissa,5,Sotuvchi juda xushmuomala.,Buxoro
+104,2026-10-17,Python Crash Course,texnologiya,3,Yomon emas. Kutganimdek.,Buxoro
+105,2026-03-11,Speech and Language Processing,texnologiya,5,Sifati aʼlo.,Buxoro
+106,2026-02-17,Shum bola,qissa,4,Ajoyib xizmat.,Nukus
+107,2026-07-17,Dunyoning ishlari,qissa,3,Yomon emas. Yomon emas.,Toshkent
+108,2026-10-10,Shum bola,qissa,3,Kutganimdek. Kitob juda qiziqarli ekan.,Samarqand
+109,2026-10-22,Mehrobdan chayon,roman,5,Ajoyib xizmat. Narxi arzon va sifatli.,Toshkent
+110,2026-04-11,Python Crash Course,texnologiya,5,Kitob juda qiziqarli ekan. Kitob juda qiziqarli ekan.,Toshkent
+111,2026-10-05,Kecha va kunduz,roman,5,Sifati aʼlo.,Toshkent
+112,2026-08-05,Xamsa (tanlangan),she'riyat,4,Kitob juda qiziqarli ekan. Sotuvchi juda xushmuomala.,Andijon
+113,2026-10-10,Automate the Boring Stuff with Python,texnologiya,4,Ajoyib xizmat. Hammaga tavsiya qilaman.,Andijon
+114,2026-09-10,Мастер и Маргарита,roman,5,Sotuvchi juda xushmuomala. Yetkazib berish tez boʻldi.,Samarqand
+115,2026-05-28,Xamsa (tanlangan),she'riyat,4,Hammaga tavsiya qilaman. Muqovasi chiroyli.,Toshkent
+116,2026-06-20,Xamsa (tanlangan),she'riyat,3,Oddiy kitob. Kitob juda qiziqarli ekan.,Samarqand
+117,2026-04-05,Boburnoma,tarix,4,Sotuvchi juda xushmuomala. Muqovasi chiroyli.,Toshkent
+118,2026-03-20,Dunyoning ishlari,qissa,5,Hammaga tavsiya qilaman. Kitob juda qiziqarli ekan.,Buxoro
+119,2026-07-16,Automate the Boring Stuff with Python,texnologiya,3,Yomon emas.,Andijon
+120,2026-07-15,Automate the Boring Stuff with Python,texnologiya,1,Buyurtma notoʻgʻri keldi. Sifati yomon.,Samarqand
+121,2026-10-24,Speech and Language Processing,texnologiya,4,Hammaga tavsiya qilaman. Ajoyib xizmat.,Buxoro
+122,2026-04-30,Big Data: A Revolution,texnologiya,4,Muqovasi chiroyli.,Samarqand
+123,2026-04-06,Big Data: A Revolution,texnologiya,4,Yetkazib berish tez boʻldi.,Toshkent
+124,2026-09-14,Xamsa (tanlangan),she'riyat,2,Kitob sahifalari yirtilgan ekan. Narxi juda qimmat.,Samarqand
+125,2026-01-28,Xamsa (tanlangan),she'riyat,4,Ajoyib xizmat. Sifati aʼlo.,Nukus
+126,2026-01-29,Big Data: A Revolution,texnologiya,5,Hammaga tavsiya qilaman.,Nukus
+127,2026-07-10,Мастер и Маргарита,roman,3,Kutganimdek. Yetkazib berish tez boʻldi.,Nukus
+128,2026-02-19,Kecha va kunduz,roman,5,Hammaga tavsiya qilaman.,Toshkent
+129,2026-02-07,Speech and Language Processing,texnologiya,5,Sotuvchi juda xushmuomala. Yetkazib berish tez boʻldi.,Samarqand
+130,2026-10-24,Kecha va kunduz,roman,4,Sotuvchi juda xushmuomala.,Nukus
+131,2026-08-04,Ikki eshik orasi,roman,4,Hammaga tavsiya qilaman. Sotuvchi juda xushmuomala.,Nukus
+132,2026-09-18,Python Crash Course,texnologiya,4,Sifati aʼlo. Yetkazib berish tez boʻldi.,Buxoro
+133,2026-01-09,Xamsa (tanlangan),she'riyat,4,Sifati aʼlo.,Buxoro
+134,2026-05-30,Мастер и Маргарита,roman,5,Sotuvchi juda xushmuomala.,Andijon
+135,2026-07-30,Kecha va kunduz,roman,3,Yomon emas. Yomon emas.,Buxoro
+136,2026-01-15,Ufq,roman,3,Oʻrtacha xizmat.,Toshkent
+137,2026-07-31,Boburnoma,tarix,5,Hammaga tavsiya qilaman.,Toshkent
+138,2026-08-30,Big Data: A Revolution,texnologiya,5,Muqovasi chiroyli. Hammaga tavsiya qilaman.,Samarqand
+139,2026-05-05,Mehrobdan chayon,roman,5,Narxi arzon va sifatli.,Samarqand
+140,2026-05-25,Automate the Boring Stuff with Python,texnologiya,4,Kitob juda qiziqarli ekan. Kitob juda qiziqarli ekan.,Buxoro
+141,2026-05-22,Sariq devni minib,bolalar,5,Yetkazib berish tez boʻldi. Muqovasi chiroyli.,Toshkent
+142,2026-07-26,Python Crash Course,texnologiya,5,Kitob juda qiziqarli ekan.,Andijon
+143,2026-02-03,Shum bola,qissa,3,Oʻrtacha xizmat. Yetkazib berish tez boʻldi.,Andijon
+144,2026-09-29,Boburnoma,tarix,2,Narxi juda qimmat. Qadoqlash yomon.,Samarqand
+145,2026-06-03,Dunyoning ishlari,qissa,4,Sifati aʼlo. Narxi arzon va sifatli.,Samarqand
+146,2026-08-21,Xamsa (tanlangan),she'riyat,5,Sotuvchi juda xushmuomala. Muqovasi chiroyli.,Toshkent
+147,2026-02-20,O'tkan kunlar,roman,1,Narxi juda qimmat.,Nukus
+148,2026-08-26,Мастер и Маргарита,roman,1,Kitob sahifalari yirtilgan ekan.,Samarqand
+149,2026-03-12,Мастер и Маргарита,roman,5,Ajoyib xizmat.,Andijon
+150,2026-03-23,Boburnoma,tarix,4,Narxi arzon va sifatli.,Buxoro
+151,2026-09-24,Speech and Language Processing,texnologiya,5,Sotuvchi juda xushmuomala. Kitob juda qiziqarli ekan.,Toshkent
+152,2026-03-19,O'tkan kunlar,roman,4,Ajoyib xizmat.,Andijon
+153,2026-05-13,Мастер и Маргарита,roman,4,Sotuvchi juda xushmuomala.,Andijon
+154,2026-04-26,Преступление и наказание,roman,2,Buyurtma notoʻgʻri keldi.,Toshkent
+155,2026-01-25,Ikki eshik orasi,roman,5,Kitob juda qiziqarli ekan. Yetkazib berish tez boʻldi.,Andijon
+156,2026-06-21,Ikki eshik orasi,roman,5,Hammaga tavsiya qilaman. Hammaga tavsiya qilaman.,Samarqand
+157,2026-10-07,Big Data: A Revolution,texnologiya,1,Narxi juda qimmat. Sifati yomon.,Samarqand
+158,2026-10-05,Ufq,roman,4,Sifati aʼlo. Muqovasi chiroyli.,Andijon
+159,2026-08-28,Ikki eshik orasi,roman,5,Sotuvchi juda xushmuomala. Kitob juda qiziqarli ekan.,Andijon
+160,2026-09-28,Мастер и Маргарита,roman,5,Sotuvchi juda xushmuomala.,Andijon
+161,2026-03-25,Python Crash Course,texnologiya,2,Qadoqlash yomon. Qadoqlash yomon.,Buxoro
+162,2026-03-10,Python Crash Course,texnologiya,5,Kitob juda qiziqarli ekan. Kitob juda qiziqarli ekan.,Andijon
+163,2026-06-15,Dunyoning ishlari,qissa,5,Sotuvchi juda xushmuomala.,Nukus
+164,2026-02-22,Kecha va kunduz,roman,4,Sotuvchi juda xushmuomala.,Toshkent
+165,2026-01-11,Ufq,roman,5,Sotuvchi juda xushmuomala. Kitob juda qiziqarli ekan.,Nukus
+166,2026-03-07,Xamsa (tanlangan),she'riyat,5,Narxi arzon va sifatli.,Toshkent
+167,2026-05-10,Mehrobdan chayon,roman,3,Oddiy kitob.,Toshkent
+168,2026-02-17,Big Data: A Revolution,texnologiya,5,Kitob juda qiziqarli ekan.,Samarqand
+169,2026-09-19,Python Crash Course,texnologiya,3,Oddiy kitob.,Nukus
+170,2026-05-14,Python Crash Course,texnologiya,5,Sotuvchi juda xushmuomala. Ajoyib xizmat.,Samarqand
+171,2026-10-17,Dunyoning ishlari,qissa,5,Kitob juda qiziqarli ekan.,Buxoro
+172,2026-06-16,Sariq devni minib,bolalar,5,Sotuvchi juda xushmuomala. Kitob juda qiziqarli ekan.,Toshkent
+173,2026-05-07,Sariq devni minib,bolalar,5,Narxi arzon va sifatli. Yetkazib berish tez boʻldi.,Samarqand
+174,2026-04-03,Ufq,roman,4,Narxi arzon va sifatli. Muqovasi chiroyli.,Nukus
+175,2026-02-12,Speech and Language Processing,texnologiya,4,Hammaga tavsiya qilaman. Ajoyib xizmat.,Samarqand
+176,2026-01-03,Boburnoma,tarix,5,Kitob juda qiziqarli ekan.,Andijon
+177,2026-06-18,Boburnoma,tarix,4,Yetkazib berish tez boʻldi. Sotuvchi juda xushmuomala.,Nukus
+178,2026-03-22,Automate the Boring Stuff with Python,texnologiya,4,Hammaga tavsiya qilaman. Narxi arzon va sifatli.,Toshkent
+179,2026-06-01,Ikki eshik orasi,roman,5,Hammaga tavsiya qilaman.,Andijon
+180,2026-04-24,Ufq,roman,4,Yetkazib berish tez boʻldi.,Samarqand

@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "title": "Python Crash Course",
+  "authors": [
+    {
+      "name": "Eric Matthes",
+      "country": "AQSh"
+    }
+  ],
+  "year": 2023,
+  "language": "en",
+  "genres": [
+    "texnologiya"
+  ],
+  "publisher": {
+    "name": "No Starch Press",
+    "city": "San Francisco"
+  },
+  "price": {
+    "amount": 185000,
+    "currency": "UZS"
+  },
+  "rating": 4.8,
+  "in_stock": false,
+  "isbn": "978-9943-36-532-5",
+  "reviews": [
+    {
+      "user": "user352",
+      "stars": 4,
+      "text": "Yaxshi, lekin qimmat"
+    }
+  ]
+}

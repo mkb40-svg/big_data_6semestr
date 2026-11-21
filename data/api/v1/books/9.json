@@ -1,0 +1,38 @@
+{
+  "id": 9,
+  "title": "Xamsa (tanlangan)",
+  "authors": [
+    {
+      "name": "Alisher Navoiy",
+      "country": "O'zbekiston"
+    }
+  ],
+  "year": 1485,
+  "language": "uz",
+  "genres": [
+    "she'riyat",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "Sharq",
+    "city": "Toshkent"
+  },
+  "price": {
+    "amount": 120000,
+    "currency": "UZS"
+  },
+  "rating": 4.4,
+  "in_stock": false,
+  "reviews": [
+    {
+      "user": "user280",
+      "stars": 4,
+      "text": "Qayta o'qishga arziydi"
+    },
+    {
+      "user": "user963",
+      "stars": 5,
+      "text": "Juda yoqdi!"
+    }
+  ]
+}

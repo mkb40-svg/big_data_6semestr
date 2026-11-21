@@ -1,0 +1,329 @@
+{
+  "generated": "2026-11-21",
+  "files": [
+    {
+      "path": "api/v1/authors.json",
+      "size": 1830
+    },
+    {
+      "path": "api/v1/books/1.json",
+      "size": 631
+    },
+    {
+      "path": "api/v1/books/10.json",
+      "size": 611
+    },
+    {
+      "path": "api/v1/books/11.json",
+      "size": 561
+    },
+    {
+      "path": "api/v1/books/12.json",
+      "size": 609
+    },
+    {
+      "path": "api/v1/books/13.json",
+      "size": 532
+    },
+    {
+      "path": "api/v1/books/14.json",
+      "size": 581
+    },
+    {
+      "path": "api/v1/books/15.json",
+      "size": 688
+    },
+    {
+      "path": "api/v1/books/16.json",
+      "size": 678
+    },
+    {
+      "path": "api/v1/books/2.json",
+      "size": 541
+    },
+    {
+      "path": "api/v1/books/3.json",
+      "size": 626
+    },
+    {
+      "path": "api/v1/books/4.json",
+      "size": 551
+    },
+    {
+      "path": "api/v1/books/5.json",
+      "size": 710
+    },
+    {
+      "path": "api/v1/books/6.json",
+      "size": 520
+    },
+    {
+      "path": "api/v1/books/7.json",
+      "size": 457
+    },
+    {
+      "path": "api/v1/books/8.json",
+      "size": 538
+    },
+    {
+      "path": "api/v1/books/9.json",
+      "size": 592
+    },
+    {
+      "path": "api/v1/books/page-1.json",
+      "size": 2789
+    },
+    {
+      "path": "api/v1/books/page-2.json",
+      "size": 2744
+    },
+    {
+      "path": "api/v1/books/page-3.json",
+      "size": 3012
+    },
+    {
+      "path": "api/v1/books/page-4.json",
+      "size": 715
+    },
+    {
+      "path": "api/v1/index.json",
+      "size": 288
+    },
+    {
+      "path": "api/v1/weather/bukhara.json",
+      "size": 5013
+    },
+    {
+      "path": "api/v1/weather/nukus.json",
+      "size": 5004
+    },
+    {
+      "path": "api/v1/weather/samarkand.json",
+      "size": 5015
+    },
+    {
+      "path": "api/v1/weather/tashkent.json",
+      "size": 5017
+    },
+    {
+      "path": "books.json",
+      "size": 10611
+    },
+    {
+      "path": "corpus_cyr/kitob_bilim_manbai.txt",
+      "size": 598
+    },
+    {
+      "path": "corpus_cyr/ozbek_tili_raqamli.txt",
+      "size": 909
+    },
+    {
+      "path": "corpus_uz/meta.csv",
+      "size": 2266
+    },
+    {
+      "path": "corpus_uz/uz_01.txt",
+      "size": 1028
+    },
+    {
+      "path": "corpus_uz/uz_02.txt",
+      "size": 1124
+    },
+    {
+      "path": "corpus_uz/uz_03.txt",
+      "size": 889
+    },
+    {
+      "path": "corpus_uz/uz_04.txt",
+      "size": 912
+    },
+    {
+      "path": "corpus_uz/uz_05.txt",
+      "size": 843
+    },
+    {
+      "path": "corpus_uz/uz_06.txt",
+      "size": 949
+    },
+    {
+      "path": "corpus_uz/uz_07.txt",
+      "size": 896
+    },
+    {
+      "path": "corpus_uz/uz_08.txt",
+      "size": 871
+    },
+    {
+      "path": "corpus_uz/uz_09.txt",
+      "size": 794
+    },
+    {
+      "path": "corpus_uz/uz_10.txt",
+      "size": 805
+    },
+    {
+      "path": "corpus_uz/uz_11.txt",
+      "size": 781
+    },
+    {
+      "path": "corpus_uz/uz_12.txt",
+      "size": 841
+    },
+    {
+      "path": "corpus_uz/uz_13.txt",
+      "size": 772
+    },
+    {
+      "path": "corpus_uz/uz_14.txt",
+      "size": 992
+    },
+    {
+      "path": "corpus_uz/uz_15.txt",
+      "size": 816
+    },
+    {
+      "path": "corpus_uz/uz_16.txt",
+      "size": 812
+    },
+    {
+      "path": "datasets_catalog.csv",
+      "size": 1444
+    },
+    {
+      "path": "library.xml",
+      "size": 3804
+    },
+    {
+      "path": "mongo/articles.json",
+      "size": 21209
+    },
+    {
+      "path": "mongo/students.json",
+      "size": 15414
+    },
+    {
+      "path": "news_raw.csv",
+      "size": 24029
+    },
+    {
+      "path": "reviews_uz.csv",
+      "size": 15842
+    },
+    {
+      "path": "sales.xlsx",
+      "size": 32933
+    },
+    {
+      "path": "site/about.html",
+      "size": 670
+    },
+    {
+      "path": "site/article/bahorgi-ob-havo.html",
+      "size": 1931
+    },
+    {
+      "path": "site/article/buxoro-xiva-turistlar.html",
+      "size": 1950
+    },
+    {
+      "path": "site/article/navoiy-merosi-kitobxonlik.html",
+      "size": 2046
+    },
+    {
+      "path": "site/article/navroz-bayrami.html",
+      "size": 2047
+    },
+    {
+      "path": "site/article/onlayn-tolovlar.html",
+      "size": 2014
+    },
+    {
+      "path": "site/article/orol-dengizi-muammosi.html",
+      "size": 2049
+    },
+    {
+      "path": "site/article/ozbek-tili-uchun-til-modellari.html",
+      "size": 2130
+    },
+    {
+      "path": "site/article/qishloq-xojaligida-dronlar.html",
+      "size": 1910
+    },
+    {
+      "path": "site/article/samarqand-sharqning-durdonasi.html",
+      "size": 2013
+    },
+    {
+      "path": "site/article/suniy-intellekt-talimda.html",
+      "size": 2248
+    },
+    {
+      "path": "site/article/terma-jamoa-galaba.html",
+      "size": 2006
+    },
+    {
+      "path": "site/article/tibbiyotda-katta-malumotlar.html",
+      "size": 1915
+    },
+    {
+      "path": "site/article/toshkent-metrosi-yangi-bekatlar.html",
+      "size": 1946
+    },
+    {
+      "path": "site/article/toshkentda-yangi-it-park.html",
+      "size": 2167
+    },
+    {
+      "path": "site/article/yangi-stipendiya-dasturi.html",
+      "size": 1908
+    },
+    {
+      "path": "site/article/yoshlar-va-ijtimoiy-tarmoqlar.html",
+      "size": 1913
+    },
+    {
+      "path": "site/index.html",
+      "size": 3336
+    },
+    {
+      "path": "site/page-2.html",
+      "size": 3321
+    },
+    {
+      "path": "site/page-3.html",
+      "size": 2346
+    },
+    {
+      "path": "site/robots.txt",
+      "size": 38
+    },
+    {
+      "path": "site/style.css",
+      "size": 708
+    },
+    {
+      "path": "spark/sales_events.csv",
+      "size": 197931
+    },
+    {
+      "path": "spark/students.jsonl",
+      "size": 2842
+    },
+    {
+      "path": "stopwords_uz.txt",
+      "size": 619
+    },
+    {
+      "path": "students.csv",
+      "size": 16222
+    },
+    {
+      "path": "students_dirty.csv",
+      "size": 18881
+    },
+    {
+      "path": "tweets_stream.csv",
+      "size": 184092
+    }
+  ]
+}

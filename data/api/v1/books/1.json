@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "title": "O'tkan kunlar",
+  "authors": [
+    {
+      "name": "Abdulla Qodiriy",
+      "country": "O'zbekiston"
+    }
+  ],
+  "year": 1926,
+  "language": "uz",
+  "genres": [
+    "roman",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "G'afur G'ulom nashriyoti",
+    "city": "Toshkent"
+  },
+  "price": {
+    "amount": 65000,
+    "currency": "UZS"
+  },
+  "rating": 4.7,
+  "in_stock": true,
+  "isbn": "978-9943-71-415-9",
+  "reviews": [
+    {
+      "user": "user120",
+      "stars": 5,
+      "text": "Juda yoqdi!"
+    },
+    {
+      "user": "user929",
+      "stars": 5,
+      "text": "Yaxshi, lekin qimmat"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "page": 4,
+  "per_page": 5,
+  "total": 16,
+  "total_pages": 4,
+  "next": null,
+  "results": [
+    {
+      "id": 16,
+      "title": "Big Data: A Revolution",
+      "authors": [
+        {
+          "name": "Mayer-Schonberger",
+          "country": "AQSh"
+        },
+        {
+          "name": "Cukier",
+          "country": "AQSh"
+        }
+      ],
+      "year": 2013,
+      "language": "en",
+      "genres": [
+        "texnologiya"
+      ],
+      "publisher": {
+        "name": "No Starch Press",
+        "city": "San Francisco"
+      },
+      "price": {
+        "amount": 150000,
+        "currency": "UZS"
+      },
+      "rating": 4.0,
+      "in_stock": true,
+      "translator": "Mirzo Kenjabek"
+    }
+  ]
+}

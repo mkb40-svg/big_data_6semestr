@@ -1,0 +1,34 @@
+{
+  "id": 14,
+  "title": "Automate the Boring Stuff with Python",
+  "authors": [
+    {
+      "name": "Al Sweigart",
+      "country": "AQSh"
+    }
+  ],
+  "year": 2025,
+  "language": "en",
+  "genres": [
+    "texnologiya"
+  ],
+  "publisher": {
+    "name": "No Starch Press",
+    "city": "San Francisco"
+  },
+  "price": {
+    "amount": 175000,
+    "currency": "UZS"
+  },
+  "rating": 3.9,
+  "in_stock": true,
+  "isbn": "978-9943-23-200-1",
+  "translator": "Vafo Fayzulloh",
+  "reviews": [
+    {
+      "user": "user98",
+      "stars": 3,
+      "text": "Yaxshi, lekin qimmat"
+    }
+  ]
+}

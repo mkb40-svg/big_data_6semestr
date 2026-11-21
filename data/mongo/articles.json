@@ -1,0 +1,404 @@
+[
+  {
+    "article_id": 1,
+    "title": "Toshkentda yangi IT-park ochildi",
+    "category": "texnologiya",
+    "date": "2026-01-14",
+    "author": "Dilnoza Karimova",
+    "tags": [
+      "IT",
+      "startap",
+      "Toshkent"
+    ],
+    "views": 5339,
+    "likes": 578,
+    "comments": [
+      {
+        "user": "user_275",
+        "text": "Qoʻshilaman"
+      },
+      {
+        "user": "user_175",
+        "text": "Ajoyib!"
+      }
+    ],
+    "words": 114,
+    "text": "Toshkent shahrida yangi IT-park binosi foydalanishga topshirildi. Bino zamonaviy texnologiyalar bilan jihozlangan boʻlib, unda yuzdan ortiq startap loyiha uchun ish joylari tashkil etilgan. Ochilish marosimida yosh dasturchilar, tadbirkorlar va xorijiy mehmonlar ishtirok etdi. IT-park rezidentlari soliq imtiyozlaridan foydalanadi. Bu esa kompaniyalarga dasturiy mahsulotlarni xorijga eksport qilish imkonini beradi. Mutaxassislarning fikricha, soʻnggi yillarda Oʻzbekistonda axborot texnologiyalari sohasi tez surʼatlar bilan rivojlanmoqda. Yangi binoda sunʼiy intellekt, katta maʼlumotlar va kiberxavfsizlik boʻyicha laboratoriyalar ham bor. Talabalar bu laboratoriyalarda amaliyot oʻtashlari mumkin. Har oyda bepul oʻquv kurslari va xakatonlar oʻtkazilishi rejalashtirilgan. \"Bizning maqsadimiz yoshlarni zamonaviy kasblarga oʻrgatish va ularning gʻoyalarini qoʻllab-quvvatlash\", dedi IT-park direktori. Uning soʻzlariga koʻra, kelgusi yilda viloyatlarda ham shunday markazlar ochiladi."
+  },
+  {
+    "article_id": 2,
+    "title": "Sunʼiy intellekt taʼlimda: imkoniyatlar va xavflar",
+    "category": "taʼlim",
+    "date": "2026-01-22",
+    "author": "Bobur Rahimov",
+    "tags": [
+      "sunʼiy intellekt",
+      "taʼlim"
+    ],
+    "views": 846,
+    "likes": 304,
+    "comments": [],
+    "words": 116,
+    "text": "Sunʼiy intellekt texnologiyalari taʼlim tizimiga tobora chuqurroq kirib bormoqda. Bugungi kunda talabalar maʼlumot qidirish, matn tarjima qilish va dastur kodi yozish uchun til modellaridan foydalanmoqda. Oʻqituvchilar bu jarayonga turlicha munosabatda. Ayrimlar sunʼiy intellektni foydali yordamchi deb hisoblaydi. Boshqalar esa talabalar mustaqil fikrlashni unutib qoʻyishidan xavotirda. Mutaxassislar sunʼiy intellektdan toʻgʻri foydalanishni oʻrgatish muhim ekanini taʼkidlaydi. Masalan, til modeli bergan javobni tekshirish, manbalarni solishtirish va xulosani oʻzi chiqarish talabaning asosiy vazifasi boʻlib qolishi kerak. Universitetlarda sunʼiy intellekt boʻyicha yangi fanlar joriy etilmoqda. Kompyuter lingvistikasi yoʻnalishida oʻqiyotgan talabalar oʻzbek tilidagi matnlarni avtomatik tahlil qilishni oʻrganmoqda. Bu esa oʻzbek tili uchun yangi raqamli resurslar yaratishga yordam beradi. Xulosa qilib aytganda, sunʼiy intellekt taʼlimning dushmani emas, balki toʻgʻri qoʻllanilganda kuchli vositadir."
+  },
+  {
+    "article_id": 3,
+    "title": "Samarqand - Sharqning durdonasi",
+    "category": "turizm",
+    "date": "2026-02-03",
+    "author": "Sardor Yusupov",
+    "tags": [
+      "Samarqand",
+      "tarix",
+      "turizm"
+    ],
+    "views": 18438,
+    "likes": 73,
+    "comments": [
+      {
+        "user": "user_159",
+        "text": "Qoʻshilaman"
+      },
+      {
+        "user": "user_234",
+        "text": "Qoʻshilaman"
+      }
+    ],
+    "words": 107,
+    "text": "Samarqand dunyodagi eng qadimiy shaharlardan biri hisoblanadi. Uning tarixi ikki ming yetti yuz yildan ortiqroq davrni oʻz ichiga oladi. Buyuk Ipak yoʻli ustida joylashgan bu shahar asrlar davomida savdo va madaniyat markazi boʻlgan. Registon maydoni Samarqandning ramzi hisoblanadi. Maydonda uchta madrasa joylashgan: Ulugʻbek madrasasi, Sherdor madrasasi va Tillakori madrasasi. Har yili minglab sayyohlar bu meʼmoriy obidalarni koʻrish uchun keladi. Shahardagi Ulugʻbek rasadxonasi ham mashhur. Mirzo Ulugʻbek oʻz davrining buyuk olimi boʻlib, yulduzlar jadvalini tuzgan. Uning ilmiy merosi bugun ham olimlar tomonidan oʻrganilmoqda. Soʻnggi yillarda Samarqandda turizm infratuzilmasi yaxshilandi. Yangi mehmonxonalar qurildi, tezyurar poyezd qatnovi yoʻlga qoʻyildi. Endi Toshkentdan Samarqandga ikki soatdan sal koʻproq vaqtda yetib borish mumkin."
+  },
+  {
+    "article_id": 4,
+    "title": "Navroʻz bayrami: anʼanalar va zamonaviylik",
+    "category": "madaniyat",
+    "date": "2026-03-20",
+    "author": "Madina Sobirova",
+    "tags": [
+      "Navroʻz",
+      "bayram",
+      "anʼana"
+    ],
+    "views": 17907,
+    "likes": 844,
+    "comments": [
+      {
+        "user": "user_226",
+        "text": "Batafsilroq yozing"
+      }
+    ],
+    "words": 106,
+    "text": "Navroʻz bahor va yangilanish bayramidir. U har yili yigirma birinchi martda keng nishonlanadi. Bu kunda kecha va kunduz tenglashadi, tabiat uygʻonadi. Navroʻzning eng mashhur taomi sumalakdir. Sumalak bugʻdoy maysasidan tayyorlanadi va uni pishirish uchun butun kecha qozon atrofida navbatma-navbat kavlab turiladi. Ayollar bu vaqtda qoʻshiqlar aytib, bir-birlariga ezgu tilaklar bildiradi. Bayram kunlari mahallalarda sayillar oʻtkaziladi. Kurash, koʻpkari va boshqa milliy oʻyinlar tashkil etiladi. Bolalar uchun konsertlar va koʻngilochar dasturlar tayyorlanadi. Bugun Navroʻz anʼanalari yangi shakllarda davom etmoqda. Yoshlar bayram tabriklarini ijtimoiy tarmoqlarda baham koʻrmoqda, sumalak pishirish jarayoni esa jonli efirda koʻrsatilmoqda. Shunday boʻlsa-da, bayramning asl maʼnosi, yaʼni mehr-oqibat va tinchlik, oʻzgarmasdan qolmoqda."
+  },
+  {
+    "article_id": 5,
+    "title": "Oʻzbekiston futbol terma jamoasi gʻalaba qozondi",
+    "category": "sport",
+    "date": "2026-03-27",
+    "author": "Jasur Ergashev",
+    "tags": [
+      "futbol",
+      "terma jamoa"
+    ],
+    "views": 6054,
+    "likes": 733,
+    "comments": [
+      {
+        "user": "user_151",
+        "text": "Batafsilroq yozing"
+      },
+      {
+        "user": "user_75",
+        "text": "Ajoyib!"
+      },
+      {
+        "user": "user_296",
+        "text": "Ajoyib!"
+      },
+      {
+        "user": "user_270",
+        "text": "Rahmat, foydali maʼlumot"
+      }
+    ],
+    "words": 97,
+    "text": "Oʻzbekiston milliy futbol terma jamoasi navbatdagi saralash oʻyinida ishonchli gʻalabaga erishdi. Toshkentdagi \"Milliy\" stadionida oʻtgan uchrashuv ikki-nol hisobida yakunlandi. Birinchi gol oʻyinning oʻn beshinchi daqiqasida urildi. Yarim himoyachi jarima maydoni tashqarisidan kuchli zarba berib, darvozabonni magʻlub etdi. Ikkinchi toʻp esa ikkinchi boʻlimda burchak toʻpi oshirilgandan soʻng kiritildi. Stadionga oʻttiz besh mingdan ortiq muxlis tashrif buyurdi. Ular butun oʻyin davomida jamoani qoʻllab-quvvatlab turdi. Bosh murabbiy oʻyindan soʻng futbolchilarning intizomi va jamoaviy harakatini yuqori baholadi. Ushbu gʻalabadan soʻng terma jamoa guruhda birinchi oʻrinni egalladi. Keyingi oʻyin bir oydan keyin xorijda boʻlib oʻtadi. Muxlislar jamoadan yangi gʻalabalar kutmoqda."
+  },
+  {
+    "article_id": 6,
+    "title": "Orol dengizi muammosi va yechimlari",
+    "category": "ekologiya",
+    "date": "2026-04-08",
+    "author": "Nilufar Qodirova",
+    "tags": [
+      "Orol",
+      "ekologiya",
+      "suv"
+    ],
+    "views": 23659,
+    "likes": 832,
+    "comments": [
+      {
+        "user": "user_119",
+        "text": "Rahmat, foydali maʼlumot"
+      }
+    ],
+    "words": 107,
+    "text": "Orol dengizining qurishi yigirmanchi asrning eng katta ekologik fojialaridan biri hisoblanadi. Bir vaqtlar dunyodagi eng yirik koʻllardan biri boʻlgan dengiz maydoni bugun bir necha barobar qisqargan. Muammoning asosiy sababi Amudaryo va Sirdaryo suvlarining paxta dalalarini sugʻorish uchun haddan tashqari koʻp ishlatilganidir. Natijada dengiz tubi qurib, tuzli choʻl paydo boʻldi. Shamol tuz va changni uzoq masofalarga olib ketmoqda. Hozirgi kunda Orolboʻyi hududida katta koʻkalamzorlashtirish ishlari olib borilmoqda. Qurigan dengiz tubiga saksovul va boshqa choʻlga chidamli oʻsimliklar ekilmoqda. Bu oʻrmonlar tuz va chang koʻtarilishini kamaytiradi. Olimlar sunʼiy yoʻldosh suratlari va sensorlardan olingan katta maʼlumotlarni tahlil qilib, hududdagi oʻzgarishlarni kuzatib bormoqda. Bunday maʼlumotlar ekologik qarorlarni toʻgʻri qabul qilishga yordam beradi."
+  },
+  {
+    "article_id": 7,
+    "title": "Alisher Navoiy merosi va zamonaviy kitobxonlik",
+    "category": "adabiyot",
+    "date": "2026-02-09",
+    "author": "Gulnora Ismoilova",
+    "tags": [
+      "Navoiy",
+      "kitob",
+      "adabiyot"
+    ],
+    "views": 13502,
+    "likes": 311,
+    "comments": [
+      {
+        "user": "user_8",
+        "text": "Batafsilroq yozing"
+      },
+      {
+        "user": "user_13",
+        "text": "Qoʻshilaman"
+      },
+      {
+        "user": "user_68",
+        "text": "Rahmat, foydali maʼlumot"
+      }
+    ],
+    "words": 96,
+    "text": "Alisher Navoiy oʻzbek adabiyotining asoschisi va buyuk mutafakkiri hisoblanadi. U turkiy tilda koʻplab dostonlar va gʻazallar yaratgan. \"Xamsa\" asari jahon adabiyotining nodir durdonalaridan biridir. Navoiy \"Muhokamat ul-lugʻatayn\" asarida turkiy tilning boyligini isbotlab bergan. Olimlarning fikricha, bu asarni tilshunoslik sohasidagi dastlabki qiyosiy tadqiqotlardan biri deb hisoblash mumkin. Bugungi kunda Navoiy asarlari raqamli kutubxonalarga joylashtirilmoqda. Elektron matnlar tadqiqotchilarga soʻzlarning qoʻllanish chastotasini hisoblash va mumtoz til lugʻatini tuzish imkonini beradi. Kitobxonlikni rivojlantirish maqsadida maktab va universitetlarda tanlovlar oʻtkazilmoqda. Yoshlar orasida audiokitoblar va elektron kitoblarga qiziqish ortib bormoqda. Mutaxassislar har bir yosh oyiga kamida bitta kitob oʻqishini tavsiya qiladi."
+  },
+  {
+    "article_id": 8,
+    "title": "Raqamli iqtisodiyot: onlayn toʻlovlar ommalashmoqda",
+    "category": "iqtisodiyot",
+    "date": "2026-04-15",
+    "author": "Otabek Nazarov",
+    "tags": [
+      "toʻlov",
+      "bank",
+      "raqamli iqtisodiyot"
+    ],
+    "views": 16298,
+    "likes": 280,
+    "comments": [
+      {
+        "user": "user_110",
+        "text": "Rahmat, foydali maʼlumot"
+      },
+      {
+        "user": "user_297",
+        "text": "Zoʻr maqola!"
+      },
+      {
+        "user": "user_285",
+        "text": "Ajoyib!"
+      },
+      {
+        "user": "user_132",
+        "text": "Zoʻr maqola!"
+      }
+    ],
+    "words": 98,
+    "text": "Oʻzbekistonda onlayn toʻlovlar soni yildan yilga oshib bormoqda. Aholi kommunal xizmatlar, internet va mobil aloqa uchun toʻlovlarni telefon orqali amalga oshirmoqda. Banklar yangi mobil ilovalarni ishga tushirmoqda. Ushbu ilovalar yordamida bir necha soniya ichida pul oʻtkazish, kredit toʻlash va omonat ochish mumkin. Naqd pulsiz hisob-kitoblar ayniqsa yoshlar orasida mashhur. Iqtisodchilarning fikricha, raqamli toʻlovlar biznes uchun ham qulay. Tadbirkorlar savdo hajmini real vaqt rejimida kuzatadi va xaridorlar xatti-harakatini tahlil qiladi. Har kuni millionlab tranzaksiyalar haqidagi maʼlumotlar yigʻiladi. Shu bilan birga, kiberxavfsizlik masalasi dolzarb boʻlib qolmoqda. Mutaxassislar foydalanuvchilarga parollarini hech kimga aytmaslik va shubhali havolalarni ochmaslikni maslahat beradi."
+  },
+  {
+    "article_id": 9,
+    "title": "Bahorgi ob-havo: yomgʻirli kunlar kutilmoqda",
+    "category": "ob-havo",
+    "date": "2026-04-02",
+    "author": "Zarina Murodova",
+    "tags": [
+      "ob-havo",
+      "yomgʻir"
+    ],
+    "views": 17137,
+    "likes": 558,
+    "comments": [],
+    "words": 85,
+    "text": "Gidrometeorologiya xizmati markazining maʼlumotiga koʻra, kelgusi hafta respublikaning aksariyat hududlarida yomgʻirli kunlar kutilmoqda. Ayrim togʻli hududlarda doʻl yogʻishi ham mumkin. Toshkentda kunduzi havo harorati oʻn sakkiz, yigirma darajagacha iliq boʻladi. Kechasi esa harorat sakkiz, oʻn darajagacha pasayadi. Samarqand va Buxoroda havo biroz issiqroq boʻlishi kutilmoqda. Sinoptiklar haydovchilarni yoʻllarda ehtiyot boʻlishga chaqirmoqda. Kuchli shamol paytida daraxtlar tagida va reklama taxtalari yonida turmaslik tavsiya etiladi. Ob-havo maʼlumotlari endilikda avtomatik meteostansiyalardan har oʻn daqiqada yigʻilmoqda. Bu maʼlumotlar katta hajmdagi maʼlumotlar bazasida saqlanadi va prognoz aniqligini oshirishda qoʻllaniladi."
+  },
+  {
+    "article_id": 10,
+    "title": "Qishloq xoʻjaligida dron va sensorlar",
+    "category": "texnologiya",
+    "date": "2026-05-06",
+    "author": "Rustam Toshmatov",
+    "tags": [
+      "dron",
+      "sensor",
+      "fermer"
+    ],
+    "views": 3878,
+    "likes": 712,
+    "comments": [
+      {
+        "user": "user_114",
+        "text": "Batafsilroq yozing"
+      },
+      {
+        "user": "user_220",
+        "text": "Ajoyib!"
+      },
+      {
+        "user": "user_95",
+        "text": "Qoʻshilaman"
+      }
+    ],
+    "words": 85,
+    "text": "Fermerlar ekin maydonlarini kuzatish uchun dronlardan tobora koʻproq foydalanmoqda. Dronlar dalalarni havodan suratga olib, oʻsimliklarning holatini aniqlashga yordam beradi. Tuproqqa oʻrnatilgan sensorlar namlik, harorat va oʻgʻit miqdori haqida doimiy maʼlumot yuboradi. Bu maʼlumotlar asosida sugʻorish vaqti va suv miqdori aniqlanadi. Natijada suv tejaladi, hosildorlik esa oshadi. Fargʻona vodiysidagi bir fermer xoʻjaligi tomchilatib sugʻorish va aqlli sensorlar tizimini joriy etdi. Xoʻjalik rahbarining aytishicha, suv sarfi qariyb qirq foizga kamaygan. Mutaxassislar bunday texnologiyalar kichik fermerlar uchun ham arzonlashishi kerakligini taʼkidlaydi. Davlat dasturi doirasida fermerlarga imtiyozli kreditlar ajratilmoqda."
+  },
+  {
+    "article_id": 11,
+    "title": "Talabalar uchun yangi stipendiya dasturi",
+    "category": "taʼlim",
+    "date": "2026-05-19",
+    "author": "Kamola Hasanova",
+    "tags": [
+      "stipendiya",
+      "talaba"
+    ],
+    "views": 9481,
+    "likes": 331,
+    "comments": [
+      {
+        "user": "user_227",
+        "text": "Zoʻr maqola!"
+      }
+    ],
+    "words": 87,
+    "text": "Oliy taʼlim vazirligi iqtidorli talabalar uchun yangi stipendiya dasturini eʼlon qildi. Dastur doirasida aʼlo baholarga oʻqiyotgan va ilmiy faoliyat bilan shugʻullanayotgan talabalar qoʻshimcha moddiy yordam oladi. Stipendiyaga daʼvogarlar onlayn ariza topshiradi. Arizada talabaning reytingi, ilmiy maqolalari va ijtimoiy faolligi haqida maʼlumot koʻrsatiladi. Tanlov natijalari ochiq eʼlon qilinadi. Shuningdek, xorijiy universitetlarda qisqa muddatli malaka oshirish imkoniyati ham yaratiladi. Eng faol talabalar yozgi maktablarda qatnashib, xalqaro loyihalarda tajriba orttiradi. Talabalar yangi dasturni mamnuniyat bilan kutib oldi. \"Bu bizni yaxshiroq oʻqishga va ilm bilan shugʻullanishga undaydi\", deydi uchinchi kurs talabasi."
+  },
+  {
+    "article_id": 12,
+    "title": "Buxoro va Xivada turistlar soni oshdi",
+    "category": "turizm",
+    "date": "2026-06-11",
+    "author": "Sardor Yusupov",
+    "tags": [
+      "Buxoro",
+      "Xiva",
+      "turizm"
+    ],
+    "views": 14199,
+    "likes": 380,
+    "comments": [
+      {
+        "user": "user_87",
+        "text": "Rahmat, foydali maʼlumot"
+      },
+      {
+        "user": "user_131",
+        "text": "Rahmat, foydali maʼlumot"
+      },
+      {
+        "user": "user_171",
+        "text": "Qoʻshilaman"
+      }
+    ],
+    "words": 93,
+    "text": "Joriy yilning birinchi yarmida Buxoro va Xivaga tashrif buyurgan xorijiy sayyohlar soni oʻtgan yilga nisbatan sezilarli darajada oshdi. Turizm qoʻmitasi bu haqda statistik maʼlumotlarni eʼlon qildi. Buxoroning tarixiy markazi va Xivaning Ichan qalʼa majmuasi YuNESKO Butunjahon merosi roʻyxatiga kiritilgan. Sayyohlar bu yerda qadimiy minoralar, masjidlar va karvonsaroylarni tomosha qiladi. Mehmonxonalarning band boʻlish darajasi yuqoriligicha qolmoqda. Koʻplab oilaviy mehmon uylari ochildi. Hunarmandlar esa sayyohlarga kulolchilik, zardoʻzlik va gilam toʻqish boʻyicha mahorat darslarini oʻtkazmoqda. Turizm mutaxassislari sayyohlarning fikr-mulohazalarini ijtimoiy tarmoqlar va bron qilish saytlaridan yigʻib tahlil qilmoqda. Bu tahlil xizmat sifatini yaxshilashga yordam beradi."
+  },
+  {
+    "article_id": 13,
+    "title": "Tibbiyotda katta maʼlumotlar: shifoxonalar raqamlashtirilmoqda",
+    "category": "tibbiyot",
+    "date": "2026-06-24",
+    "author": "Nodira Aliyeva",
+    "tags": [
+      "tibbiyot",
+      "katta maʼlumotlar"
+    ],
+    "views": 1637,
+    "likes": 829,
+    "comments": [
+      {
+        "user": "user_236",
+        "text": "Batafsilroq yozing"
+      },
+      {
+        "user": "user_148",
+        "text": "Batafsilroq yozing"
+      }
+    ],
+    "words": 83,
+    "text": "Respublika shifoxonalarida elektron tibbiy karta tizimi joriy etilmoqda. Endi bemorning kasallik tarixi, tahlil natijalari va retseptlari yagona raqamli bazada saqlanadi. Shifokorlar bemor haqidagi maʼlumotlarni bir necha soniyada topishi mumkin. Bu tashxis qoʻyish vaqtini qisqartiradi va xatolar ehtimolini kamaytiradi. Katta hajmdagi tibbiy maʼlumotlarni tahlil qilish kasalliklarning tarqalishini oldindan bashorat qilishga imkon beradi. Masalan, gripp mavsumida qaysi hududlarda bemorlar soni ortishini aniqlash mumkin. Shu bilan birga, shaxsiy maʼlumotlarni himoya qilish eng muhim talablardan biri boʻlib qolmoqda. Bemorlarning maʼlumotlari faqat ruxsat etilgan shifokorlarga ochiq boʻlishi kerak."
+  },
+  {
+    "article_id": 14,
+    "title": "Kompyuter lingvistikasi: oʻzbek tili uchun til modellari",
+    "category": "fan",
+    "date": "2026-07-07",
+    "author": "Dilnoza Karimova",
+    "tags": [
+      "lingvistika",
+      "til modeli",
+      "korpus"
+    ],
+    "views": 528,
+    "likes": 159,
+    "comments": [
+      {
+        "user": "user_277",
+        "text": "Zoʻr maqola!"
+      },
+      {
+        "user": "user_37",
+        "text": "Zoʻr maqola!"
+      },
+      {
+        "user": "user_262",
+        "text": "Ajoyib!"
+      },
+      {
+        "user": "user_109",
+        "text": "Rahmat, foydali maʼlumot"
+      }
+    ],
+    "words": 103,
+    "text": "Kompyuter lingvistikasi tilshunoslik va informatika chegarasida joylashgan zamonaviy fan sohasidir. U matnlarni avtomatik tahlil qilish, tarjima qilish va nutqni tanib olish bilan shugʻullanadi. Oʻzbek tili uchun til modellarini yaratishda eng katta muammo katta hajmdagi sifatli matnlar korpusining yetishmasligidir. Bundan tashqari, oʻzbek tilida lotin va kirill yozuvlari parallel ishlatiladi. Apostrof belgilarining turlicha yozilishi ham matnlarni qayta ishlashni qiyinlashtiradi. Tadqiqotchilar yangiliklar saytlari, kitoblar va ijtimoiy tarmoqlardagi matnlardan katta korpuslar yigʻmoqda. Matnlar tozalanadi, normallashtiriladi va tokenlarga ajratiladi. Oʻzbek tili agglyutinativ til boʻlgani uchun bitta soʻzga bir nechta qoʻshimcha qoʻshilishi mumkin. Masalan, \"kitoblarimizdan\" soʻzida oʻzakka uchta qoʻshimcha qoʻshilgan. Shuning uchun morfologik tahlil oʻzbek tili uchun ayniqsa muhimdir."
+  },
+  {
+    "article_id": 15,
+    "title": "Toshkent metrosi: yangi bekatlar foydalanishga topshirildi",
+    "category": "jamiyat",
+    "date": "2026-08-18",
+    "author": "Bobur Rahimov",
+    "tags": [
+      "metro",
+      "Toshkent"
+    ],
+    "views": 734,
+    "likes": 122,
+    "comments": [],
+    "words": 85,
+    "text": "Toshkent metropolitenining yer usti halqa yoʻlida yangi bekatlar ochildi. Endi poytaxtning chekka mahallalarida yashovchilar shahar markaziga tezroq yetib borishi mumkin. Yangi bekatlar zamonaviy dizayn asosida qurilgan. Ularda liftlar, eskalatorlar va nogironligi boʻlgan shaxslar uchun qulayliklar mavjud. Yoʻlovchilar yoʻl haqini transport kartasi yoki QR-kod orqali toʻlashi mumkin. Metropoliten maʼlumotlariga koʻra, har kuni bir milliondan ortiq yoʻlovchi metrodan foydalanadi. Turniketlardan olinadigan maʼlumotlar yoʻlovchilar oqimini tahlil qilish va poyezdlar qatnovini rejalashtirish uchun ishlatiladi. Kelgusi yillarda metro tarmogʻini yanada kengaytirish rejalashtirilgan. Bu shahar koʻchalaridagi tirbandlikni kamaytirishga xizmat qiladi."
+  },
+  {
+    "article_id": 16,
+    "title": "Yoshlar va ijtimoiy tarmoqlar",
+    "category": "jamiyat",
+    "date": "2026-09-01",
+    "author": "Madina Sobirova",
+    "tags": [
+      "ijtimoiy tarmoqlar",
+      "yoshlar"
+    ],
+    "views": 5533,
+    "likes": 835,
+    "comments": [
+      {
+        "user": "user_188",
+        "text": "Zoʻr maqola!"
+      }
+    ],
+    "words": 89,
+    "text": "Bugungi yoshlar kunining katta qismini ijtimoiy tarmoqlarda oʻtkazmoqda. Telegram, Instagram va YouTube Oʻzbekistonda eng mashhur platformalar hisoblanadi. Ijtimoiy tarmoqlar yangi doʻstlar orttirish, bilim olish va oʻz ijodini namoyish qilish uchun qulay maydondir. Koʻplab yoshlar bloger sifatida faoliyat yuritib, taʼlimiy kontent yaratmoqda. Biroq psixologlar ekran oldida haddan tashqari koʻp vaqt oʻtkazish salbiy oqibatlarga olib kelishi mumkinligini ogohlantirmoqda. Uyqusizlik, diqqatning tarqoqligi va jismoniy faollikning kamayishi shular jumlasidandir. Ijtimoiy tarmoqlarda har daqiqada millionlab xabarlar, rasmlar va videolar paydo boʻladi. Bu katta maʼlumotlar tadqiqotchilar uchun jamiyatdagi kayfiyat va dolzarb mavzularni oʻrganish imkonini beradi."
+  }
+]

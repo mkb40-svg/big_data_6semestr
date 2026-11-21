@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Самопроверка заданий — Big Data тренажёр</title>
+  <style>
+    body { font: 14px/1.45 system-ui, Segoe UI, Arial, sans-serif; margin: 20px; background: #fff; color: #1d2433; }
+    table { border-collapse: collapse; width: 100%; }
+    td, th { border: 1px solid #d5dae3; padding: 4px 8px; vertical-align: top; text-align: left; }
+    tr.ok td:nth-child(4) { color: #1a7f4b; font-weight: 700; }
+    tr.bad { background: #fdeceb; }
+    tr.bad td:nth-child(4) { color: #c2362f; font-weight: 700; }
+    pre { margin: 0; white-space: pre-wrap; font-size: 12px; max-height: 260px; overflow: auto; }
+    #summary { font-weight: 700; margin: 10px 0; }
+  </style>
+  <script>window.BDT_SELFTEST = true; window.BDT_VERSION = "1";</script>
+</head>
+<body>
+  <h1>Самопроверка заданий</h1>
+  <p>Страница выполняет эталонные решения всех заданий и их автоматические проверки. Параметры: <code>?s=p02,l03</code> — только выбранные занятия, <code>&amp;starter=0</code> — не проверять, что стартовый код не проходит проверку. Данные MongoDB/HDFS самопроверки хранятся отдельно от данных студента.</p>
+  <div id="summary">Загрузка Python…</div>
+  <table id="res"><thead><tr><th>Занятие</th><th>Задание</th><th>Проверка</th><th>Итог</th><th>Подробности</th></tr></thead><tbody></tbody></table>
+
+  <script src="config.js"></script>
+  <script src="js/registry.js"></script>
+  <script src="content/l01.js"></script>
+  <script src="content/l02.js"></script>
+  <script src="content/l03.js"></script>
+  <script src="content/l04.js"></script>
+  <script src="content/l05.js"></script>
+  <script src="content/l06.js"></script>
+  <script src="content/l07.js"></script>
+  <script src="content/l08.js"></script>
+  <script src="content/p01.js"></script>
+  <script src="content/p02.js"></script>
+  <script src="content/p03.js"></script>
+  <script src="content/p04.js"></script>
+  <script src="content/p05.js"></script>
+  <script src="content/p06.js"></script>
+  <script src="content/p07.js"></script>
+  <script src="content/p08.js"></script>
+  <script src="content/p09.js"></script>
+  <script src="content/p10.js"></script>
+  <script src="content/p11.js"></script>
+  <script src="content/p12.js"></script>
+  <script src="content/p13.js"></script>
+  <script src="content/p14.js"></script>
+  <script src="content/p15.js"></script>
+  <script src="js/checks.js"></script>
+  <script src="js/py-runner.js"></script>
+  <script src="js/mongo-sim.js"></script>
+  <script src="js/hdfs-sim.js"></script>
+  <script src="js/selftest.js"></script>
+</body>
+</html>

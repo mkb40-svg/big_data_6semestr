@@ -1,0 +1,201 @@
+student_id,full_name,gender,birth_year,age,faculty,group,course,city,gpa,attendance,english_level
+S0001,Saidov Otabek,M,2005,21,Kompyuter lingvistikasi,KL-203,2,Andijon,4.13,76.9,B2
+S0002,Tursunova Munisa,F,2006,20,Tarjimonlik,TR-101,1,Toshkent,4.22,79.0,B2
+S0003,Nazarova Sevara,F,2005,21,Xalqaro jurnalistika,XJ-302,3,Nukus,4.6,88.0,A2
+S0004,Usmonova Gulnora,F,2005,21,Filologiya,FL-301,3,Jizzax,3.81,76.7,A2
+S0005,Tursunova Shahnoza,F,2007,19,Xalqaro jurnalistika,XJ-103,1,Andijon,4.35,81.0,B2
+S0006,Saidova Umida,F,2004,22,Filologiya,FL-302,3,Andijon,4.22,76.9,B2
+S0007,Toshmatov Zafar,M,2006,20,Xalqaro jurnalistika,XJ-302,3,Jizzax,4.15,84.3,B2
+S0008,Qodirova Dildora,F,2004,22,Xalqaro jurnalistika,XJ-303,3,Andijon,2.97,90.5,B1
+S0009,Abdullayeva Nodira,F,2005,21,Kompyuter lingvistikasi,KL-202,2,Nukus,4.42,84.2,A2
+S0010,Saidova Mohira,F,2004,22,Xalqaro jurnalistika,XJ-303,3,Jizzax,4.21,81.2,C1
+S0011,Saidov Temur,M,2006,20,Filologiya,FL-302,3,Urganch,3.82,88.4,B1
+S0012,Toshmatova Shahnoza,F,2006,20,Tarjimonlik,TR-302,3,Termiz,4.46,93.4,B1
+S0013,Nazarov Sanjar,M,2006,20,Tarjimonlik,TR-101,1,Qarshi,4.72,84.4,B2
+S0014,Xolmatov Aziz,M,2005,21,Xalqaro jurnalistika,XJ-201,2,Buxoro,4.46,96.9,B2
+S0015,Aliyeva Gulnora,F,2005,21,Tarjimonlik,TR-202,2,Andijon,3.78,91.2,B2
+S0016,Toshmatova Aziza,F,2008,18,Xalqaro jurnalistika,XJ-102,1,Namangan,5.0,79.3,A2
+S0017,Ismoilova Sevara,F,2006,20,Xalqaro jurnalistika,XJ-302,3,Termiz,3.19,80.9,A2
+S0018,Xolmatov Shoxrux,M,2005,21,Xalqaro jurnalistika,XJ-403,4,Qarshi,3.87,87.3,B2
+S0019,Usmonov Bobur,M,2006,20,Kompyuter lingvistikasi,KL-302,3,Qarshi,4.19,84.7,B1
+S0020,Ergashev Jasur,M,2005,21,Xalqaro jurnalistika,XJ-303,3,Buxoro,4.38,91.6,B1
+S0021,Mirzayeva Mohira,F,2005,21,Xalqaro jurnalistika,XJ-301,3,Samarqand,3.75,88.5,B2
+S0022,Nazarova Kamola,F,2008,18,Tarjimonlik,TR-102,1,Namangan,3.27,96.6,B2
+S0023,Murodov Aziz,M,2004,22,Tarjimonlik,TR-303,3,Farg'ona,3.77,87.0,B2
+S0024,Ismoilov Behruz,M,2005,21,Filologiya,FL-401,4,Nukus,4.44,93.5,A2
+S0025,Ergashev Rustam,M,2004,22,Kompyuter lingvistikasi,KL-402,4,Farg'ona,5.0,96.2,A2
+S0026,Abdullayeva Gulnora,F,2005,21,Xalqaro jurnalistika,XJ-301,3,Toshkent,4.04,95.7,A2
+S0027,Tursunova Sevara,F,2005,21,Kompyuter lingvistikasi,KL-303,3,Toshkent,2.65,93.8,B2
+S0028,Qodirova Sabina,F,2005,21,Xalqaro jurnalistika,XJ-301,3,Qarshi,3.9,88.8,B2
+S0029,Ismoilova Kamola,F,2004,22,Xalqaro jurnalistika,XJ-301,3,Andijon,3.65,97.7,B2
+S0030,Toshmatov Jasur,M,2008,18,Kompyuter lingvistikasi,KL-103,1,Samarqand,3.56,77.5,A2
+S0031,Aliyev Rustam,M,2006,20,Xalqaro jurnalistika,XJ-302,3,Namangan,4.05,82.3,A2
+S0032,Yusupova Nodira,F,2008,18,Tarjimonlik,TR-102,1,Andijon,2.9,99.2,A2
+S0033,Usmonov Jasur,M,2004,22,Kompyuter lingvistikasi,KL-402,4,Farg'ona,4.01,80.1,B2
+S0034,Mirzayev Kamron,M,2005,21,Kompyuter lingvistikasi,KL-201,2,Termiz,4.42,82.9,C1
+S0035,Qodirov Islom,M,2006,20,Filologiya,FL-202,2,Buxoro,3.12,92.3,B2
+S0036,Ergasheva Malika,F,2006,20,Xalqaro jurnalistika,XJ-201,2,Navoiy,4.37,72.3,B2
+S0037,Rahimov Jasur,M,2004,22,Filologiya,FL-303,3,Toshkent,3.95,84.0,C1
+S0038,Ismoilov Behruz,M,2005,21,Kompyuter lingvistikasi,KL-303,3,Navoiy,3.29,86.7,A2
+S0039,Yusupov Doniyor,M,2004,22,Xalqaro jurnalistika,XJ-302,3,Samarqand,3.94,74.8,A2
+S0040,Usmonova Ozoda,F,2006,20,Filologiya,FL-302,3,Toshkent,4.0,86.8,B2
+S0041,Murodova Zarina,F,2005,21,Tarjimonlik,TR-401,4,Samarqand,4.07,89.7,A2
+S0042,Rahimov Rustam,M,2006,20,Filologiya,FL-303,3,Toshkent,3.8,85.0,C1
+S0043,Rahimova Kamola,F,2004,22,Xalqaro jurnalistika,XJ-302,3,Namangan,3.37,100,A2
+S0044,Tursunov Rustam,M,2008,18,Filologiya,FL-101,1,Nukus,4.07,81.0,B2
+S0045,Aliyev Otabek,M,2005,21,Filologiya,FL-302,3,Samarqand,4.18,97.5,B2
+S0046,Aliyeva Shahnoza,F,2007,19,Xalqaro jurnalistika,XJ-202,2,Qarshi,3.86,84.1,B1
+S0047,Qodirov Otabek,M,2006,20,Xalqaro jurnalistika,XJ-303,3,Farg'ona,4.13,100,B1
+S0048,Ismoilov Laziz,M,2005,21,Xalqaro jurnalistika,XJ-301,3,Andijon,3.76,96.1,A2
+S0049,Saidova Dildora,F,2005,21,Tarjimonlik,TR-303,3,Samarqand,4.71,81.3,A2
+S0050,Xolmatova Laylo,F,2005,21,Xalqaro jurnalistika,XJ-302,3,Toshkent,4.03,75.2,B2
+S0051,Abdullayeva Sevara,F,2004,22,Tarjimonlik,TR-302,3,Farg'ona,3.57,96.4,A2
+S0052,Yusupov Eldor,M,2006,20,Filologiya,FL-201,2,Farg'ona,4.21,94.8,B1
+S0053,Abdullayev Eldor,M,2006,20,Filologiya,FL-301,3,Andijon,3.64,87.4,C1
+S0054,Xolmatova Sevara,F,2004,22,Filologiya,FL-302,3,Toshkent,4.71,76.5,A2
+S0055,Abdullayeva Laylo,F,2005,21,Xalqaro jurnalistika,XJ-302,3,Toshkent,3.86,100,B1
+S0056,Karimov Behruz,M,2006,20,Xalqaro jurnalistika,XJ-103,1,Andijon,4.88,68.3,B2
+S0057,Xolmatova Feruza,F,2006,20,Filologiya,FL-301,3,Navoiy,4.2,83.8,B1
+S0058,Nazarova Kamola,F,2006,20,Kompyuter lingvistikasi,KL-301,3,Buxoro,4.16,84.3,B1
+S0059,Yusupova Feruza,F,2005,21,Filologiya,FL-303,3,Farg'ona,3.72,86.7,B1
+S0060,Yusupov Farrux,M,2007,19,Kompyuter lingvistikasi,KL-102,1,Termiz,4.17,94.4,B1
+S0061,Tursunova Laylo,F,2007,19,Tarjimonlik,TR-201,2,Namangan,3.4,94.5,C1
+S0062,Sobirov Nodir,M,2005,21,Filologiya,FL-402,4,Namangan,3.11,98.7,A2
+S0063,Abdullayev Ulug'bek,M,2007,19,Kompyuter lingvistikasi,KL-103,1,Urganch,3.71,72.3,B1
+S0064,Saidov Jasur,M,2007,19,Tarjimonlik,TR-103,1,Buxoro,4.15,83.2,B1
+S0065,Murodova Malika,F,2004,22,Tarjimonlik,TR-403,4,Buxoro,4.48,77.0,C1
+S0066,Mirzayeva Dildora,F,2007,19,Kompyuter lingvistikasi,KL-201,2,Qarshi,3.54,98.8,B2
+S0067,Nazarov Jasur,M,2006,20,Xalqaro jurnalistika,XJ-201,2,Andijon,4.65,100,B2
+S0068,Murodova Ozoda,F,2007,19,Xalqaro jurnalistika,XJ-103,1,Buxoro,3.93,96.3,C1
+S0069,Usmonov Farrux,M,2005,21,Tarjimonlik,TR-302,3,Farg'ona,3.04,76.5,B2
+S0070,Rahimova Nodira,F,2005,21,Xalqaro jurnalistika,XJ-303,3,Urganch,3.39,86.2,A2
+S0071,Karimova Ozoda,F,2005,21,Kompyuter lingvistikasi,KL-401,4,Andijon,3.77,89.3,B2
+S0072,Mirzayeva Hilola,F,2006,20,Kompyuter lingvistikasi,KL-201,2,Toshkent,3.76,91.4,B2
+S0073,Rahimov Bobur,M,2006,20,Kompyuter lingvistikasi,KL-302,3,Navoiy,4.04,100,B1
+S0074,Sobirov Sardor,M,2006,20,Filologiya,FL-302,3,Toshkent,4.13,93.3,A2
+S0075,Hasanova Munisa,F,2005,21,Xalqaro jurnalistika,XJ-402,4,Termiz,3.9,89.6,B1
+S0076,Sobirov Nodir,M,2005,21,Filologiya,FL-303,3,Farg'ona,3.39,100,A2
+S0077,Murodov Behruz,M,2005,21,Tarjimonlik,TR-403,4,Toshkent,3.8,90.4,A2
+S0078,Abdullayeva Umida,F,2007,19,Tarjimonlik,TR-202,2,Qarshi,4.19,94.2,B1
+S0079,Karimova Madina,F,2005,21,Tarjimonlik,TR-402,4,Andijon,5.0,93.1,C1
+S0080,Karimova Sabina,F,2006,20,Tarjimonlik,TR-302,3,Toshkent,3.77,82.1,A2
+S0081,Qodirov Ulug'bek,M,2005,21,Kompyuter lingvistikasi,KL-403,4,Farg'ona,3.68,84.7,B2
+S0082,Usmonova Nilufar,F,2006,20,Xalqaro jurnalistika,XJ-301,3,Toshkent,3.45,93.9,B1
+S0083,Sobirov Jasur,M,2005,21,Tarjimonlik,TR-403,4,Qarshi,2.84,100,B2
+S0084,Abdullayeva Gulnora,F,2008,18,Filologiya,FL-103,1,Urganch,4.17,71.5,B1
+S0085,Ergashev Otabek,M,2005,21,Xalqaro jurnalistika,XJ-401,4,Toshkent,3.06,100,B1
+S0086,Xolmatova Munisa,F,2006,20,Filologiya,FL-101,1,Namangan,4.04,96.7,B1
+S0087,Ergasheva Hilola,F,2005,21,Filologiya,FL-401,4,Samarqand,3.93,73.8,B1
+S0088,Ergashev Ulug'bek,M,2008,18,Xalqaro jurnalistika,XJ-101,1,Toshkent,3.72,87.1,C1
+S0089,Ismoilov Temur,M,2006,20,Tarjimonlik,TR-302,3,Farg'ona,4.78,97.7,B1
+S0090,Qodirov Sardor,M,2005,21,Xalqaro jurnalistika,XJ-302,3,Buxoro,3.59,81.0,B2
+S0091,Usmonov Eldor,M,2007,19,Kompyuter lingvistikasi,KL-203,2,Toshkent,5.0,84.1,B1
+S0092,Toshmatova Madina,F,2006,20,Tarjimonlik,TR-303,3,Samarqand,3.67,86.6,B1
+S0093,Murodova Nodira,F,2007,19,Xalqaro jurnalistika,XJ-203,2,Samarqand,3.91,71.3,B1
+S0094,Yusupova Munisa,F,2005,21,Xalqaro jurnalistika,XJ-303,3,Toshkent,3.95,90.3,B1
+S0095,Ismoilova Dildora,F,2005,21,Xalqaro jurnalistika,XJ-203,2,Toshkent,3.36,68.6,B1
+S0096,Saidova Umida,F,2007,19,Tarjimonlik,TR-103,1,Buxoro,3.21,74.2,B2
+S0097,Hasanov Islom,M,2008,18,Filologiya,FL-101,1,Toshkent,3.5,88.5,C1
+S0098,Saidov Shoxrux,M,2006,20,Tarjimonlik,TR-303,3,Toshkent,4.28,91.8,A2
+S0099,Toshmatova Sabina,F,2006,20,Xalqaro jurnalistika,XJ-202,2,Jizzax,4.15,89.9,B1
+S0100,Aliyev Temur,M,2008,18,Kompyuter lingvistikasi,KL-103,1,Urganch,3.83,92.8,A2
+S0101,Tursunov Farrux,M,2006,20,Xalqaro jurnalistika,XJ-102,1,Qarshi,4.07,89.3,B1
+S0102,Mirzayev Temur,M,2005,21,Kompyuter lingvistikasi,KL-302,3,Qarshi,4.51,87.9,B1
+S0103,Usmonov Laziz,M,2006,20,Tarjimonlik,TR-302,3,Navoiy,4.28,88.3,B2
+S0104,Aliyeva Nodira,F,2006,20,Kompyuter lingvistikasi,KL-201,2,Buxoro,3.56,79.2,B2
+S0105,Ismoilova Zarina,F,2003,23,Tarjimonlik,TR-401,4,Andijon,3.99,99.5,B1
+S0106,Aliyeva Ozoda,F,2005,21,Filologiya,FL-202,2,Toshkent,4.17,80.9,B1
+S0107,Sobirov Sanjar,M,2005,21,Kompyuter lingvistikasi,KL-203,2,Samarqand,3.53,100,B2
+S0108,Aliyeva Umida,F,2004,22,Xalqaro jurnalistika,XJ-403,4,Toshkent,3.35,100,B1
+S0109,Xolmatova Munisa,F,2006,20,Xalqaro jurnalistika,XJ-302,3,Samarqand,3.78,93.5,B1
+S0110,Tursunova Zarina,F,2005,21,Kompyuter lingvistikasi,KL-403,4,Toshkent,4.88,85.6,A2
+S0111,Qodirova Zarina,F,2005,21,Xalqaro jurnalistika,XJ-301,3,Toshkent,4.34,90.3,A2
+S0112,Usmonova Hilola,F,2006,20,Xalqaro jurnalistika,XJ-103,1,Andijon,3.69,83.0,A2
+S0113,Toshmatova Nilufar,F,2008,18,Kompyuter lingvistikasi,KL-103,1,Jizzax,3.97,85.6,B1
+S0114,Aliyev Nodir,M,2004,22,Filologiya,FL-401,4,Termiz,3.76,90.6,B2
+S0115,Hasanov Sanjar,M,2007,19,Kompyuter lingvistikasi,KL-103,1,Buxoro,3.3,89.8,A2
+S0116,Toshmatov Nodir,M,2006,20,Tarjimonlik,TR-302,3,Navoiy,3.32,91.0,B1
+S0117,Abdullayev Nodir,M,2006,20,Kompyuter lingvistikasi,KL-202,2,Toshkent,3.85,90.2,C1
+S0118,Rahimova Munisa,F,2005,21,Filologiya,FL-401,4,Samarqand,4.52,94.2,A2
+S0119,Tursunov Kamron,M,2007,19,Filologiya,FL-201,2,Toshkent,4.0,92.5,B1
+S0120,Nazarova Shahnoza,F,2006,20,Tarjimonlik,TR-202,2,Toshkent,3.83,84.3,C1
+S0121,Murodov Islom,M,2005,21,Tarjimonlik,TR-303,3,Termiz,4.25,85.4,B1
+S0122,Ismoilov Javohir,M,2005,21,Kompyuter lingvistikasi,KL-301,3,Buxoro,3.94,92.7,C1
+S0123,Ismoilov Doniyor,M,2008,18,Xalqaro jurnalistika,XJ-103,1,Toshkent,3.88,87.4,B1
+S0124,Toshmatov Otabek,M,2004,22,Filologiya,FL-302,3,Namangan,3.33,84.9,A2
+S0125,Aliyeva Feruza,F,2005,21,Kompyuter lingvistikasi,KL-301,3,Andijon,3.98,100,B1
+S0126,Rahimova Dildora,F,2005,21,Kompyuter lingvistikasi,KL-303,3,Toshkent,3.54,82.1,B2
+S0127,Toshmatova Umida,F,2007,19,Filologiya,FL-101,1,Toshkent,4.05,94.1,C1
+S0128,Toshmatova Aziza,F,2004,22,Kompyuter lingvistikasi,KL-402,4,Toshkent,4.99,75.5,A2
+S0129,Ismoilov Sanjar,M,2005,21,Tarjimonlik,TR-302,3,Buxoro,3.51,91.7,A2
+S0130,Nazarova Shahnoza,F,2005,21,Xalqaro jurnalistika,XJ-303,3,Toshkent,4.62,78.4,B2
+S0131,Qodirov Javohir,M,2007,19,Tarjimonlik,TR-101,1,Toshkent,4.17,67.4,B2
+S0132,Karimova Mohira,F,2006,20,Filologiya,FL-303,3,Toshkent,4.43,74.5,B1
+S0133,Saidov Sardor,M,2005,21,Xalqaro jurnalistika,XJ-301,3,Toshkent,3.9,83.8,A2
+S0134,Xolmatov Kamron,M,2006,20,Filologiya,FL-203,2,Namangan,4.41,88.6,A2
+S0135,Qodirova Feruza,F,2005,21,Xalqaro jurnalistika,XJ-403,4,Toshkent,4.17,79.5,A2
+S0136,Murodov Sanjar,M,2005,21,Xalqaro jurnalistika,XJ-403,4,Andijon,4.94,95.9,C1
+S0137,Yusupov Otabek,M,2007,19,Kompyuter lingvistikasi,KL-101,1,Qarshi,3.8,85.6,B2
+S0138,Yusupov Sanjar,M,2007,19,Xalqaro jurnalistika,XJ-201,2,Samarqand,4.13,88.5,B1
+S0139,Saidova Mohira,F,2005,21,Kompyuter lingvistikasi,KL-301,3,Jizzax,3.87,94.2,A2
+S0140,Abdullayev Jasur,M,2005,21,Tarjimonlik,TR-401,4,Toshkent,3.76,99.9,A2
+S0141,Ergashev Nodir,M,2006,20,Xalqaro jurnalistika,XJ-201,2,Jizzax,3.55,88.4,B1
+S0142,Rahimov Bobur,M,2005,21,Tarjimonlik,TR-301,3,Andijon,4.24,90.8,B2
+S0143,Abdullayeva Feruza,F,2004,22,Filologiya,FL-303,3,Toshkent,3.93,82.7,B1
+S0144,Nazarov Javohir,M,2008,18,Xalqaro jurnalistika,XJ-102,1,Namangan,4.42,93.6,B1
+S0145,Toshmatov Farrux,M,2006,20,Filologiya,FL-303,3,Buxoro,4.19,81.0,B1
+S0146,Aliyeva Dilnoza,F,2006,20,Xalqaro jurnalistika,XJ-201,2,Samarqand,3.18,96.8,A2
+S0147,Tursunova Munisa,F,2004,22,Tarjimonlik,TR-303,3,Toshkent,3.94,97.9,C1
+S0148,Qodirov Sardor,M,2005,21,Tarjimonlik,TR-301,3,Andijon,4.05,89.8,B2
+S0149,Saidov Aziz,M,2006,20,Tarjimonlik,TR-303,3,Toshkent,4.0,83.1,A2
+S0150,Abdullayev Temur,M,2007,19,Filologiya,FL-101,1,Jizzax,3.62,79.0,B1
+S0151,Ismoilova Aziza,F,2006,20,Kompyuter lingvistikasi,KL-302,3,Termiz,4.22,89.4,B1
+S0152,Ergashev Otabek,M,2004,22,Xalqaro jurnalistika,XJ-403,4,Buxoro,5.0,79.1,B1
+S0153,Hasanov Temur,M,2005,21,Kompyuter lingvistikasi,KL-401,4,Namangan,3.4,81.3,A2
+S0154,Murodov Zafar,M,2007,19,Xalqaro jurnalistika,XJ-101,1,Toshkent,4.43,96.1,C1
+S0155,Xolmatova Hilola,F,2006,20,Tarjimonlik,TR-301,3,Andijon,4.17,70.0,B2
+S0156,Nazarov Doniyor,M,2008,18,Filologiya,FL-103,1,Namangan,4.18,78.9,B2
+S0157,Mirzayeva Gulnora,F,2008,18,Kompyuter lingvistikasi,KL-102,1,Toshkent,3.87,85.5,B1
+S0158,Usmonova Dilnoza,F,2005,21,Xalqaro jurnalistika,XJ-401,4,Samarqand,4.1,96.7,A2
+S0159,Ergashev Farrux,M,2008,18,Filologiya,FL-101,1,Samarqand,4.26,95.2,B2
+S0160,Usmonov Laziz,M,2004,22,Tarjimonlik,TR-401,4,Nukus,4.41,87.3,B1
+S0161,Saidov Javohir,M,2008,18,Xalqaro jurnalistika,XJ-102,1,Nukus,3.88,68.6,A2
+S0162,Saidov Javohir,M,2006,20,Xalqaro jurnalistika,XJ-203,2,Buxoro,3.67,92.5,A2
+S0163,Ismoilova Madina,F,2004,22,Xalqaro jurnalistika,XJ-402,4,Namangan,3.97,100,B1
+S0164,Mirzayev Jasur,M,2005,21,Filologiya,FL-302,3,Buxoro,3.73,100,B2
+S0165,Sobirov Kamron,M,2007,19,Xalqaro jurnalistika,XJ-102,1,Toshkent,3.58,84.1,B1
+S0166,Xolmatova Dilnoza,F,2006,20,Xalqaro jurnalistika,XJ-301,3,Toshkent,3.14,91.4,B2
+S0167,Usmonov Sardor,M,2006,20,Xalqaro jurnalistika,XJ-301,3,Farg'ona,4.45,83.7,B1
+S0168,Ismoilova Hilola,F,2006,20,Kompyuter lingvistikasi,KL-201,2,Toshkent,3.68,91.4,B2
+S0169,Hasanov Shoxrux,M,2005,21,Kompyuter lingvistikasi,KL-302,3,Andijon,4.44,85.1,B1
+S0170,Karimova Dildora,F,2003,23,Xalqaro jurnalistika,XJ-401,4,Toshkent,4.36,85.7,B1
+S0171,Usmonov Bobur,M,2004,22,Xalqaro jurnalistika,XJ-302,3,Toshkent,4.68,80.5,B1
+S0172,Abdullayev Aziz,M,2006,20,Xalqaro jurnalistika,XJ-301,3,Toshkent,3.74,87.7,B2
+S0173,Rahimova Aziza,F,2005,21,Xalqaro jurnalistika,XJ-403,4,Andijon,3.42,100,B1
+S0174,Yusupov Sardor,M,2006,20,Filologiya,FL-301,3,Urganch,4.07,80.9,C1
+S0175,Nazarova Nodira,F,2007,19,Tarjimonlik,TR-202,2,Namangan,4.45,82.4,A2
+S0176,Murodova Gulnora,F,2005,21,Tarjimonlik,TR-302,3,Namangan,3.42,80.0,B1
+S0177,Rahimova Madina,F,2007,19,Kompyuter lingvistikasi,KL-201,2,Toshkent,3.9,74.0,B1
+S0178,Tursunov Jasur,M,2005,21,Kompyuter lingvistikasi,KL-201,2,Navoiy,4.75,100,B1
+S0179,Murodova Gulnora,F,2005,21,Kompyuter lingvistikasi,KL-202,2,Toshkent,4.24,97.5,A2
+S0180,Mirzayeva Sevara,F,2006,20,Tarjimonlik,TR-302,3,Namangan,4.09,95.8,B1
+S0181,Qodirov Shoxrux,M,2008,18,Filologiya,FL-101,1,Toshkent,3.36,78.2,B1
+S0182,Usmonova Shahnoza,F,2006,20,Filologiya,FL-301,3,Buxoro,3.93,98.9,A2
+S0183,Toshmatova Dildora,F,2008,18,Kompyuter lingvistikasi,KL-101,1,Toshkent,4.11,78.7,B1
+S0184,Nazarov Islom,M,2005,21,Xalqaro jurnalistika,XJ-403,4,Samarqand,3.51,77.0,B2
+S0185,Rahimov Aziz,M,2006,20,Kompyuter lingvistikasi,KL-103,1,Navoiy,4.39,75.6,C1
+S0186,Hasanova Ozoda,F,2006,20,Kompyuter lingvistikasi,KL-302,3,Termiz,3.57,98.9,B2
+S0187,Karimov Doniyor,M,2005,21,Tarjimonlik,TR-303,3,Urganch,4.68,91.1,B2
+S0188,Usmonov Doniyor,M,2004,22,Kompyuter lingvistikasi,KL-303,3,Samarqand,4.65,77.2,A2
+S0189,Nazarova Nilufar,F,2004,22,Xalqaro jurnalistika,XJ-403,4,Samarqand,4.52,87.7,B1
+S0190,Qodirova Laylo,F,2005,21,Xalqaro jurnalistika,XJ-303,3,Andijon,3.8,94.1,B2
+S0191,Murodov Sardor,M,2004,22,Filologiya,FL-402,4,Qarshi,4.12,73.1,A2
+S0192,Aliyeva Sevara,F,2004,22,Kompyuter lingvistikasi,KL-403,4,Toshkent,4.45,89.5,A2
+S0193,Murodova Feruza,F,2004,22,Kompyuter lingvistikasi,KL-303,3,Toshkent,3.58,92.6,B2
+S0194,Nazarov Nodir,M,2007,19,Tarjimonlik,TR-103,1,Navoiy,4.35,91.5,B2
+S0195,Tursunova Nodira,F,2005,21,Xalqaro jurnalistika,XJ-301,3,Namangan,4.12,77.3,B1
+S0196,Abdullayev Islom,M,2006,20,Filologiya,FL-303,3,Buxoro,4.85,94.9,B2
+S0197,Aliyeva Dilnoza,F,2006,20,Filologiya,FL-301,3,Navoiy,4.25,99.0,B2
+S0198,Hasanova Nodira,F,2005,21,Kompyuter lingvistikasi,KL-403,4,Buxoro,4.04,79.2,B1
+S0199,Qodirova Laylo,F,2005,21,Xalqaro jurnalistika,XJ-301,3,Toshkent,4.85,100,C1
+S0200,Qodirov Zafar,M,2006,20,Filologiya,FL-203,2,Toshkent,4.26,95.2,B2

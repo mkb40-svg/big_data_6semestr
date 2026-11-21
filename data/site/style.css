@@ -1,0 +1,7 @@
+body{font-family:Georgia,serif;max-width:860px;margin:0 auto;padding:16px;background:#fbfaf7;color:#222}
+header{border-bottom:3px solid #0b6e4f;margin-bottom:16px}header a{color:#0b6e4f;text-decoration:none}
+nav a{margin-right:12px;color:#555}.news-card{border-bottom:1px solid #ddd;padding:10px 0}
+.meta{color:#777;font-size:14px}.category{background:#0b6e4f;color:#fff;padding:1px 6px;border-radius:3px}
+.pagination{margin:20px 0}.ads{background:#ffe9b3;padding:10px;margin:16px 0;font-family:sans-serif}
+.tags li{display:inline-block;background:#eee;margin:2px;padding:2px 8px;border-radius:10px;list-style:none}
+footer{color:#999;font-size:13px;margin-top:40px;border-top:1px solid #ddd;padding-top:8px}

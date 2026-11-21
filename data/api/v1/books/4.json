@@ -1,0 +1,34 @@
+{
+  "id": 4,
+  "title": "Sariq devni minib",
+  "authors": [
+    {
+      "name": "Xudoyberdi To'xtaboyev",
+      "country": "O'zbekiston"
+    }
+  ],
+  "year": 1968,
+  "language": "uz",
+  "genres": [
+    "bolalar",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "Akademnashr",
+    "city": "Toshkent"
+  },
+  "price": {
+    "amount": 42000,
+    "currency": "UZS"
+  },
+  "rating": 4.2,
+  "in_stock": false,
+  "isbn": "978-9943-57-809-0",
+  "reviews": [
+    {
+      "user": "user398",
+      "stars": 5,
+      "text": "Hammaga tavsiya qilaman"
+    }
+  ]
+}

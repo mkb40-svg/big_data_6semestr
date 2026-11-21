@@ -1,0 +1,10 @@
+{
+  "name": "Talaba Kutubxona API (o'quv)",
+  "version": "1.0",
+  "endpoints": {
+    "books (sahifalab)": "api/v1/books/page-1.json",
+    "book": "api/v1/books/<id>.json",
+    "authors": "api/v1/authors.json",
+    "weather": "api/v1/weather/<tashkent|samarkand|bukhara|nukus>.json"
+  }
+}

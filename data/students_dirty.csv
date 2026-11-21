@@ -1,0 +1,173 @@
+student_id,full_name,gender,birth_year,age,faculty,group,course,city,gpa,attendance,english_level,enroll_date,phone
+S0077,  MURODOV BEHRUZ ,M,2005,21,Tarjimonlik,TR-403,4,Toshkent,3.8,90.4,A2,2022-09-01,+998 95 806-37-73
+S0153,Hasanov Temur,M,2005,21,Kompyuter lingvistikasi,KL-401,4,Namangan,3.4,81.3,A2,2022-09-01,+998 96 913-35-53
+S0081,Qodirov Ulug'bek,M,2005,21,Kompyuter lingvistikasi,KL-403,4,Farg'ona,3.68,84.7,B2,2022-09-01,+998 93 280-44-87
+S0021,  MIRZAYEVA MOHIRA ,F,2005,21,Xalqaro jurnalistika,XJ-301,3,samarqand,3.75,88.5,B2,2023-09-01,+998 90 911-53-85
+S0028,Qodirova Sabina,F,2005,21,Xalqaro jurnalistika,XJ-301,3,Qarshi,3.9,88.8,B2,2023-09-01,+998 94 310-25-15
+S0075,Hasanova Munisa,F,2005,21,Xalqaro jurnalistika,XJ-402,4,Termiz,"3,9",89.6,B1,2022/09/01,+998963922256
+S0119,Tursunov Kamron,M,2007,19,Filologiya,FL-201,2,Toshkent,"4,0",92.5,B1,2024/09/01,+998 98 529-70-14
+S0160,Usmonov Laziz,M,2004,22,Tarjimonlik,TR-401,4,Nukus,4.41,87.3,B1,2022/09/01,+998972192169
+S0118,Rahimova Munisa,F,2005,21,Filologiya,FL-401,4,Samarqand,4.52,94.2,A2,2022-09-01,+998 99 249-70-30
+S0155,Xolmatova Hilola,F,2006,20,Tarjimonlik,TR-301,3,Andijon,4.17,70.0,B2,2023-09-01,+998 92 217-14-30
+S0154,Murodov Zafar,M,2007,19,Xalqaro jurnalistika,XJ-101,1,Toshkent,4.43,96.1,C1,2025-09-01,+998 95 912-48-70
+S0136,Murodov Sanjar,M,2005,21,Xalqaro jurnalistika,XJ-403,4,Andijon,4.94,95.9,C1,01.09.2022,+998918313732
+S0073,Rahimov Bobur,M,2006,20,Kompyuter lingvistikasi,KL-302,3,Navoiy,"4,04",100,B1,2023-09-01,+998 98 123-54-96
+S0125,  ALIYEVA FERUZA ,F,2005,21,Kompyuter lingvistikasi,KL-301,3,Andijon,3.98,100,B1,2023/09/01,+998 99 280-64-32
+S0117,Abdullayev Nodir,M,2006,20,Kompyuter lingvistikasi,KL-202,2, Toshkent ,3.85,90.2,C1,2024-09-01,+998 93 284-73-17
+S0153,Hasanov Temur,M,2005,21,Kompyuter lingvistikasi,KL-401,4,Namangan,3.4,81.3,A2,2022-09-01,+998 96 913-35-53
+S0023,Murodov Aziz,M,2004,22,Tarjimonlik,TR-303,3,Farg'ona,3.77,87.0,B2,01.09.2023,+998 99 750-34-87
+S0026,Abdullayeva Gulnora,F,2005,150,Xalqaro jurnalistika,XJ-301,3,Toshkent sh.,,95.7,A2,2023-09-01,+998 95 584-51-98
+S0029,Ismoilova Kamola,F,2004,22,Xalqaro jurnalistika,XJ-301,3,Andijon,3.65,97.7,B2,2023-09-01,+998 95 204-51-29
+S0008,Qodirova Dildora,F,2004,22,Xalqaro jurnalistika,XJ-303,3,Andijon,2.97,90.5,B1,2023-09-01,+998982952767
+S0139,Saidova Mohira,F,2005,21,Kompyuter lingvistikasi,KL-301,3,Jizzax,,94.2,A2,01.09.2023,+998992222553
+S0057,Xolmatova Feruza,F,2006,20,Filologiya,FL-301,3,Navoiy,4.2,83.8,B1,2023/09/01,+998 92 954-78-72
+S0134,Xolmatov Kamron,M,2006,20,Filologiya,FL-203,2,Namangan,"4,41",88.6,A2,2024-09-01,+998 95 686-11-79
+S0151,Ismoilova Aziza,F,2006,20,Kompyuter lingvistikasi,KL-302,3,Termiz,4.22,89.4,B1,2023-09-01,+998905832513
+S0050,Xolmatova Laylo,F,2005,21,Xalqaro jurnalistika,XJ-302,3,Toshkent sh.,4.03,75.2,B2,2023/09/01,+998 94 446-43-83
+S0055,  ABDULLAYEVA LAYLO ,F,2005,21,Xalqaro jurnalistika,XJ-302,3,Toshkent sh.,"3,86",100,B1,01.09.2023,+998 97 414-74-78
+S0018,Xolmatov Shoxrux,M,2005,21,Xalqaro jurnalistika,XJ-403,4,Qarshi,3.87,87.3,B2,2022-09-01,+998 98 327-16-12
+S0097,Hasanov Islom,M,2008,18,Filologiya,FL-101,1,Toshkent,3.5,88.5,C1,2025-09-01,+998 94 950-37-99
+S0113,  TOSHMATOVA NILUFAR ,F,2008,18,Kompyuter lingvistikasi,KL-103,1,Jizzax,3.97,85.6,B1,2025/09/01,+998 95 659-49-96
+S0158,Usmonova Dilnoza,F,2005,21,Xalqaro jurnalistika,XJ-401,4,Samarqand,4.1,96.7,A2,2022/09/01,+998 93 171-81-99
+S0119,Tursunov Kamron,M,2007,19,Filologiya,FL-201,2,Toshkent,"4,0",92.5,B1,2024/09/01,+998 98 529-70-14
+S0143,Abdullayeva Feruza,F,2004,22,Filologiya,FL-303,3,toshkent,"3,93",82.7,B1,2023-09-01,+998 91 310-82-23
+S0126,Rahimova Dildora,F,2005,21,Kompyuter lingvistikasi,KL-303,3,toshkent,"3,54",82.1,B2,01.09.2023,+998 96 892-57-23
+S0074,Sobirov Sardor,M,2006,20,Filologiya,FL-302,3,Tashkent,,,A2,2023/09/01,+998 95 247-17-15
+S0099,Toshmatova Sabina,F,2006,20,Xalqaro jurnalistika,XJ-202,2,Jizzax,4.15,89.9,B1,2024/09/01,+998 94 753-28-26
+S0084,Abdullayeva Gulnora,F,2008,18,Filologiya,FL-103,1,Urganch,4.17,71.5,B1,2025-09-01,+998 90 319-47-57
+S0010,Saidova Mohira,F,2004,22,Xalqaro jurnalistika,XJ-303,3,Jizzax,4.21,81.2,C1,01.09.2023,+998 97 177-49-69
+S0027,Tursunova Sevara,F,2005,21,Kompyuter lingvistikasi,KL-303,3,Toshkent,2.65,93.8,B2,2023-09-01,+998 97 578-38-26
+S0102,Mirzayev Temur,M,2005,21,Kompyuter lingvistikasi,KL-302,3,Qarshi,4.51,87.9,B1,2023-09-01,+998 90 534-49-25
+S0129,Ismoilov Sanjar,M,2005,21,Tarjimonlik,TR-302,3,Buxoro,3.51,91.7,A2,2023-09-01,+998 93 291-98-44
+S0156,Nazarov Doniyor,M,2008,18,Filologiya,FL-103,1,Namangan,4.18,78.9,B2,01.09.2025,+998911247678
+S0003,Nazarova Sevara,F,2005,21,Xalqaro jurnalistika,XJ-302,3,Nukus,4.6,88.0,A2,01.09.2023,+998 98 295-95-99
+S0094,Yusupova Munisa,F,2005,21,Xalqaro jurnalistika,XJ-303,3,Toshkent,3.95,90.3,B1,01.09.2023,+998 95 760-31-96
+S0127,Toshmatova Umida,F,2007,19,Filologiya,FL-101,1,Toshkent,4.05,94.1,C1,2025/09/01,+998 92 195-74-43
+S0121,Murodov Islom,M,2005,21,Tarjimonlik,TR-303,3,Termiz,4.25,85.4,B1,2023-09-01,+998 91 308-19-73
+S0013,Nazarov Sanjar,M,2006,20,Tarjimonlik,TR-101,1,Qarshi,4.72,84.4,B2,2025-09-01,+998 95 690-21-75
+S0052,Yusupov Eldor,M,2006,20,Filologiya,FL-201,2,Farg'ona,4.21,94.8,B1,01.09.2024,+998933933680
+S0033,Usmonov Jasur,M,2004,22,Kompyuter lingvistikasi,KL-402,4,Farg'ona,4.01,80.1,B2,2022/09/01,+998 99 563-75-40
+S0130,Nazarova Shahnoza,F,2005,21,Xalqaro jurnalistika,XJ-303,3,Toshkent,4.62,78.4,B2,2023-09-01,+998953552232
+S0024,Ismoilov Behruz,M,2005,21,Filologiya,FL-401,4,Nukus,4.44,93.5,A2,2022/09/01,+998 93 111-93-41
+S0116,Toshmatov Nodir,M,2006,20,Tarjimonlik,TR-302,3,Navoiy,3.32,91.0,B1,2023-09-01,+998 92 379-18-56
+S0124,Toshmatov Otabek,M,2004,22,Filologiya,FL-302,3,Namangan,"3,33",84.9,A2,2023/09/01,+998 93 467-89-31
+S0036,Ergasheva Malika,F,2006,20,Xalqaro jurnalistika,XJ-201,2,Navoiy,4.37,72.3,B2,01.09.2024,+998 93 532-95-59
+S0014,Xolmatov Aziz,M,2005,21,Xalqaro jurnalistika,XJ-201,2,Buxoro,4.46,96.9,B2,2024/09/01,+998 94 992-47-19
+S0110,Tursunova Zarina,F,2005,21,Kompyuter lingvistikasi,KL-403,4,toshkent,4.88,85.6,A2,2022/09/01,+998 99 793-43-74
+S0147,Tursunova Munisa,F,2004,22,Tarjimonlik,TR-303,3,Toshkent,3.94,97.9,C1,2023/09/01,+998 92 619-54-45
+S0150,Abdullayev Temur,M,2007,19,Filologiya,FL-101,1,Jizzax,3.62,79.0,B1,2025-09-01,+998 94 701-49-25
+S0063,Abdullayev Ulug'bek,M,2007,19,Kompyuter lingvistikasi,KL-103,1,Urganch,3.71,72.3,B1,2025-09-01,+998 93 272-53-92
+S0071,Karimova Ozoda,F,2005,21,Kompyuter lingvistikasi,KL-401,4,Andijon,3.77,89.3,B2,2022-09-01,+998 99 415-89-18
+S0108,Aliyeva Umida,F,2004,22,Xalqaro jurnalistika,XJ-403,4, Toshkent ,3.35,100,B1,2022-09-01,+998 92 186-22-70
+S0096,Saidova Umida,F,2007,19,Tarjimonlik,TR-103,1,Buxoro,3.21,74.2,B2,2025-09-01,+998975975428
+S0001,Saidov Otabek,M,2005,21,Kompyuter lingvistikasi,KL-203,2,Andijon,4.13,76.9,B2,2024/09/01,+998 98 165-72-58
+S0101,Tursunov Farrux,M,2006,20,Xalqaro jurnalistika,XJ-102,1,Qarshi,4.07,89.3,B1,01.09.2025,+998 99 903-41-59
+S0031,Aliyev Rustam,M,2006,20,Xalqaro jurnalistika,XJ-302,3,Namangan,,82.3,A2,2023-09-01,+998 92 701-86-13
+S0002,Tursunova Munisa,F,2006,20,Tarjimonlik,TR-101,1,Toshkent,4.22,79.0,B2,2025-09-01,+998 97 708-68-79
+S0054,Xolmatova Sevara,F,2004,22,Filologiya,FL-302,3,Toshkent sh.,4.71,76.5,A2,2023/09/01,+998 95 306-14-14
+S0092,Toshmatova Madina,F,2006,20,Tarjimonlik,TR-303,3,samarqand,3.67,86.6,B1,01.09.2023,+998 99 525-99-14
+S0034,Mirzayev Kamron,M,2005,21,Kompyuter lingvistikasi,KL-201,2,Termiz,,82.9,C1,2024-09-01,+998 93 498-50-83
+S0017,Ismoilova Sevara,F,2006,20,Xalqaro jurnalistika,XJ-302,3,Termiz,3.19,80.9,A2,2023-09-01,+998 90 829-56-28
+S0045,Aliyev Otabek,M,2005,21,Filologiya,FL-302,3,Samarqand,4.18,97.5,B2,01.09.2023,+998 98 130-73-80
+S0095,Ismoilova Dildora,F,2005,21,Xalqaro jurnalistika,XJ-203,2,Tashkent,3.36,,B1,2024-09-01,+998 92 243-58-89
+S0049,Saidova Dildora,F,2005,21,Tarjimonlik,TR-303,3,Samarqand,4.71,,A2,2023-09-01,+998 96 272-94-27
+S0115,  HASANOV SANJAR ,M,2007,19,Kompyuter lingvistikasi,KL-103,1,Buxoro,3.3,89.8,A2,2025/09/01,+998 90 377-17-93
+S0093,Murodova Nodira,F,2007,19,Xalqaro jurnalistika,XJ-203,2,Samarqand,3.91,71.3,B1,2024-09-01,+998 91 594-78-50
+S0048,Ismoilov Laziz,M,2005,21,Xalqaro jurnalistika,XJ-301,3,Andijon,3.76,96.1,A2,2023/09/01,+998 91 842-40-71
+S0107,Sobirov Sanjar,M,2005,-1,Kompyuter lingvistikasi,KL-203,2,Samarqand,3.53,100,B2,2024-09-01,+998 91 634-45-56
+S0040,Usmonova Ozoda,F,2006,20,Filologiya,FL-302,3, Toshkent ,4.0,86.8,B2,01.09.2023,+998 95 744-51-96
+S0091,Usmonov Eldor,M,2007,19,Kompyuter lingvistikasi,KL-203,2,Toshkent,5.0,84.1,B1,01.09.2024,+998 98 857-37-46
+S0046,  ALIYEVA SHAHNOZA ,F,2007,19,Xalqaro jurnalistika,XJ-202,2,Qarshi,3.86,84.1,B1,2024/09/01,+998 94 404-11-29
+S0105,Ismoilova Zarina,F,2003,150,Tarjimonlik,TR-401,4,Andijon,"3,99",99.5,B1,01.09.2022,+998 92 715-41-13
+S0067,  NAZAROV JASUR ,M,2006,20,Xalqaro jurnalistika,XJ-201,2,Andijon,4.65,100,B2,01.09.2024,+998952462593
+S0053,  ABDULLAYEV ELDOR ,M,2006,20,Filologiya,FL-301,3,Andijon,3.64,87.4,C1,2023-09-01,+998 96 281-19-12
+S0135,Qodirova Feruza,F,2005,21,Xalqaro jurnalistika,XJ-403,4,Toshkent,4.17,79.5,A2,2022-09-01,+998 93 651-90-40
+S0070,Rahimova Nodira,F,2005,21,Xalqaro jurnalistika,XJ-303,3,Urganch,3.39,86.2,A2,2023/09/01,+998 90 633-34-45
+S0131,Qodirov Javohir,M,2007,19,Tarjimonlik,TR-101,1,Toshkent,4.17,67.4,B2,2025-09-01,+998 94 385-50-60
+S0016,Toshmatova Aziza,F,2008,18,Xalqaro jurnalistika,XJ-102,1,Namangan,5.0,79.3,A2,2025/09/01,+998 92 503-89-53
+S0058,Nazarova Kamola,F,2006,20,Kompyuter lingvistikasi,KL-301,3,Buxoro,4.16,84.3,B1,2023-09-01,+998 91 510-24-77
+S0112,  USMONOVA HILOLA ,F,2006,20,Xalqaro jurnalistika,XJ-103,1,Andijon,3.69,83.0,A2,2025-09-01,+998996008453
+S0067,  NAZAROV JASUR ,M,2006,20,Xalqaro jurnalistika,XJ-201,2,Andijon,4.65,100,B2,01.09.2024,+998952462593
+S0085,Ergashev Otabek,M,2005,21,Xalqaro jurnalistika,XJ-401,4,Toshkent,3.06,100,B1,2022/09/01,+998 97 555-35-85
+S0006,  SAIDOVA UMIDA ,F,2004,22,Filologiya,FL-302,3,Andijon,4.22,76.9,B2,2023-09-01,+998 99 155-36-51
+S0149,Saidov Aziz,M,2006,20,Tarjimonlik,TR-303,3,toshkent,4.0,,A2,2023/09/01,+998 93 918-57-48
+S0128,Toshmatova Aziza,F,2004,22,Kompyuter lingvistikasi,KL-402,4,Toshkent,4.99,75.5,A2,2022/09/01,+998 90 851-78-13
+S0103,Usmonov Laziz,M,2006,20,Tarjimonlik,TR-302,3,Navoiy,4.28,88.3,B2,2023-09-01,+998986642027
+S0019,Usmonov Bobur,M,2006,20,Kompyuter lingvistikasi,KL-302,3,Qarshi,4.19,84.7,B1,01.09.2023,+998 97 884-32-99
+S0089,Ismoilov Temur,M,2006,20,Tarjimonlik,TR-302,3,Farg'ona,4.78,97.7,B1,2023-09-01,+998965715853
+S0100,Aliyev Temur,M,2008,18,Kompyuter lingvistikasi,KL-103,1,Urganch,3.83,92.8,A2,2025/09/01,+998 96 407-85-50
+S0032,Yusupova Nodira,F,2008,18,Tarjimonlik,TR-102,1,Andijon,2.9,99.2,A2,2025/09/01,+998956101359
+S0061,  TURSUNOVA LAYLO ,F,2007,19,Tarjimonlik,TR-201,2,Namangan,3.4,94.5,C1,2024-09-01,+998 91 357-62-56
+S0076,Sobirov Nodir,M,2005,0,Filologiya,FL-303,3,Farg‘ona,3.39,100,A2,2023/09/01,+998927961717
+S0141,Ergashev Nodir,M,2006,20,Xalqaro jurnalistika,XJ-201,2,Jizzax,3.55,88.4,B1,2024-09-01,+998 96 399-67-36
+S0152,Ergashev Otabek,M,2004,22,Xalqaro jurnalistika,XJ-403,4,Buxoro,5.0,79.1,B1,2022-09-01,+998 94 488-19-99
+S0104,Aliyeva Nodira,F,2006,20,Kompyuter lingvistikasi,KL-201,2,Buxoro,,79.2,B2,2024-09-01,+998 90 435-98-28
+S0060,Yusupov Farrux,M,2007,19,Kompyuter lingvistikasi,KL-102,1,Termiz,4.17,94.4,B1,01.09.2025,+998 95 678-91-39
+S0025,Ergashev Rustam,M,2004,22,Kompyuter lingvistikasi,KL-402,4,Farg‘ona,5.0,96.2,A2,2022/09/01,+998 90 435-24-97
+S0146,Aliyeva Dilnoza,F,2006,20,Xalqaro jurnalistika,XJ-201,2,Samarkand,3.18,96.8,A2,2024-09-01,+998 93 416-30-12
+S0002,Tursunova Munisa,F,2006,20,Tarjimonlik,TR-101,1,Toshkent,4.22,79.0,B2,2025-09-01,+998 97 708-68-79
+S0106,Aliyeva Ozoda,F,2005,21,Filologiya,FL-202,2,Toshkent,4.17,80.9,B1,01.09.2024,+998 94 391-95-77
+S0012,Toshmatova Shahnoza,F,2006,20,Tarjimonlik,TR-302,3,Termiz,4.46,93.4,B1,2023/09/01,+998 94 277-76-30
+S0022,Nazarova Kamola,F,2008,18,Tarjimonlik,TR-102,1,Namangan,"3,27",96.6,B2,01.09.2025,+998 94 672-40-43
+S0038,Ismoilov Behruz,M,2005,21,Kompyuter lingvistikasi,KL-303,3,Navoiy,,86.7,A2,2023-09-01,+998 95 322-33-23
+S0090,Qodirov Sardor,M,2005,21,Xalqaro jurnalistika,XJ-302,3,Buxoro,3.59,81.0,B2,2023/09/01,+998 99 779-86-93
+S0007,  TOSHMATOV ZAFAR ,M,2006,20,Xalqaro jurnalistika,XJ-302,3,Jizzax,4.15,84.3,B2,01.09.2023,+998944617085
+S0048,Ismoilov Laziz,M,2005,21,Xalqaro jurnalistika,XJ-301,3,Andijon,3.76,96.1,A2,2023/09/01,+998 91 842-40-71
+S0068,Murodova Ozoda,F,2007,19,Xalqaro jurnalistika,XJ-103,1,Buxoro,3.93,96.3,C1,01.09.2025,+998 94 135-23-51
+S0122,Ismoilov Javohir,M,2005,21,Kompyuter lingvistikasi,KL-301,3,Buxoro,3.94,92.7,C1,01.09.2023,+998 97 982-23-83
+S0039,Yusupov Doniyor,M,2004,22,Xalqaro jurnalistika,XJ-302,3,samarqand,3.94,74.8,A2,01.09.2023,+998 93 935-92-20
+S0042,Rahimov Rustam,M,2006,20,Filologiya,FL-303,3,TOSHKENT,"3,8",85.0,C1,2023/09/01,+998 91 486-85-94
+S0011,Saidov Temur,M,2006,20,Filologiya,FL-302,3,Urganch,3.82,88.4,B1,2023/09/01,+998 97 217-38-32
+S0120,Nazarova Shahnoza,F,2006,20,Tarjimonlik,TR-202,2,Toshkent,3.83,84.3,C1,01.09.2024,+998 90 646-21-88
+S0072,Mirzayeva Hilola,F,2006,20,Kompyuter lingvistikasi,KL-201,2,Toshkent,,91.4,B2,01.09.2024,+998999188493
+S0062,Sobirov Nodir,M,2005,21,Filologiya,FL-402,4,Namangan,3.11,98.7,A2,2022-09-01,+998937819380
+S0079,Karimova Madina,F,2005,21,Tarjimonlik,TR-402,4,Andijon,,93.1,C1,2022-09-01,+998 91 904-34-21
+S0078,Abdullayeva Umida,F,2007,19,Tarjimonlik,TR-202,2,Qarshi,"4,19",94.2,B1,2024-09-01,+998 92 409-50-84
+S0020,  ERGASHEV JASUR ,M,2005,21,Xalqaro jurnalistika,XJ-303,3,Buxoro,4.38,91.6,B1,2023-09-01,+998 92 509-53-42
+S0088,Ergashev Ulug'bek,M,2008,18,Xalqaro jurnalistika,XJ-101,1,Toshkent sh.,3.72,87.1,C1,2025/09/01,+998 92 787-62-74
+S0005,Tursunova Shahnoza,F,2007,19,Xalqaro jurnalistika,XJ-103,1,Andijon,"4,35",81.0,B2,01.09.2025,+998 98 304-62-91
+S0009,Abdullayeva Nodira,F,2005,21,Kompyuter lingvistikasi,KL-202,2,Nukus,4.42,84.2,A2,2024-09-01,+998 95 980-25-25
+S0133,Saidov Sardor,M,2005,21,Xalqaro jurnalistika,XJ-301,3, Toshkent ,3.9,,A2,01.09.2023,+998 99 666-16-68
+S0037,Rahimov Jasur,M,2004,22,Filologiya,FL-303,3,toshkent,"3,95",84.0,C1,2023-09-01,+998 91 949-74-40
+S0144,Nazarov Javohir,M,2008,18,Xalqaro jurnalistika,XJ-102,1,Namangan,4.42,93.6,B1,2025/09/01,+998 98 343-93-29
+S0004,Usmonova Gulnora,F,2005,21,Filologiya,FL-301,3,Jizzax,3.81,76.7,A2,2023/09/01,+998 98 447-34-18
+S0044,Tursunov Rustam,M,2008,18,Filologiya,FL-101,1,Nukus,,81.0,B2,2025/09/01,+998 92 239-48-55
+S0148,Qodirov Sardor,M,2005,21,Tarjimonlik,TR-301,3,Andijon,4.05,89.8,B2,01.09.2023,+998 98 673-25-13
+S0111,Qodirova Zarina,F,2005,21,Xalqaro jurnalistika,XJ-301,3,TOSHKENT,4.34,90.3,A2,01.09.2023,+998 91 754-64-76
+S0049,Saidova Dildora,F,2005,21,Tarjimonlik,TR-303,3,Samarqand,4.71,,A2,2023-09-01,+998 96 272-94-27
+S0064,  SAIDOV JASUR ,M,2007,19,Tarjimonlik,TR-103,1,Buxoro,4.15,83.2,B1,2025-09-01,+998 93 975-84-27
+S0059,Yusupova Feruza,F,2005,21,Filologiya,FL-303,3,Farg'ona,3.72,,B1,2023-09-01,+998 90 193-30-20
+S0123,  ISMOILOV DONIYOR ,M,2008,18,Xalqaro jurnalistika,XJ-103,1,Toshkent,,87.4,B1,2025-09-01,+998 99 963-36-42
+S0138,Yusupov Sanjar,M,2007,19,Xalqaro jurnalistika,XJ-201,2,Samarqand,4.13,88.5,B1,2024/09/01,+998 95 384-27-63
+S0047,Qodirov Otabek,M,2006,20,Xalqaro jurnalistika,XJ-303,3,Farg'ona,,100,B1,2023/09/01,+998 95 320-54-24
+S0145,Toshmatov Farrux,M,2006,20,Filologiya,FL-303,3,Buxoro,4.19,81.0,B1,2023/09/01,+998 98 940-68-91
+S0159,  ERGASHEV FARRUX ,M,2008,18,Filologiya,FL-101,1,Samarqand,"4,26",95.2,B2,2025-09-01,+998 95 873-76-76
+S0043,Rahimova Kamola,F,2004,22,Xalqaro jurnalistika,XJ-302,3,Namangan,3.37,100,A2,2023-09-01,+998 99 961-86-36
+S0080,Karimova Sabina,F,2006,20,Tarjimonlik,TR-302,3, Toshkent ,3.77,82.1,A2,01.09.2023,+998941389081
+S0098,Saidov Shoxrux,M,2006,20,Tarjimonlik,TR-303,3,Toshkent,4.28,91.8,A2,2023/09/01,+998 95 362-92-63
+S0069,Usmonov Farrux,M,2005,21,Tarjimonlik,TR-302,3,Fargona,3.04,76.5,B2,2023-09-01,+998 91 900-24-60
+S0089,Ismoilov Temur,M,2006,20,Tarjimonlik,TR-302,3,Farg'ona,4.78,97.7,B1,2023-09-01,+998965715853
+S0132,Karimova Mohira,F,2006,20,Filologiya,FL-303,3,Toshkent,4.43,74.5,B1,2023-09-01,+998 98 324-72-70
+S0094,Yusupova Munisa,F,2005,21,Xalqaro jurnalistika,XJ-303,3,Toshkent,3.95,90.3,B1,01.09.2023,+998 95 760-31-96
+S0137,Yusupov Otabek,M,2007,19,Kompyuter lingvistikasi,KL-101,1,Qarshi,3.8,85.6,B2,2025/09/01,+998915918043
+S0065,Murodova Malika,F,2004,22,Tarjimonlik,TR-403,4,Buxoro,4.48,77.0,C1,01.09.2022,+998 94 263-25-45
+S0056,Karimov Behruz,M,2006,20,Xalqaro jurnalistika,XJ-103,1,Andijon,"4,88",68.3,B2,2025-09-01,+998 90 540-57-44
+S0083,Sobirov Jasur,M,2005,21,Tarjimonlik,TR-403,4,Qarshi,,100,B2,2022-09-01,+998 95 939-72-51
+S0030,Toshmatov Jasur,M,2008,18,Kompyuter lingvistikasi,KL-103,1,Samarqand,3.56,77.5,A2,2025-09-01,+998 96 121-56-81
+S0086,  XOLMATOVA MUNISA ,F,2006,20,Filologiya,FL-101,1,Namangan,4.04,96.7,B1,01.09.2025,+998 91 136-34-44
+S0140,Abdullayev Jasur,M,2005,21,Tarjimonlik,TR-401,4,Toshkent,3.76,99.9,A2,2022-09-01,+998 91 210-43-55
+S0053,  ABDULLAYEV ELDOR ,M,2006,20,Filologiya,FL-301,3,Andijon,3.64,87.4,C1,2023-09-01,+998 96 281-19-12
+S0142,Rahimov Bobur,M,2005,-1,Tarjimonlik,TR-301,3,Andijon,,90.8,B2,01.09.2023,+998 94 359-58-52
+S0087,  ERGASHEVA HILOLA ,F,2005,21,Filologiya,FL-401,4,Samarqand,3.93,73.8,B1,2022-09-01,+998 98 837-53-65
+S0041,Murodova Zarina,F,2005,21,Tarjimonlik,TR-401,4,Samarkand,4.07,89.7,A2,2022-09-01,+998 90 772-32-59
+S0058,Nazarova Kamola,F,2006,20,Kompyuter lingvistikasi,KL-301,3,Buxoro,4.16,84.3,B1,2023-09-01,+998 91 510-24-77
+S0107,Sobirov Sanjar,M,2005,-1,Kompyuter lingvistikasi,KL-203,2,Samarqand,3.53,100,B2,2024-09-01,+998 91 634-45-56
+S0095,Ismoilova Dildora,F,2005,21,Xalqaro jurnalistika,XJ-203,2,Tashkent,3.36,,B1,2024-09-01,+998 92 243-58-89
+S0015,Aliyeva Gulnora,F,2005,21,Tarjimonlik,TR-202,2,Andijon,3.78,91.2,B2,2024-09-01,+998 95 809-29-13
+S0109,  XOLMATOVA MUNISA ,F,2006,20,Xalqaro jurnalistika,XJ-302,3,Samarqand,3.78,93.5,B1,2023-09-01,+998 94 530-78-72
+S0035,Qodirov Islom,M,2006,20,Filologiya,FL-202,2,Buxoro,3.12,92.3,B2,2024/09/01,+998953736845
+S0157,Mirzayeva Gulnora,F,2008,18,Kompyuter lingvistikasi,KL-102,1,Toshkent,3.87,85.5,B1,2025-09-01,+998 95 400-83-24
+S0082,  USMONOVA NILUFAR ,F,2006,20,Xalqaro jurnalistika,XJ-301,3,toshkent,,93.9,B1,01.09.2023,+998 91 570-82-45
+S0066,Mirzayeva Dildora,F,2007,19,Kompyuter lingvistikasi,KL-201,2,Qarshi,3.54,98.8,B2,2024-09-01,+998 95 561-82-83
+S0114,Aliyev Nodir,M,2004,22,Filologiya,FL-401,4,Termiz,3.76,90.6,B2,2022-09-01,+998 97 634-51-35
+S0051,Abdullayeva Sevara,F,2004,22,Tarjimonlik,TR-302,3,Farg'ona,3.57,96.4,A2,2023-09-01,+998 92 761-53-13

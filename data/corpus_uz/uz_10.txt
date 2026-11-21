@@ -1,0 +1,9 @@
+Qishloq xo‘jaligida dron va sensorlar
+
+Fermerlar ekin maydonlarini kuzatish uchun dronlardan tobora ko‘proq foydalanmoqda. Dronlar dalalarni havodan suratga olib, o‘simliklarning holatini aniqlashga yordam beradi.
+
+Tuproqqa o‘rnatilgan sensorlar namlik, harorat va o‘g‘it miqdori haqida doimiy ma’lumot yuboradi. Bu ma’lumotlar asosida sug‘orish vaqti va suv miqdori aniqlanadi. Natijada suv tejaladi, hosildorlik esa oshadi.
+
+Farg‘ona vodiysidagi bir fermer xo‘jaligi tomchilatib sug‘orish va aqlli sensorlar tizimini joriy etdi. Xo‘jalik rahbarining aytishicha, suv sarfi qariyb qirq foizga kamaygan.
+
+Mutaxassislar bunday texnologiyalar kichik fermerlar uchun ham arzonlashishi kerakligini ta’kidlaydi. Davlat dasturi doirasida fermerlarga imtiyozli kreditlar ajratilmoqda.

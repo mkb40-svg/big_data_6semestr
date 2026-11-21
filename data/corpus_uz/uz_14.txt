@@ -1,0 +1,9 @@
+Kompyuter lingvistikasi: o‘zbek tili uchun til modellari
+
+Kompyuter lingvistikasi tilshunoslik va informatika chegarasida joylashgan zamonaviy fan sohasidir. U matnlarni avtomatik tahlil qilish, tarjima qilish va nutqni tanib olish bilan shug‘ullanadi.
+
+O‘zbek tili uchun til modellarini yaratishda eng katta muammo katta hajmdagi sifatli matnlar korpusining yetishmasligidir. Bundan tashqari, o‘zbek tilida lotin va kirill yozuvlari parallel ishlatiladi. Apostrof belgilarining turlicha yozilishi ham matnlarni qayta ishlashni qiyinlashtiradi.
+
+Tadqiqotchilar yangiliklar saytlari, kitoblar va ijtimoiy tarmoqlardagi matnlardan katta korpuslar yig‘moqda. Matnlar tozalanadi, normallashtiriladi va tokenlarga ajratiladi.
+
+O‘zbek tili agglyutinativ til bo‘lgani uchun bitta so‘zga bir nechta qo‘shimcha qo‘shilishi mumkin. Masalan, "kitoblarimizdan" so‘zida o‘zakka uchta qo‘shimcha qo‘shilgan. Shuning uchun morfologik tahlil o‘zbek tili uchun ayniqsa muhimdir.

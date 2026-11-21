@@ -1,0 +1,144 @@
+{
+  "page": 1,
+  "per_page": 5,
+  "total": 16,
+  "total_pages": 4,
+  "next": "page-2.json",
+  "results": [
+    {
+      "id": 1,
+      "title": "O'tkan kunlar",
+      "authors": [
+        {
+          "name": "Abdulla Qodiriy",
+          "country": "O'zbekiston"
+        }
+      ],
+      "year": 1926,
+      "language": "uz",
+      "genres": [
+        "roman",
+        "klassika"
+      ],
+      "publisher": {
+        "name": "G'afur G'ulom nashriyoti",
+        "city": "Toshkent"
+      },
+      "price": {
+        "amount": 65000,
+        "currency": "UZS"
+      },
+      "rating": 4.7,
+      "in_stock": true,
+      "isbn": "978-9943-71-415-9"
+    },
+    {
+      "id": 2,
+      "title": "Mehrobdan chayon",
+      "authors": [
+        {
+          "name": "Abdulla Qodiriy",
+          "country": "O'zbekiston"
+        }
+      ],
+      "year": 1929,
+      "language": "uz",
+      "genres": [
+        "roman",
+        "klassika"
+      ],
+      "publisher": {
+        "name": "Akademnashr",
+        "city": "Toshkent"
+      },
+      "price": {
+        "amount": 58000,
+        "currency": "UZS"
+      },
+      "rating": 5.0,
+      "in_stock": false,
+      "isbn": "978-9943-12-362-6"
+    },
+    {
+      "id": 3,
+      "title": "Kecha va kunduz",
+      "authors": [
+        {
+          "name": "Cho'lpon",
+          "country": "O'zbekiston"
+        }
+      ],
+      "year": 1936,
+      "language": "uz",
+      "genres": [
+        "roman",
+        "klassika"
+      ],
+      "publisher": {
+        "name": "Akademnashr",
+        "city": "Toshkent"
+      },
+      "price": {
+        "amount": 55000,
+        "currency": "UZS"
+      },
+      "rating": 4.7,
+      "in_stock": false,
+      "isbn": "978-9943-40-884-9"
+    },
+    {
+      "id": 4,
+      "title": "Sariq devni minib",
+      "authors": [
+        {
+          "name": "Xudoyberdi To'xtaboyev",
+          "country": "O'zbekiston"
+        }
+      ],
+      "year": 1968,
+      "language": "uz",
+      "genres": [
+        "bolalar",
+        "klassika"
+      ],
+      "publisher": {
+        "name": "Akademnashr",
+        "city": "Toshkent"
+      },
+      "price": {
+        "amount": 42000,
+        "currency": "UZS"
+      },
+      "rating": 4.2,
+      "in_stock": false,
+      "isbn": "978-9943-57-809-0"
+    },
+    {
+      "id": 5,
+      "title": "Shum bola",
+      "authors": [
+        {
+          "name": "G'afur G'ulom",
+          "country": "O'zbekiston"
+        }
+      ],
+      "year": 1936,
+      "language": "uz",
+      "genres": [
+        "qissa",
+        "klassika"
+      ],
+      "publisher": {
+        "name": "Akademnashr",
+        "city": "Toshkent"
+      },
+      "price": {
+        "amount": 39000,
+        "currency": "UZS"
+      },
+      "rating": 3.9,
+      "in_stock": false,
+      "isbn": "978-9943-43-533-7"
+    }
+  ]
+}

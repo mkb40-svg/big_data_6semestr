@@ -1,0 +1,119 @@
+{
+  "count": 16,
+  "results": [
+    {
+      "name": "Abdulla Qodiriy",
+      "country": "O'zbekiston",
+      "books": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "Cho'lpon",
+      "country": "O'zbekiston",
+      "books": [
+        3
+      ]
+    },
+    {
+      "name": "Xudoyberdi To'xtaboyev",
+      "country": "O'zbekiston",
+      "books": [
+        4
+      ]
+    },
+    {
+      "name": "G'afur G'ulom",
+      "country": "O'zbekiston",
+      "books": [
+        5
+      ]
+    },
+    {
+      "name": "Said Ahmad",
+      "country": "O'zbekiston",
+      "books": [
+        6
+      ]
+    },
+    {
+      "name": "O'tkir Hoshimov",
+      "country": "O'zbekiston",
+      "books": [
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Alisher Navoiy",
+      "country": "O'zbekiston",
+      "books": [
+        9
+      ]
+    },
+    {
+      "name": "Zahiriddin Muhammad Bobur",
+      "country": "O'zbekiston",
+      "books": [
+        10
+      ]
+    },
+    {
+      "name": "Михаил Булгаков",
+      "country": "Rossiya",
+      "books": [
+        11
+      ]
+    },
+    {
+      "name": "Фёдор Достоевский",
+      "country": "Rossiya",
+      "books": [
+        12
+      ]
+    },
+    {
+      "name": "Eric Matthes",
+      "country": "AQSh",
+      "books": [
+        13
+      ]
+    },
+    {
+      "name": "Al Sweigart",
+      "country": "AQSh",
+      "books": [
+        14
+      ]
+    },
+    {
+      "name": "Jurafsky",
+      "country": "AQSh",
+      "books": [
+        15
+      ]
+    },
+    {
+      "name": "Martin",
+      "country": "AQSh",
+      "books": [
+        15
+      ]
+    },
+    {
+      "name": "Mayer-Schonberger",
+      "country": "AQSh",
+      "books": [
+        16
+      ]
+    },
+    {
+      "name": "Cukier",
+      "country": "AQSh",
+      "books": [
+        16
+      ]
+    }
+  ]
+}

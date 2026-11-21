@@ -1,0 +1,34 @@
+{
+  "id": 8,
+  "title": "Ikki eshik orasi",
+  "authors": [
+    {
+      "name": "O'tkir Hoshimov",
+      "country": "O'zbekiston"
+    }
+  ],
+  "year": 1986,
+  "language": "uz",
+  "genres": [
+    "roman",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "Akademnashr",
+    "city": "Toshkent"
+  },
+  "price": {
+    "amount": 69000,
+    "currency": "UZS"
+  },
+  "rating": 4.7,
+  "in_stock": false,
+  "isbn": "978-9943-82-907-9",
+  "reviews": [
+    {
+      "user": "user616",
+      "stars": 3,
+      "text": "Yaxshi, lekin qimmat"
+    }
+  ]
+}

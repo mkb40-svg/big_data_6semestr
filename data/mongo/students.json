@@ -1,0 +1,787 @@
+[
+  {
+    "student_id": "S0001",
+    "name": "Farrux Ismoilov",
+    "gender": "M",
+    "age": 24,
+    "faculty": "Xalqaro jurnalistika",
+    "course": 4,
+    "city": "Toshkent",
+    "gpa": 4.03,
+    "skills": [
+      "Spark",
+      "Ingliz tili"
+    ],
+    "contacts": {
+      "email": "farrux.ismoilov1@talaba.uz",
+      "phone": "+998902323785"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0002",
+    "name": "Doniyor Abdullayev",
+    "gender": "M",
+    "age": 20,
+    "faculty": "Tarjimonlik",
+    "course": 3,
+    "city": "Andijon",
+    "gpa": 4.03,
+    "skills": [
+      "Pandas",
+      "Rus tili",
+      "MongoDB"
+    ],
+    "contacts": {
+      "email": "doniyor.abdullayev2@talaba.uz",
+      "phone": "+998906886352"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0003",
+    "name": "Nodira Rahimova",
+    "gender": "F",
+    "age": 22,
+    "faculty": "Filologiya",
+    "course": 1,
+    "city": "Qarshi",
+    "gpa": 4.66,
+    "skills": [
+      "Ingliz tili",
+      "Arab tili"
+    ],
+    "contacts": {
+      "email": "nodira.rahimova3@talaba.uz",
+      "phone": "+998903011922"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0004",
+    "name": "Sardor Nazarov",
+    "gender": "M",
+    "age": 18,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 3,
+    "city": "Namangan",
+    "gpa": 4.27,
+    "skills": [
+      "Pandas",
+      "Python",
+      "Rus tili",
+      "Spark"
+    ],
+    "contacts": {
+      "email": "sardor.nazarov4@talaba.uz",
+      "phone": "+998907121383"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0005",
+    "name": "Nilufar Saidova",
+    "gender": "F",
+    "age": 18,
+    "faculty": "Tarjimonlik",
+    "course": 3,
+    "city": "Qarshi",
+    "gpa": 3.75,
+    "skills": [
+      "NLP",
+      "Pandas",
+      "Spark",
+      "MongoDB"
+    ],
+    "contacts": {
+      "email": "nilufar.saidova5@talaba.uz",
+      "phone": "+998907110610"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0006",
+    "name": "Temur Qodirov",
+    "gender": "M",
+    "age": 21,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 4,
+    "city": "Andijon",
+    "gpa": 4.94,
+    "skills": [
+      "Arab tili",
+      "Ingliz tili",
+      "NLP"
+    ],
+    "contacts": {
+      "email": "temur.qodirov6@talaba.uz",
+      "phone": "+998908061486"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0007",
+    "name": "Sabina Mirzayeva",
+    "gender": "F",
+    "age": 18,
+    "faculty": "Xalqaro jurnalistika",
+    "course": 1,
+    "city": "Toshkent",
+    "gpa": 3.94,
+    "skills": [
+      "SQL",
+      "Ingliz tili",
+      "Pandas",
+      "Arab tili"
+    ],
+    "contacts": {
+      "email": "sabina.mirzayeva7@talaba.uz",
+      "phone": "+998906507117"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0008",
+    "name": "Madina Ergasheva",
+    "gender": "F",
+    "age": 22,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 1,
+    "city": "Toshkent",
+    "gpa": 3.87,
+    "skills": [
+      "Ingliz tili",
+      "NLP",
+      "SQL"
+    ],
+    "contacts": {
+      "email": "madina.ergasheva8@talaba.uz",
+      "phone": "+998905097792"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0009",
+    "name": "Jasur Yusupov",
+    "gender": "M",
+    "age": 20,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 4,
+    "city": "Namangan",
+    "gpa": 4.47,
+    "skills": [
+      "NLP",
+      "MongoDB",
+      "Pandas",
+      "Ingliz tili"
+    ],
+    "contacts": {
+      "email": "jasur.yusupov9@talaba.uz",
+      "phone": "+998908374979"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0010",
+    "name": "Munisa Mirzayeva",
+    "gender": "F",
+    "age": 24,
+    "faculty": "Tarjimonlik",
+    "course": 2,
+    "city": "Samarqand",
+    "gpa": 3.93,
+    "skills": [
+      "Pandas",
+      "Rus tili"
+    ],
+    "contacts": {
+      "email": "munisa.mirzayeva10@talaba.uz",
+      "phone": "+998902330679"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0011",
+    "name": "Zarina Qodirova",
+    "gender": "F",
+    "age": 19,
+    "faculty": "Xalqaro jurnalistika",
+    "course": 2,
+    "city": "Toshkent",
+    "gpa": 4.36,
+    "skills": [
+      "SQL",
+      "Spark",
+      "Arab tili"
+    ],
+    "contacts": {
+      "email": "zarina.qodirova11@talaba.uz",
+      "phone": "+998905676367"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0012",
+    "name": "Laziz Xolmatov",
+    "gender": "M",
+    "age": 22,
+    "faculty": "Filologiya",
+    "course": 2,
+    "city": "Toshkent",
+    "gpa": 3.63,
+    "skills": [
+      "Rus tili"
+    ],
+    "contacts": {
+      "email": "laziz.xolmatov12@talaba.uz",
+      "phone": "+998907933196"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0013",
+    "name": "Sardor Hasanov",
+    "gender": "M",
+    "age": 22,
+    "faculty": "Filologiya",
+    "course": 3,
+    "city": "Buxoro",
+    "gpa": 3.78,
+    "skills": [
+      "SQL"
+    ],
+    "contacts": {
+      "email": "sardor.hasanov13@talaba.uz",
+      "phone": "+998907668989"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0014",
+    "name": "Bobur Ismoilov",
+    "gender": "M",
+    "age": 20,
+    "faculty": "Tarjimonlik",
+    "course": 3,
+    "city": "Toshkent",
+    "gpa": 4.38,
+    "skills": [
+      "Rus tili"
+    ],
+    "contacts": {
+      "email": "bobur.ismoilov14@talaba.uz",
+      "phone": "+998908540675"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0015",
+    "name": "Doniyor Qodirov",
+    "gender": "M",
+    "age": 22,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 3,
+    "city": "Namangan",
+    "gpa": 4.04,
+    "skills": [
+      "NLP"
+    ],
+    "contacts": {
+      "email": "doniyor.qodirov15@talaba.uz",
+      "phone": "+998907325841"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0016",
+    "name": "Doniyor Abdullayev",
+    "gender": "M",
+    "age": 20,
+    "faculty": "Tarjimonlik",
+    "course": 1,
+    "city": "Termiz",
+    "gpa": 4.48,
+    "skills": [
+      "Rus tili",
+      "NLP",
+      "Excel"
+    ],
+    "contacts": {
+      "email": "doniyor.abdullayev16@talaba.uz",
+      "phone": "+998908217591"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0017",
+    "name": "Shoxrux Abdullayev",
+    "gender": "M",
+    "age": 21,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 1,
+    "city": "Toshkent",
+    "gpa": 3.89,
+    "skills": [
+      "SQL",
+      "Rus tili",
+      "Excel"
+    ],
+    "contacts": {
+      "email": "shoxrux.abdullayev17@talaba.uz",
+      "phone": "+998903633326"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0018",
+    "name": "Sabina Saidova",
+    "gender": "F",
+    "age": 19,
+    "faculty": "Filologiya",
+    "course": 4,
+    "city": "Samarqand",
+    "gpa": 3.9,
+    "skills": [
+      "Python"
+    ],
+    "contacts": {
+      "email": "sabina.saidova18@talaba.uz",
+      "phone": "+998907148679"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0019",
+    "name": "Gulnora Xolmatova",
+    "gender": "F",
+    "age": 24,
+    "faculty": "Tarjimonlik",
+    "course": 4,
+    "city": "Andijon",
+    "gpa": 4.18,
+    "skills": [
+      "NLP",
+      "Python",
+      "Arab tili"
+    ],
+    "contacts": {
+      "email": "gulnora.xolmatova19@talaba.uz",
+      "phone": "+998905864100"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0020",
+    "name": "Dildora Nazarova",
+    "gender": "F",
+    "age": 24,
+    "faculty": "Tarjimonlik",
+    "course": 3,
+    "city": "Toshkent",
+    "gpa": 3.24,
+    "skills": [
+      "Spark",
+      "Excel"
+    ],
+    "contacts": {
+      "email": "dildora.nazarova20@talaba.uz",
+      "phone": "+998905448542"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0021",
+    "name": "Sanjar Sobirov",
+    "gender": "M",
+    "age": 18,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 4,
+    "city": "Toshkent",
+    "gpa": 4.3,
+    "skills": [
+      "Python",
+      "MongoDB",
+      "Excel",
+      "SQL"
+    ],
+    "contacts": {
+      "email": "sanjar.sobirov21@talaba.uz",
+      "phone": "+998909506464"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0022",
+    "name": "Nodira Ismoilova",
+    "gender": "F",
+    "age": 21,
+    "faculty": "Xalqaro jurnalistika",
+    "course": 3,
+    "city": "Navoiy",
+    "gpa": 3.56,
+    "skills": [
+      "MongoDB"
+    ],
+    "contacts": {
+      "email": "nodira.ismoilova22@talaba.uz",
+      "phone": "+998901026289"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0023",
+    "name": "Ulug'bek Rahimov",
+    "gender": "M",
+    "age": 21,
+    "faculty": "Filologiya",
+    "course": 2,
+    "city": "Andijon",
+    "gpa": 4.81,
+    "skills": [
+      "Arab tili",
+      "Ingliz tili",
+      "Python"
+    ],
+    "contacts": {
+      "email": "ulugbek.rahimov23@talaba.uz",
+      "phone": "+998903951695"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0024",
+    "name": "Kamola Usmonova",
+    "gender": "F",
+    "age": 23,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 4,
+    "city": "Buxoro",
+    "gpa": 3.43,
+    "skills": [
+      "Excel",
+      "SQL",
+      "MongoDB",
+      "Arab tili"
+    ],
+    "contacts": {
+      "email": "kamola.usmonova24@talaba.uz",
+      "phone": "+998907535158"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0025",
+    "name": "Javohir Hasanov",
+    "gender": "M",
+    "age": 19,
+    "faculty": "Xalqaro jurnalistika",
+    "course": 4,
+    "city": "Urganch",
+    "gpa": 4.16,
+    "skills": [
+      "Excel"
+    ],
+    "contacts": {
+      "email": "javohir.hasanov25@talaba.uz",
+      "phone": "+998905678751"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0026",
+    "name": "Umida Abdullayeva",
+    "gender": "F",
+    "age": 19,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 2,
+    "city": "Buxoro",
+    "gpa": 3.95,
+    "skills": [
+      "SQL",
+      "Pandas",
+      "Excel",
+      "Rus tili"
+    ],
+    "contacts": {
+      "email": "umida.abdullayeva26@talaba.uz",
+      "phone": "+998905339589"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0027",
+    "name": "Bobur Ergashev",
+    "gender": "M",
+    "age": 18,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 3,
+    "city": "Urganch",
+    "gpa": 3.71,
+    "skills": [
+      "Excel",
+      "Rus tili"
+    ],
+    "contacts": {
+      "email": "bobur.ergashev27@talaba.uz",
+      "phone": "+998901948443"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0028",
+    "name": "Mohira Yusupova",
+    "gender": "F",
+    "age": 24,
+    "faculty": "Filologiya",
+    "course": 3,
+    "city": "Andijon",
+    "gpa": 3.97,
+    "skills": [
+      "Pandas",
+      "Spark",
+      "Excel",
+      "MongoDB"
+    ],
+    "contacts": {
+      "email": "mohira.yusupova28@talaba.uz",
+      "phone": "+998903335321"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0029",
+    "name": "Shahnoza Mirzayeva",
+    "gender": "F",
+    "age": 23,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 3,
+    "city": "Toshkent",
+    "gpa": 4.51,
+    "skills": [
+      "SQL",
+      "Spark",
+      "Ingliz tili"
+    ],
+    "contacts": {
+      "email": "shahnoza.mirzayeva29@talaba.uz",
+      "phone": "+998905834580"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0030",
+    "name": "Malika Karimova",
+    "gender": "F",
+    "age": 22,
+    "faculty": "Xalqaro jurnalistika",
+    "course": 3,
+    "city": "Samarqand",
+    "gpa": 3.8,
+    "skills": [
+      "SQL",
+      "Spark",
+      "NLP"
+    ],
+    "contacts": {
+      "email": "malika.karimova30@talaba.uz",
+      "phone": "+998908365854"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0031",
+    "name": "Islom Murodov",
+    "gender": "M",
+    "age": 22,
+    "faculty": "Xalqaro jurnalistika",
+    "course": 2,
+    "city": "Toshkent",
+    "gpa": 4.12,
+    "skills": [
+      "MongoDB",
+      "NLP"
+    ],
+    "contacts": {
+      "email": "islom.murodov31@talaba.uz",
+      "phone": "+998902761101"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0032",
+    "name": "Malika Karimova",
+    "gender": "F",
+    "age": 19,
+    "faculty": "Tarjimonlik",
+    "course": 1,
+    "city": "Navoiy",
+    "gpa": 4.04,
+    "skills": [
+      "MongoDB",
+      "Pandas"
+    ],
+    "contacts": {
+      "email": "malika.karimova32@talaba.uz",
+      "phone": "+998907430519"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0033",
+    "name": "Farrux Aliyev",
+    "gender": "M",
+    "age": 21,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 4,
+    "city": "Navoiy",
+    "gpa": 4.13,
+    "skills": [
+      "Ingliz tili"
+    ],
+    "contacts": {
+      "email": "farrux.aliyev33@talaba.uz",
+      "phone": "+998905786574"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0034",
+    "name": "Laziz Ismoilov",
+    "gender": "M",
+    "age": 18,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 4,
+    "city": "Samarqand",
+    "gpa": 4.38,
+    "skills": [
+      "Excel",
+      "MongoDB",
+      "Rus tili",
+      "NLP"
+    ],
+    "contacts": {
+      "email": "laziz.ismoilov34@talaba.uz",
+      "phone": "+998908808397"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0035",
+    "name": "Ulug'bek Yusupov",
+    "gender": "M",
+    "age": 20,
+    "faculty": "Filologiya",
+    "course": 3,
+    "city": "Urganch",
+    "gpa": 4.37,
+    "skills": [
+      "Python",
+      "Spark",
+      "Arab tili",
+      "Ingliz tili"
+    ],
+    "contacts": {
+      "email": "ulugbek.yusupov35@talaba.uz",
+      "phone": "+998902569425"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0036",
+    "name": "Kamron Rahimov",
+    "gender": "M",
+    "age": 19,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 1,
+    "city": "Samarqand",
+    "gpa": 3.8,
+    "skills": [
+      "Rus tili",
+      "NLP",
+      "Pandas"
+    ],
+    "contacts": {
+      "email": "kamron.rahimov36@talaba.uz",
+      "phone": "+998901332163"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0037",
+    "name": "Nodir Usmonov",
+    "gender": "M",
+    "age": 23,
+    "faculty": "Filologiya",
+    "course": 3,
+    "city": "Qarshi",
+    "gpa": 3.65,
+    "skills": [
+      "Excel",
+      "NLP",
+      "Spark",
+      "Ingliz tili"
+    ],
+    "contacts": {
+      "email": "nodir.usmonov37@talaba.uz",
+      "phone": "+998903865885"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0038",
+    "name": "Sardor Ismoilov",
+    "gender": "M",
+    "age": 24,
+    "faculty": "Kompyuter lingvistikasi",
+    "course": 1,
+    "city": "Buxoro",
+    "gpa": 4.04,
+    "skills": [
+      "SQL",
+      "Spark"
+    ],
+    "contacts": {
+      "email": "sardor.ismoilov38@talaba.uz",
+      "phone": "+998905081140"
+    },
+    "scholarship": true
+  },
+  {
+    "student_id": "S0039",
+    "name": "Sanjar Saidov",
+    "gender": "M",
+    "age": 21,
+    "faculty": "Filologiya",
+    "course": 2,
+    "city": "Samarqand",
+    "gpa": 3.84,
+    "skills": [
+      "Python"
+    ],
+    "contacts": {
+      "email": "sanjar.saidov39@talaba.uz",
+      "phone": "+998907000651"
+    },
+    "scholarship": false
+  },
+  {
+    "student_id": "S0040",
+    "name": "Sanjar Mirzayev",
+    "gender": "M",
+    "age": 19,
+    "faculty": "Xalqaro jurnalistika",
+    "course": 4,
+    "city": "Farg'ona",
+    "gpa": 4.06,
+    "skills": [
+      "Excel",
+      "Python",
+      "MongoDB"
+    ],
+    "contacts": {
+      "email": "sanjar.mirzayev40@talaba.uz",
+      "phone": "+998908364607"
+    },
+    "scholarship": true
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": 10,
+  "title": "Boburnoma",
+  "authors": [
+    {
+      "name": "Zahiriddin Muhammad Bobur",
+      "country": "O'zbekiston"
+    }
+  ],
+  "year": 1530,
+  "language": "uz",
+  "genres": [
+    "tarix",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "Sharq",
+    "city": "Toshkent"
+  },
+  "price": {
+    "amount": 98000,
+    "currency": "UZS"
+  },
+  "rating": 4.1,
+  "in_stock": true,
+  "isbn": "978-9943-75-553-8",
+  "reviews": [
+    {
+      "user": "user971",
+      "stars": 5,
+      "text": "Ajoyib kitob"
+    },
+    {
+      "user": "user604",
+      "stars": 5,
+      "text": "Juda yoqdi!"
+    }
+  ]
+}

@@ -1,0 +1,2061 @@
+post_id,timestamp,user,platform,lang,text,likes,reposts,has_image,location
+1,2026-03-21 10:00:01,user_365,telegram,ru,Весна пришла #Toshkent,18,4,True,Namangan
+2,2026-03-21 10:00:02,user_257,facebook,uz,Ko'pkari boshlanyapti,15,3,True,Farg'ona
+3,2026-03-21 10:00:02,user_481,facebook,en,Visiting Samarkand today,9,0,True,Samarqand
+5,2026-03-21 10:00:04,user_43,facebook,uz,Bayram sayliga boramiz 🌷,9,1,True,Toshkent
+4,2026-03-21 10:00:05,user_97,instagram,uz,Sumalak tayyor,1,0,True,Toshkent
+6,2026-03-21 10:00:06,user_452,telegram,uz,Ko'pkari boshlanyapti,13,3,False,Andijon
+7,2026-03-21 10:00:06,user_396,telegram,uz,Hammaga tinchlik tilayman,75,19,True,Samarqand
+8,2026-03-21 10:00:07,user_58,telegram,en,Spring is here,53,10,False,Namangan
+9,2026-03-21 10:00:09,user_255,x,uz,Ko'pkari boshlanyapti #Toshkent,31,1,True,Toshkent
+10,2026-03-21 10:00:10,user_20,facebook,uz,Hammaga tinchlik tilayman,91,18,False,
+11,2026-03-21 10:00:11,user_44,telegram,uz,Do'stlar bilan sayil,36,9,True,Nukus
+12,2026-03-21 10:00:11,user_401,telegram,en,Spring is here #Toshkent,9,0,False,Toshkent
+13,2026-03-21 10:00:12,user_553,telegram,uz,Milliy taomlar festivali #Navruz2026,47,10,False,Toshkent
+14,2026-03-21 10:00:14,user_34,telegram,en,Visiting Samarkand today,14,3,False,
+15,2026-03-21 10:00:14,user_222,telegram,uz,Bugun Toshkentda havo ajoyib 😊,33,0,False,Toshkent
+17,2026-03-21 10:00:15,user_598,instagram,ru,Сумаляк готов,5,0,False,
+16,2026-03-21 10:00:16,user_61,telegram,uz,Navro'z muborak! 😊,57,7,True,Toshkent
+18,2026-03-21 10:00:18,user_371,telegram,uz,Ko'pkari boshlanyapti #Uzbekistan,33,5,False,
+19,2026-03-21 10:00:18,user_568,telegram,uz,Sumalak tayyor,44,11,False,Toshkent
+20,2026-03-21 10:00:19,user_261,telegram,en,Visiting Samarkand today,12,1,False,Qarshi
+21,2026-03-21 10:00:19,user_480,telegram,uz,"Yangi kun, yangi umid",5,0,True,Toshkent
+22,2026-03-21 10:00:20,user_84,telegram,ru,С праздником Навруз!,65,4,False,Namangan
+23,2026-03-21 10:00:21,user_327,instagram,uz,Bahor keldi,3,0,True,Buxoro
+24,2026-03-21 10:00:21,user_494,telegram,uz,"Yangi kun, yangi umid 😊",28,7,False,
+25,2026-03-21 10:00:23,user_474,telegram,uz,Milliy taomlar festivali,16,0,False,
+26,2026-03-21 10:00:24,user_597,instagram,ru,Сумаляк готов,3,0,False,Namangan
+27,2026-03-21 10:00:24,user_225,telegram,uz,Ko'pkari boshlanyapti,112,9,True,Buxoro
+29,2026-03-21 10:00:26,user_226,instagram,ru,С праздником Навруз!,88,20,True,Samarqand
+28,2026-03-21 10:00:27,user_180,x,uz,Bahor keldi #Navruz2026,51,1,True,Namangan
+30,2026-03-21 10:00:28,user_53,x,uz,Bugun Toshkentda havo ajoyib #Uzbekistan,1,0,False,Toshkent
+31,2026-03-21 10:00:29,user_272,x,ru,Отличная погода в Ташкенте,12,0,False,Toshkent
+32,2026-03-21 10:00:29,user_230,instagram,uz,Bahor keldi #Toshkent,4,1,False,
+33,2026-03-21 10:00:31,user_371,telegram,uz,Bayram sayliga boramiz,5,0,False,Samarqand
+34,2026-03-21 10:00:32,user_293,instagram,uz,Hammaga tinchlik tilayman,24,6,False,Toshkent
+35,2026-03-21 10:00:33,user_244,instagram,uz,Bahor keldi #Uzbekistan,59,7,False,
+36,2026-03-21 10:00:33,user_445,instagram,uz,Hammaga tinchlik tilayman,1,0,True,Toshkent
+37,2026-03-21 10:00:33,user_282,telegram,ru,Сумаляк готов #Uzbekistan,57,2,False,Toshkent
+38,2026-03-21 10:00:35,user_299,telegram,uz,Hammaga tinchlik tilayman,38,4,True,Buxoro
+39,2026-03-21 10:00:35,user_219,telegram,uz,"Yangi kun, yangi umid",9,0,False,Nukus
+40,2026-03-21 10:00:37,user_256,telegram,uz,"Yangi kun, yangi umid 😊",10,2,False,Samarqand
+42,2026-03-21 10:00:37,user_511,telegram,en,Visiting Samarkand today 😊,4,0,False,Toshkent
+41,2026-03-21 10:00:38,user_275,facebook,uz,Bayram sayliga boramiz,6,1,False,Samarqand
+43,2026-03-21 10:00:38,user_513,facebook,uz,Sumalak tayyor,19,3,False,Toshkent
+44,2026-03-21 10:00:39,user_222,x,uz,Hammaga tinchlik tilayman 🌷,6,1,False,Namangan
+45,2026-03-21 10:00:41,user_133,instagram,en,Happy Navruz!,61,10,True,Toshkent
+46,2026-03-21 10:00:42,user_476,instagram,en,Visiting Samarkand today,3,0,False,Toshkent
+47,2026-03-21 10:00:43,user_241,x,en,Spring is here #Toshkent,25,3,False,Samarqand
+48,2026-03-21 10:00:43,user_544,x,uz,Bahor keldi,4,0,False,Samarqand
+49,2026-03-21 10:00:44,user_48,instagram,uz,Sumalak tayyor,4,0,False,Toshkent
+50,2026-03-21 10:00:46,user_265,telegram,uz,Do'stlar bilan sayil 🌷,42,5,False,
+51,2026-03-21 10:00:46,user_73,instagram,uz,Hammaga tinchlik tilayman 🌷,27,2,True,Toshkent
+52,2026-03-21 10:00:48,user_475,instagram,uz,Ko'pkari boshlanyapti 😊,7,1,False,Toshkent
+53,2026-03-21 10:00:49,user_192,telegram,uz,"Yangi kun, yangi umid",31,4,False,Qarshi
+54,2026-03-21 10:00:49,user_215,instagram,uz,Bahor keldi #Uzbekistan,12,3,True,Andijon
+55,2026-03-21 10:00:50,user_62,instagram,uz,Ko'pkari boshlanyapti,37,8,True,Toshkent
+56,2026-03-21 10:00:50,user_368,instagram,ru,Сумаляк готов,49,6,False,
+57,2026-03-21 10:00:51,user_584,telegram,uz,,1,0,False,Buxoro
+58,2026-03-21 10:00:53,user_347,telegram,uz,Do'stlar bilan sayil,18,4,True,Andijon
+59,2026-03-21 10:00:53,user_405,telegram,uz,Ko'pkari boshlanyapti #Toshkent,15,3,False,Toshkent
+60,2026-03-21 10:00:54,user_280,instagram,uz,Bayram sayliga boramiz 🌷,1,0,False,Samarqand
+61,2026-03-21 10:00:55,user_478,x,uz,Ko'pkari boshlanyapti,24,4,True,
+62,2026-03-21 10:00:56,user_548,telegram,uz,Bahor keldi 😊,16,2,False,Farg'ona
+63,2026-03-21 10:00:58,user_110,telegram,en,Spring is here,32,9,False,Farg'ona
+65,2026-03-21 10:00:58,user_295,facebook,uz,Milliy taomlar festivali,40,8,False,Andijon
+64,2026-03-21 10:00:59,user_532,facebook,uz,Bugun Toshkentda havo ajoyib,18,4,False,Samarqand
+66,2026-03-21 10:00:59,user_405,telegram,uz,Ko'pkari boshlanyapti,3,0,False,Toshkent
+67,2026-03-21 10:01:02,user_522,instagram,uz,Do'stlar bilan sayil,9,0,True,Samarqand
+68,2026-03-21 10:01:02,user_145,telegram,uz,Sumalak tayyor 😊,86,14,True,Toshkent
+69,2026-03-21 10:01:03,user_374,instagram,uz,Bayram sayliga boramiz,4,1,False,Toshkent
+70,2026-03-21 10:01:04,user_35,telegram,uz,"Yangi kun, yangi umid #Navruz2026",9,1,False,Andijon
+71,2026-03-21 10:01:05,user_109,instagram,uz,Bahor keldi 🌷,21,4,False,
+73,2026-03-21 10:01:05,user_149,instagram,uz,Milliy taomlar festivali,40,2,True,Toshkent
+72,2026-03-21 10:01:06,user_262,telegram,uz,Do'stlar bilan sayil,3,0,False,Toshkent
+74,2026-03-21 10:01:06,user_212,telegram,uz,Milliy taomlar festivali,76,5,True,Samarqand
+75,2026-03-21 10:01:07,user_513,telegram,uz,"Yangi kun, yangi umid",9,1,False,Toshkent
+76,2026-03-21 10:01:08,user_220,x,ru,Весна пришла,21,4,False,Samarqand
+77,2026-03-21 10:01:09,user_69,telegram,uz,Milliy taomlar festivali,4,0,False,Toshkent
+78,2026-03-21 10:01:10,user_181,x,uz,Milliy taomlar festivali,69,18,False,Toshkent
+79,2026-03-21 10:01:12,user_287,telegram,ru,Весна пришла,167,14,True,Toshkent
+79,2026-03-21 10:01:12,user_287,telegram,ru,Весна пришла,167,14,True,Toshkent
+80,2026-03-21 10:01:13,user_220,telegram,ru,С праздником Навруз!,28,8,True,
+81,2026-03-21 10:01:13,user_345,instagram,uz,"Yangi kun, yangi umid",7,0,False,
+82,2026-03-21 10:01:14,user_324,x,uz,Bugun Toshkentda havo ajoyib,70,19,True,Qarshi
+83,2026-03-21 10:01:16,user_399,telegram,uz,Bugun Toshkentda havo ajoyib,34,3,False,
+84,2026-03-21 10:01:16,user_44,x,uz,Navro'z muborak!,12,0,False,Samarqand
+85,2026-03-21 10:01:17,user_121,facebook,uz,Navro'z muborak!,99,5,True,Toshkent
+86,2026-03-21 10:01:18,user_574,facebook,ru,Сумаляк готов,35,6,True,Andijon
+87,2026-03-21 10:01:19,user_206,telegram,uz,Bayram sayliga boramiz,20,0,False,Toshkent
+88,2026-03-21 10:01:20,user_571,telegram,uz,Sumalak tayyor #Toshkent,7,1,True,Buxoro
+89,2026-03-21 10:01:20,user_83,instagram,uz,"Yangi kun, yangi umid 😊",24,0,True,Buxoro
+90,2026-03-21 10:01:21,user_86,facebook,uz,Hammaga tinchlik tilayman 😊,18,0,False,
+91,2026-03-21 10:01:23,user_399,instagram,uz,Bahor keldi,8,0,True,Toshkent
+92,2026-03-21 10:01:24,user_214,telegram,uz,Navro'z muborak! #Uzbekistan,14,3,False,Toshkent
+93,2026-03-21 10:01:24,user_289,telegram,uz,Sumalak tayyor #Navruz2026,6,0,True,
+94,2026-03-21 10:01:25,user_285,telegram,uz,Sumalak tayyor,2,0,True,Qarshi
+95,2026-03-21 10:01:26,user_491,facebook,ru,Весна пришла,12,1,True,Toshkent
+97,2026-03-21 10:01:27,user_492,x,ru,,24,2,True,Toshkent
+96,2026-03-21 10:01:28,user_445,telegram,uz,Milliy taomlar festivali,93,13,True,Namangan
+96,2026-03-21 10:01:28,user_445,telegram,uz,Milliy taomlar festivali,93,13,True,Namangan
+98,2026-03-21 10:01:29,user_72,telegram,uz,Milliy taomlar festivali #bahor,32,7,False,
+99,2026-03-21 10:01:29,user_556,telegram,ru,Сумаляк готов #Navruz2026,8,1,False,Samarqand
+100,2026-03-21 10:01:30,user_574,telegram,uz,Bahor keldi,8,0,False,Toshkent
+101,2026-03-21 10:01:30,user_600,instagram,uz,Hammaga tinchlik tilayman,36,7,False,Qarshi
+102,2026-03-21 10:01:33,user_210,x,uz,Ko'pkari boshlanyapti,4,0,False,Toshkent
+103,2026-03-21 10:01:33,user_417,facebook,uz,"Yangi kun, yangi umid 😊",1,0,False,
+104,2026-03-21 10:01:34,user_103,telegram,uz,Navro'z muborak! #Uzbekistan,18,2,True,Toshkent
+105,2026-03-21 10:01:35,user_531,telegram,ru,Весна пришла,16,2,False,
+106,2026-03-21 10:01:37,user_68,telegram,uz,Bugun Toshkentda havo ajoyib,0,0,True,
+108,2026-03-21 10:01:37,user_153,telegram,ru,Весна пришла,4,0,False,Toshkent
+107,2026-03-21 10:01:38,user_512,telegram,uz,Do'stlar bilan sayil #Navruz2026,2,0,False,Buxoro
+109,2026-03-21 10:01:38,user_86,telegram,uz,Sumalak tayyor,25,6,True,Buxoro
+110,2026-03-21 10:01:39,user_123,x,uz,Milliy taomlar festivali #Uzbekistan,9,2,False,Toshkent
+111,2026-03-21 10:01:40,user_177,telegram,uz,Bugun Toshkentda havo ajoyib,2,0,True,Samarqand
+112,2026-03-21 10:01:41,user_362,instagram,ru,Весна пришла,12,0,True,Andijon
+113,2026-03-21 10:01:41,user_131,instagram,ru,Отличная погода в Ташкенте,8,2,True,Toshkent
+114,2026-03-21 10:01:44,user_75,telegram,en,Spring is here,10,0,True,Samarqand
+115,2026-03-21 10:01:44,user_178,instagram,uz,,89,3,False,Toshkent
+116,2026-03-21 10:01:45,user_175,instagram,uz,Do'stlar bilan sayil,28,5,True,Farg'ona
+117,2026-03-21 10:01:47,user_424,facebook,uz,Hammaga tinchlik tilayman,5,0,False,Buxoro
+118,2026-03-21 10:01:47,user_150,telegram,ru,Отличная погода в Ташкенте 🌷,5,0,False,Toshkent
+118,2026-03-21 10:01:47,user_150,telegram,ru,Отличная погода в Ташкенте 🌷,5,0,False,Toshkent
+119,2026-03-21 10:01:48,user_550,telegram,uz,Hammaga tinchlik tilayman 🌷,12,2,False,Toshkent
+120,2026-03-21 10:01:49,user_490,telegram,uz,Bugun Toshkentda havo ajoyib,72,8,True,Farg'ona
+121,2026-03-21 10:01:50,user_556,instagram,uz,Sumalak tayyor #Toshkent,40,7,True,Samarqand
+122,2026-03-21 10:01:50,user_152,telegram,uz,Navro'z muborak!,13,2,False,Buxoro
+123,2026-03-21 10:01:52,user_210,telegram,uz,Bugun Toshkentda havo ajoyib,33,5,False,Toshkent
+124,2026-03-21 10:01:52,user_420,telegram,ru,Отличная погода в Ташкенте #Toshkent,67,16,False,Toshkent
+125,2026-03-21 10:01:53,user_195,instagram,uz,Bugun Toshkentda havo ajoyib,49,2,False,Toshkent
+126,2026-03-21 10:01:53,user_213,telegram,uz,Bahor keldi,20,4,False,Toshkent
+127,2026-03-21 10:01:54,user_326,telegram,uz,Navro'z muborak!,27,6,False,Toshkent
+128,2026-03-21 10:01:55,user_390,telegram,uz,Milliy taomlar festivali,31,2,False,Toshkent
+129,2026-03-21 10:01:56,user_111,instagram,uz,Bahor keldi,3,0,False,Toshkent
+130,2026-03-21 10:01:58,user_46,x,uz,Sumalak tayyor,1,0,False,Toshkent
+131,2026-03-21 10:01:58,user_477,telegram,uz,Hammaga tinchlik tilayman,2,0,True,Samarqand
+130,2026-03-21 10:01:58,user_46,x,uz,Sumalak tayyor,1,0,False,Toshkent
+133,2026-03-21 10:01:59,user_542,x,uz,Bugun Toshkentda havo ajoyib,23,4,False,Toshkent
+132,2026-03-21 10:02:00,user_76,instagram,uz,Navro'z muborak!,12,0,False,Toshkent
+134,2026-03-21 10:02:01,user_277,instagram,uz,Bayram sayliga boramiz,7,0,True,Andijon
+135,2026-03-21 10:02:02,user_577,x,uz,Navro'z muborak!,31,0,False,Andijon
+136,2026-03-21 10:02:02,user_108,telegram,uz,Bayram sayliga boramiz,38,11,False,Toshkent
+137,2026-03-21 10:02:03,user_226,instagram,ru,Сумаляк готов,4,1,False,Buxoro
+137,2026-03-21 10:02:03,user_226,instagram,ru,Сумаляк готов,4,1,False,Buxoro
+138,2026-03-21 10:02:04,user_265,telegram,en,Visiting Samarkand today,35,0,False,
+139,2026-03-21 10:02:06,user_428,x,uz,Do'stlar bilan sayil,16,3,False,Toshkent
+140,2026-03-21 10:02:06,user_282,x,uz,Bugun Toshkentda havo ajoyib 🌷,13,3,True,
+141,2026-03-21 10:02:08,user_114,telegram,en,Spring is here #Navruz2026,68,20,False,Toshkent
+142,2026-03-21 10:02:09,user_151,instagram,uz,Sumalak tayyor #Toshkent,27,2,False,
+143,2026-03-21 10:02:09,user_538,x,uz,Ko'pkari boshlanyapti,12,0,True,Toshkent
+144,2026-03-21 10:02:09,user_231,telegram,uz,Bayram sayliga boramiz,15,0,True,Samarqand
+145,2026-03-21 10:02:11,user_164,telegram,uz,Do'stlar bilan sayil,14,0,False,Toshkent
+146,2026-03-21 10:02:12,user_535,telegram,ru,С праздником Навруз!,25,1,True,Qarshi
+147,2026-03-21 10:02:14,user_543,x,uz,Bugun Toshkentda havo ajoyib 😊,7,2,True,Toshkent
+148,2026-03-21 10:02:14,user_56,telegram,uz,Navro'z muborak! #bahor,0,0,True,Samarqand
+149,2026-03-21 10:02:14,user_375,x,uz,Ko'pkari boshlanyapti,11,1,False,Toshkent
+150,2026-03-21 10:02:16,user_128,facebook,uz,Do'stlar bilan sayil,17,1,False,Farg'ona
+151,2026-03-21 10:02:17,user_383,instagram,uz,Ko'pkari boshlanyapti,51,5,False,Toshkent
+152,2026-03-21 10:02:18,user_144,telegram,uz,Bahor keldi,2,0,False,
+153,2026-03-21 10:02:18,user_406,x,ru,С праздником Навруз!,3,0,False,Toshkent
+154,2026-03-21 10:02:18,user_285,facebook,uz,Sumalak tayyor,45,9,False,Buxoro
+155,2026-03-21 10:02:20,user_540,telegram,uz,Navro'z muborak! #Toshkent,4,0,False,Nukus
+156,2026-03-21 10:02:21,user_150,telegram,uz,Bugun Toshkentda havo ajoyib,2,0,False,Toshkent
+157,2026-03-21 10:02:21,user_104,telegram,uz,Hammaga tinchlik tilayman,27,6,False,Namangan
+158,2026-03-21 10:02:23,user_333,x,uz,Bayram sayliga boramiz 🌷,65,14,True,Farg'ona
+159,2026-03-21 10:02:24,user_5,instagram,ru,Весна пришла 😊,0,0,False,Toshkent
+160,2026-03-21 10:02:24,user_236,telegram,uz,Hammaga tinchlik tilayman,71,17,True,Toshkent
+161,2026-03-21 10:02:26,user_539,instagram,uz,Bahor keldi 🌷,0,0,False,Samarqand
+162,2026-03-21 10:02:27,user_215,telegram,uz,Do'stlar bilan sayil,45,13,True,
+163,2026-03-21 10:02:28,user_217,instagram,uz,Sumalak tayyor,23,5,True,
+164,2026-03-21 10:02:28,user_583,x,uz,"Yangi kun, yangi umid 😊",36,9,False,Toshkent
+165,2026-03-21 10:02:29,user_563,telegram,ru,С праздником Навруз! #Toshkent,18,2,False,Buxoro
+166,2026-03-21 10:02:29,user_587,instagram,uz,"Yangi kun, yangi umid 😊",92,21,True,Buxoro
+167,2026-03-21 10:02:31,user_407,facebook,en,Great festival in Tashkent 🌷,6,1,False,Buxoro
+168,2026-03-21 10:02:32,user_282,x,uz,"Yangi kun, yangi umid",8,0,False,Toshkent
+169,2026-03-21 10:02:33,user_521,telegram,uz,Ko'pkari boshlanyapti #bahor,2,0,False,Namangan
+170,2026-03-21 10:02:34,user_94,instagram,uz,Navro'z muborak! 😊,13,1,False,
+171,2026-03-21 10:02:34,user_112,facebook,uz,Sumalak tayyor,97,22,False,Toshkent
+170,2026-03-21 10:02:34,user_94,instagram,uz,Navro'z muborak! 😊,13,1,False,
+172,2026-03-21 10:02:35,user_420,instagram,uz,Bayram sayliga boramiz,89,16,False,Toshkent
+173,2026-03-21 10:02:37,user_511,telegram,uz,Bugun Toshkentda havo ajoyib #Navruz2026,3,0,False,Andijon
+174,2026-03-21 10:02:38,user_300,telegram,uz,Do'stlar bilan sayil #Toshkent,44,1,False,Buxoro
+176,2026-03-21 10:02:38,user_520,telegram,uz,Ko'pkari boshlanyapti,25,2,False,Buxoro
+175,2026-03-21 10:02:39,user_304,instagram,uz,Milliy taomlar festivali #Uzbekistan,21,5,True,
+177,2026-03-21 10:02:39,user_432,instagram,ru,Отличная погода в Ташкенте #Toshkent,15,2,False,Qarshi
+178,2026-03-21 10:02:40,user_547,instagram,uz,Do'stlar bilan sayil,33,3,False,Qarshi
+179,2026-03-21 10:02:42,user_215,facebook,ru,Сумаляк готов #Uzbekistan,86,2,False,Toshkent
+180,2026-03-21 10:02:42,user_402,telegram,uz,Ko'pkari boshlanyapti,11,1,False,Buxoro
+181,2026-03-21 10:02:44,user_131,instagram,en,Spring is here,4,0,True,Toshkent
+182,2026-03-21 10:02:44,user_46,telegram,uz,Bugun Toshkentda havo ajoyib,7,1,True,Andijon
+184,2026-03-21 10:02:45,user_132,instagram,ru,Весна пришла 😊,1,0,False,
+183,2026-03-21 10:02:46,user_463,telegram,uz,Sumalak tayyor,12,0,False,Toshkent
+185,2026-03-21 10:02:47,user_223,instagram,ru,,18,3,False,Toshkent
+186,2026-03-21 10:02:47,user_217,instagram,ru,Весна пришла,9,1,True,Toshkent
+187,2026-03-21 10:02:49,user_414,telegram,uz,Do'stlar bilan sayil,0,0,False,Buxoro
+188,2026-03-21 10:02:51,user_236,telegram,uz,Sumalak tayyor,16,0,False,Farg'ona
+189,2026-03-21 10:02:51,user_409,telegram,uz,Milliy taomlar festivali #Navruz2026,6,0,False,
+190,2026-03-21 10:02:52,user_223,instagram,uz,,22,5,True,Toshkent
+191,2026-03-21 10:02:52,user_68,telegram,ru,Отличная погода в Ташкенте,23,5,False,Toshkent
+192,2026-03-21 10:02:53,user_442,facebook,ru,Весна пришла,13,0,True,Samarqand
+193,2026-03-21 10:02:54,user_78,telegram,en,Great festival in Tashkent,12,3,False,Toshkent
+194,2026-03-21 10:02:54,user_485,instagram,ru,Весна пришла,36,9,False,Qarshi
+195,2026-03-21 10:02:55,user_72,facebook,uz,"Yangi kun, yangi umid",32,6,True,Toshkent
+196,2026-03-21 10:02:57,user_322,instagram,en,,5,0,True,Namangan
+197,2026-03-21 10:02:58,user_28,instagram,uz,"Yangi kun, yangi umid",5,0,False,Toshkent
+198,2026-03-21 10:02:58,user_515,telegram,uz,Ko'pkari boshlanyapti,0,0,False,Toshkent
+199,2026-03-21 10:03:00,user_569,telegram,uz,Sumalak tayyor,72,16,True,
+200,2026-03-21 10:03:00,user_200,telegram,ru,,9,0,False,Buxoro
+201,2026-03-21 10:03:00,user_179,instagram,en,Great festival in Tashkent 😊,113,4,False,Buxoro
+202,2026-03-21 10:03:01,user_18,telegram,ru,Отличная погода в Ташкенте,14,0,False,Farg'ona
+203,2026-03-21 10:03:02,user_121,instagram,uz,"Yangi kun, yangi umid",157,17,True,Andijon
+204,2026-03-21 10:03:04,user_500,facebook,uz,"Yangi kun, yangi umid",2,0,False,Samarqand
+205,2026-03-21 10:03:05,user_157,telegram,uz,Milliy taomlar festivali 😊,4,0,True,Farg'ona
+206,2026-03-21 10:03:06,user_372,x,uz,Bayram sayliga boramiz,88,0,True,Samarqand
+207,2026-03-21 10:03:08,user_258,instagram,uz,,12,2,False,Toshkent
+208,2026-03-21 10:03:08,user_57,telegram,uz,"Yangi kun, yangi umid",26,1,False,Toshkent
+209,2026-03-21 10:03:09,user_210,telegram,ru,С праздником Навруз!,85,15,False,Buxoro
+210,2026-03-21 10:03:09,user_210,telegram,en,Visiting Samarkand today,35,5,False,
+209,2026-03-21 10:03:09,user_210,telegram,ru,С праздником Навруз!,85,15,False,Buxoro
+211,2026-03-21 10:03:10,user_570,telegram,ru,Сумаляк готов,18,1,False,Toshkent
+212,2026-03-21 10:03:10,user_16,instagram,uz,Ko'pkari boshlanyapti,0,0,False,Toshkent
+213,2026-03-21 10:03:12,user_522,x,uz,Bayram sayliga boramiz,21,2,False,
+214,2026-03-21 10:03:13,user_526,telegram,uz,Do'stlar bilan sayil,21,4,False,
+215,2026-03-21 10:03:15,user_477,telegram,uz,Sumalak tayyor 🌷,5,0,False,Toshkent
+216,2026-03-21 10:03:15,user_540,instagram,ru,С праздником Навруз!,162,25,True,Toshkent
+217,2026-03-21 10:03:15,user_409,instagram,uz,Sumalak tayyor,11,3,False,Toshkent
+218,2026-03-21 10:03:17,user_166,telegram,uz,Bayram sayliga boramiz,4,0,False,Toshkent
+219,2026-03-21 10:03:18,user_251,instagram,en,Spring is here #Uzbekistan,19,5,True,
+220,2026-03-21 10:03:19,user_357,telegram,uz,Milliy taomlar festivali,33,9,False,Toshkent
+221,2026-03-21 10:03:20,user_566,instagram,uz,Do'stlar bilan sayil,9,2,True,Toshkent
+222,2026-03-21 10:03:21,user_229,x,uz,Ko'pkari boshlanyapti,16,0,True,
+223,2026-03-21 10:03:21,user_421,telegram,uz,Bahor keldi,30,0,True,Samarqand
+224,2026-03-21 10:03:22,user_35,x,uz,"Yangi kun, yangi umid #Toshkent",2,0,False,Buxoro
+225,2026-03-21 10:03:23,user_187,telegram,uz,Navro'z muborak!,23,0,False,Farg'ona
+226,2026-03-21 10:03:23,user_329,instagram,uz,Milliy taomlar festivali,7,1,False,
+227,2026-03-21 10:03:25,user_243,telegram,ru,Отличная погода в Ташкенте,43,2,False,Samarqand
+228,2026-03-21 10:03:26,user_576,telegram,uz,Bugun Toshkentda havo ajoyib,42,7,False,
+229,2026-03-21 10:03:27,user_444,instagram,uz,Sumalak tayyor 😊,18,4,False,Buxoro
+230,2026-03-21 10:03:28,user_579,telegram,en,Happy Navruz!,6,1,False,Buxoro
+231,2026-03-21 10:03:29,user_98,instagram,ru,Отличная погода в Ташкенте,1,0,False,Toshkent
+232,2026-03-21 10:03:30,user_435,facebook,uz,Bahor keldi,12,1,False,Samarqand
+233,2026-03-21 10:03:30,user_572,instagram,ru,Сумаляк готов,20,3,False,Toshkent
+235,2026-03-21 10:03:31,user_427,facebook,ru,Весна пришла,9,0,False,Toshkent
+234,2026-03-21 10:03:32,user_72,instagram,uz,Hammaga tinchlik tilayman,60,13,False,Namangan
+236,2026-03-21 10:03:33,user_563,instagram,uz,Bahor keldi,0,0,False,
+237,2026-03-21 10:03:35,user_565,facebook,uz,"Yangi kun, yangi umid",0,0,True,Toshkent
+238,2026-03-21 10:03:35,user_353,telegram,uz,Bayram sayliga boramiz,0,0,False,Qarshi
+239,2026-03-21 10:03:36,user_309,facebook,uz,Bahor keldi,13,3,False,Toshkent
+240,2026-03-21 10:03:36,user_509,x,uz,Milliy taomlar festivali,6,0,False,Qarshi
+242,2026-03-21 10:03:37,user_460,telegram,uz,Hammaga tinchlik tilayman #Uzbekistan,6,1,True,Samarqand
+241,2026-03-21 10:03:38,user_136,telegram,uz,Sumalak tayyor #bahor,20,2,False,Samarqand
+244,2026-03-21 10:03:39,user_271,facebook,uz,Sumalak tayyor,4,0,True,Toshkent
+243,2026-03-21 10:03:40,user_2,instagram,uz,Bahor keldi,14,0,False,Toshkent
+245,2026-03-21 10:03:40,user_472,telegram,uz,"Yangi kun, yangi umid #Uzbekistan",35,5,False,Toshkent
+246,2026-03-21 10:03:41,user_319,instagram,en,Visiting Samarkand today,5,1,True,Namangan
+247,2026-03-21 10:03:43,user_274,instagram,en,Spring is here,7,0,True,Buxoro
+248,2026-03-21 10:03:44,user_280,telegram,ru,Сумаляк готов,34,4,True,Namangan
+249,2026-03-21 10:03:45,user_441,x,uz,Sumalak tayyor,57,12,False,Toshkent
+250,2026-03-21 10:03:45,user_320,telegram,uz,Bahor keldi,5,0,False,
+251,2026-03-21 10:03:46,user_255,facebook,ru,С праздником Навруз! 😊,0,0,False,Andijon
+252,2026-03-21 10:03:47,user_375,instagram,uz,Hammaga tinchlik tilayman,25,4,False,Toshkent
+253,2026-03-21 10:03:49,user_485,telegram,en,Great festival in Tashkent,6,0,False,Farg'ona
+254,2026-03-21 10:03:49,user_525,instagram,ru,Весна пришла,35,2,True,Toshkent
+255,2026-03-21 10:03:49,user_410,instagram,uz,Bahor keldi,2,0,True,
+256,2026-03-21 10:03:51,user_63,telegram,uz,Hammaga tinchlik tilayman,19,1,True,Toshkent
+257,2026-03-21 10:03:51,user_290,telegram,uz,Ko'pkari boshlanyapti,81,19,False,Toshkent
+258,2026-03-21 10:03:53,user_502,telegram,uz,Bahor keldi,25,7,False,Toshkent
+258,2026-03-21 10:03:53,user_502,telegram,uz,Bahor keldi,25,7,False,Toshkent
+259,2026-03-21 10:03:54,user_301,x,uz,"Yangi kun, yangi umid",59,2,True,Samarqand
+260,2026-03-21 10:03:54,user_305,telegram,uz,Ko'pkari boshlanyapti,4,0,False,Toshkent
+261,2026-03-21 10:03:55,user_144,instagram,uz,"Yangi kun, yangi umid",4,0,False,Toshkent
+262,2026-03-21 10:03:56,user_229,instagram,uz,Ko'pkari boshlanyapti,33,2,False,Toshkent
+263,2026-03-21 10:03:57,user_217,instagram,uz,Navro'z muborak!,76,18,False,Namangan
+264,2026-03-21 10:03:58,user_430,instagram,ru,Весна пришла,36,6,False,Nukus
+265,2026-03-21 10:03:58,user_508,telegram,uz,Navro'z muborak! 😊,2,0,True,
+266,2026-03-21 10:04:00,user_272,x,uz,Milliy taomlar festivali,16,1,False,Samarqand
+267,2026-03-21 10:04:00,user_213,telegram,ru,С праздником Навруз! #Uzbekistan,28,4,False,
+268,2026-03-21 10:04:02,user_198,facebook,en,Spring is here #Uzbekistan,10,0,True,Toshkent
+269,2026-03-21 10:04:02,user_313,telegram,uz,Sumalak tayyor #bahor,1,0,False,Toshkent
+270,2026-03-21 10:04:03,user_308,instagram,en,Happy Navruz!,28,5,True,
+271,2026-03-21 10:04:04,user_121,telegram,uz,Bahor keldi,7,1,True,Buxoro
+273,2026-03-21 10:04:05,user_453,telegram,uz,Ko'pkari boshlanyapti,2,0,False,Buxoro
+272,2026-03-21 10:04:06,user_97,instagram,uz,,31,3,True,Buxoro
+274,2026-03-21 10:04:07,user_264,telegram,uz,Hammaga tinchlik tilayman 😊,21,0,True,
+275,2026-03-21 10:04:08,user_1,instagram,uz,Bugun Toshkentda havo ajoyib,9,1,False,Toshkent
+276,2026-03-21 10:04:08,user_363,telegram,en,Happy Navruz!,14,1,False,Farg'ona
+277,2026-03-21 10:04:10,user_207,facebook,uz,Bugun Toshkentda havo ajoyib,43,3,True,Buxoro
+278,2026-03-21 10:04:11,user_302,telegram,ru,Сумаляк готов #Uzbekistan,1,0,True,Samarqand
+279,2026-03-21 10:04:12,user_287,instagram,uz,"Yangi kun, yangi umid 😊",18,3,True,Samarqand
+280,2026-03-21 10:04:13,user_177,instagram,ru,Весна пришла,9,0,True,Toshkent
+281,2026-03-21 10:04:13,user_411,x,uz,Sumalak tayyor,18,2,True,Qarshi
+282,2026-03-21 10:04:14,user_388,x,ru,Весна пришла,5,0,True,Toshkent
+283,2026-03-21 10:04:15,user_229,x,uz,Bahor keldi #Uzbekistan,35,4,True,Farg'ona
+284,2026-03-21 10:04:16,user_462,telegram,uz,Hammaga tinchlik tilayman,11,1,False,Andijon
+285,2026-03-21 10:04:16,user_54,instagram,uz,Do'stlar bilan sayil,35,3,False,Namangan
+286,2026-03-21 10:04:18,user_400,x,uz,Sumalak tayyor #bahor,6,1,True,Toshkent
+287,2026-03-21 10:04:18,user_481,telegram,uz,Sumalak tayyor,9,2,True,Farg'ona
+288,2026-03-21 10:04:20,user_23,instagram,uz,"Yangi kun, yangi umid",10,2,False,Samarqand
+289,2026-03-21 10:04:20,user_325,telegram,ru,Сумаляк готов,83,14,False,
+288,2026-03-21 10:04:20,user_23,instagram,uz,"Yangi kun, yangi umid",10,2,False,Samarqand
+290,2026-03-21 10:04:22,user_60,instagram,uz,Bahor keldi,0,0,True,Toshkent
+292,2026-03-21 10:04:22,user_400,telegram,uz,Bugun Toshkentda havo ajoyib,10,1,False,Farg'ona
+291,2026-03-21 10:04:23,user_87,instagram,uz,Milliy taomlar festivali #Toshkent,17,0,True,Toshkent
+293,2026-03-21 10:04:23,user_448,telegram,uz,Navro'z muborak! 😊,17,4,False,Toshkent
+294,2026-03-21 10:04:25,user_458,instagram,uz,Hammaga tinchlik tilayman #Toshkent,40,8,True,
+295,2026-03-21 10:04:27,user_88,facebook,uz,Sumalak tayyor #Uzbekistan,5,1,False,Samarqand
+296,2026-03-21 10:04:27,user_483,instagram,ru,Сумаляк готов,7,0,False,Toshkent
+297,2026-03-21 10:04:27,user_292,telegram,uz,Hammaga tinchlik tilayman 😊,34,2,False,Buxoro
+298,2026-03-21 10:04:29,user_278,instagram,uz,Navro'z muborak!,13,2,False,Toshkent
+299,2026-03-21 10:04:30,user_148,telegram,uz,,3,0,True,Toshkent
+300,2026-03-21 10:04:30,user_105,x,uz,Bayram sayliga boramiz,15,0,False,Toshkent
+301,2026-03-21 10:04:31,user_334,telegram,en,Visiting Samarkand today,37,10,True,Toshkent
+302,2026-03-21 10:04:32,user_237,telegram,ru,Весна пришла,55,13,False,Toshkent
+303,2026-03-21 10:04:34,user_293,telegram,uz,Ko'pkari boshlanyapti,4,0,False,Toshkent
+305,2026-03-21 10:04:34,user_590,instagram,uz,Navro'z muborak!,21,4,True,Buxoro
+304,2026-03-21 10:04:35,user_420,telegram,ru,Сумаляк готов,34,2,True,Toshkent
+306,2026-03-21 10:04:36,user_595,telegram,uz,Bayram sayliga boramiz,5,0,True,Andijon
+307,2026-03-21 10:04:36,user_521,telegram,ru,Весна пришла,5,0,False,Andijon
+308,2026-03-21 10:04:38,user_377,instagram,uz,Bayram sayliga boramiz,22,3,True,Samarqand
+309,2026-03-21 10:04:39,user_319,facebook,uz,Bahor keldi 😊,1,0,False,Andijon
+310,2026-03-21 10:04:39,user_365,telegram,uz,Milliy taomlar festivali #Navruz2026,5,1,True,Qarshi
+311,2026-03-21 10:04:40,user_79,instagram,ru,Сумаляк готов,49,12,False,Andijon
+312,2026-03-21 10:04:41,user_181,x,uz,Hammaga tinchlik tilayman,31,7,False,Samarqand
+313,2026-03-21 10:04:43,user_360,instagram,uz,Sumalak tayyor,66,8,False,Toshkent
+314,2026-03-21 10:04:43,user_136,instagram,uz,Bayram sayliga boramiz #Navruz2026,24,1,False,Toshkent
+315,2026-03-21 10:04:43,user_109,telegram,uz,Milliy taomlar festivali,12,0,False,Toshkent
+316,2026-03-21 10:04:45,user_299,telegram,ru,Весна пришла #bahor,26,4,True,Samarqand
+317,2026-03-21 10:04:45,user_287,telegram,uz,Ko'pkari boshlanyapti,54,12,False,Toshkent
+318,2026-03-21 10:04:46,user_521,instagram,en,Great festival in Tashkent,14,0,False,Toshkent
+319,2026-03-21 10:04:48,user_441,facebook,uz,Ko'pkari boshlanyapti,68,15,False,Namangan
+320,2026-03-21 10:04:48,user_391,instagram,uz,Milliy taomlar festivali,30,6,False,Samarqand
+321,2026-03-21 10:04:50,user_388,telegram,uz,"Yangi kun, yangi umid",24,0,False,Toshkent
+322,2026-03-21 10:04:51,user_149,instagram,uz,Milliy taomlar festivali,55,5,False,
+323,2026-03-21 10:04:51,user_594,facebook,ru,Отличная погода в Ташкенте,9,2,False,Toshkent
+324,2026-03-21 10:04:52,user_357,instagram,en,Happy Navruz!,21,5,True,Toshkent
+325,2026-03-21 10:04:53,user_350,x,uz,Ko'pkari boshlanyapti #Uzbekistan,16,3,True,Samarqand
+326,2026-03-21 10:04:54,user_313,x,uz,Bugun Toshkentda havo ajoyib,3,0,True,Samarqand
+327,2026-03-21 10:04:54,user_351,instagram,uz,Do'stlar bilan sayil,11,3,False,Farg'ona
+328,2026-03-21 10:04:56,user_215,instagram,uz,Sumalak tayyor 🌷,1,0,False,Toshkent
+329,2026-03-21 10:04:57,user_506,instagram,uz,,19,5,True,Samarqand
+330,2026-03-21 10:04:58,user_504,telegram,uz,Sumalak tayyor,4,1,False,Nukus
+331,2026-03-21 10:04:59,user_63,x,ru,Сумаляк готов,4,0,True,Toshkent
+332,2026-03-21 10:04:59,user_305,telegram,uz,Bahor keldi,6,0,False,Toshkent
+334,2026-03-21 10:05:00,user_9,instagram,uz,Sumalak tayyor #Uzbekistan,25,4,False,Namangan
+333,2026-03-21 10:05:01,user_335,facebook,uz,"Yangi kun, yangi umid",23,3,False,
+333,2026-03-21 10:05:01,user_335,facebook,uz,"Yangi kun, yangi umid",23,3,False,
+336,2026-03-21 10:05:02,user_561,x,uz,Bugun Toshkentda havo ajoyib,23,2,False,Toshkent
+335,2026-03-21 10:05:03,user_36,instagram,ru,Сумаляк готов,21,6,True,Andijon
+337,2026-03-21 10:05:03,user_265,telegram,uz,Bayram sayliga boramiz,19,4,False,Samarqand
+338,2026-03-21 10:05:06,user_578,x,uz,Bayram sayliga boramiz,33,3,False,Toshkent
+339,2026-03-21 10:05:06,user_349,telegram,uz,Bayram sayliga boramiz,5,0,False,Buxoro
+340,2026-03-21 10:05:07,user_410,telegram,uz,Do'stlar bilan sayil,34,4,True,Samarqand
+342,2026-03-21 10:05:07,user_473,telegram,uz,Do'stlar bilan sayil,27,0,False,Samarqand
+341,2026-03-21 10:05:08,user_412,telegram,uz,Ko'pkari boshlanyapti #Navruz2026,0,0,True,Andijon
+343,2026-03-21 10:05:09,user_296,telegram,uz,Bugun Toshkentda havo ajoyib #Toshkent,23,6,False,Toshkent
+344,2026-03-21 10:05:11,user_381,telegram,en,Spring is here,22,4,False,Andijon
+345,2026-03-21 10:05:12,user_86,facebook,ru,,10,2,False,Buxoro
+346,2026-03-21 10:05:12,user_444,x,ru,Отличная погода в Ташкенте,64,11,False,Samarqand
+347,2026-03-21 10:05:14,user_315,x,uz,Navro'z muborak!,3,0,True,Farg'ona
+348,2026-03-21 10:05:14,user_95,telegram,ru,С праздником Навруз!,3,0,True,Toshkent
+349,2026-03-21 10:05:14,user_182,instagram,uz,Bahor keldi,5,1,False,Toshkent
+348,2026-03-21 10:05:14,user_95,telegram,ru,С праздником Навруз!,3,0,True,Toshkent
+350,2026-03-21 10:05:16,user_200,facebook,uz,Hammaga tinchlik tilayman,10,1,False,Toshkent
+351,2026-03-21 10:05:16,user_212,telegram,uz,Bahor keldi,31,1,False,Nukus
+352,2026-03-21 10:05:17,user_119,instagram,uz,Ko'pkari boshlanyapti #Navruz2026,12,0,False,
+353,2026-03-21 10:05:18,user_400,telegram,uz,Navro'z muborak! #Navruz2026,4,0,True,Toshkent
+354,2026-03-21 10:05:19,user_177,telegram,uz,Bayram sayliga boramiz,20,3,False,Toshkent
+355,2026-03-21 10:05:19,user_248,instagram,uz,Milliy taomlar festivali,168,27,False,Toshkent
+356,2026-03-21 10:05:20,user_534,x,uz,Sumalak tayyor,31,4,False,Toshkent
+357,2026-03-21 10:05:22,user_44,telegram,uz,Sumalak tayyor 🌷,10,0,False,Toshkent
+358,2026-03-21 10:05:22,user_458,telegram,uz,"Yangi kun, yangi umid",9,2,True,Buxoro
+359,2026-03-21 10:05:24,user_399,instagram,ru,С праздником Навруз!,14,0,True,Toshkent
+360,2026-03-21 10:05:25,user_213,telegram,uz,Bayram sayliga boramiz 😊,47,9,True,Toshkent
+361,2026-03-21 10:05:25,user_406,telegram,ru,Отличная погода в Ташкенте #Uzbekistan,14,2,False,Samarqand
+362,2026-03-21 10:05:27,user_360,instagram,uz,Do'stlar bilan sayil,7,0,False,Nukus
+363,2026-03-21 10:05:27,user_91,telegram,uz,Hammaga tinchlik tilayman,4,0,True,Toshkent
+364,2026-03-21 10:05:29,user_193,telegram,ru,С праздником Навруз! 🌷,19,2,True,Toshkent
+366,2026-03-21 10:05:29,user_427,telegram,uz,"Yangi kun, yangi umid",18,0,True,Samarqand
+365,2026-03-21 10:05:30,user_159,telegram,ru,С праздником Навруз! #bahor,0,0,False,Farg'ona
+367,2026-03-21 10:05:31,user_448,facebook,uz,Hammaga tinchlik tilayman,0,0,True,Toshkent
+368,2026-03-21 10:05:32,user_3,instagram,uz,Milliy taomlar festivali,21,3,False,Buxoro
+369,2026-03-21 10:05:33,user_559,telegram,uz,Sumalak tayyor,12,2,False,Farg'ona
+370,2026-03-21 10:05:33,user_327,facebook,uz,Sumalak tayyor,6,1,True,Toshkent
+371,2026-03-21 10:05:34,user_414,telegram,uz,"Yangi kun, yangi umid 😊",6,1,False,Farg'ona
+372,2026-03-21 10:05:35,user_29,telegram,ru,С праздником Навруз! #Uzbekistan,25,4,True,Toshkent
+373,2026-03-21 10:05:35,user_378,telegram,uz,Do'stlar bilan sayil,2,0,True,
+374,2026-03-21 10:05:38,user_118,x,uz,Do'stlar bilan sayil #bahor,21,2,False,
+375,2026-03-21 10:05:39,user_253,facebook,uz,Sumalak tayyor #bahor,29,3,False,Buxoro
+376,2026-03-21 10:05:39,user_405,instagram,en,Great festival in Tashkent 😊,8,1,False,Toshkent
+377,2026-03-21 10:05:40,user_474,telegram,uz,Hammaga tinchlik tilayman,11,1,False,Toshkent
+378,2026-03-21 10:05:40,user_233,instagram,uz,Milliy taomlar festivali,2,0,True,
+379,2026-03-21 10:05:41,user_253,telegram,uz,Sumalak tayyor,45,13,False,
+380,2026-03-21 10:05:43,user_28,facebook,uz,"Yangi kun, yangi umid",21,0,True,
+381,2026-03-21 10:05:43,user_203,telegram,ru,Сумаляк готов,2,0,True,Toshkent
+382,2026-03-21 10:05:45,user_82,telegram,uz,Sumalak tayyor,25,6,True,
+383,2026-03-21 10:05:45,user_554,telegram,uz,Milliy taomlar festivali,19,1,False,Toshkent
+384,2026-03-21 10:05:47,user_35,telegram,uz,Bahor keldi #bahor,9,1,False,Farg'ona
+386,2026-03-21 10:05:47,user_128,telegram,en,Happy Navruz! 🌷,4,0,True,Toshkent
+385,2026-03-21 10:05:48,user_367,telegram,uz,Do'stlar bilan sayil,27,4,False,
+387,2026-03-21 10:05:48,user_81,telegram,uz,Bayram sayliga boramiz,37,3,True,
+387,2026-03-21 10:05:48,user_81,telegram,uz,Bayram sayliga boramiz,37,3,True,
+388,2026-03-21 10:05:50,user_507,telegram,uz,Ko'pkari boshlanyapti,40,9,True,Samarqand
+389,2026-03-21 10:05:50,user_242,telegram,uz,Bayram sayliga boramiz,15,0,False,Buxoro
+390,2026-03-21 10:05:51,user_499,telegram,uz,Sumalak tayyor,0,0,False,Toshkent
+391,2026-03-21 10:05:53,user_528,x,uz,Sumalak tayyor 🌷,47,0,False,Nukus
+392,2026-03-21 10:05:53,user_408,instagram,ru,С праздником Навруз!,20,3,False,Buxoro
+393,2026-03-21 10:05:54,user_332,telegram,ru,Сумаляк готов,21,6,False,Toshkent
+394,2026-03-21 10:05:55,user_319,telegram,uz,Bugun Toshkentda havo ajoyib,3,0,False,Samarqand
+395,2026-03-21 10:05:57,user_325,instagram,uz,"Yangi kun, yangi umid",43,10,False,Buxoro
+396,2026-03-21 10:05:57,user_344,telegram,ru,Сумаляк готов,0,0,False,Samarqand
+397,2026-03-21 10:05:58,user_54,telegram,uz,Sumalak tayyor,4,0,False,Toshkent
+399,2026-03-21 10:05:59,user_520,telegram,uz,"Yangi kun, yangi umid",13,1,True,Samarqand
+398,2026-03-21 10:06:00,user_160,facebook,uz,Ko'pkari boshlanyapti,22,4,True,
+400,2026-03-21 10:06:01,user_379,telegram,ru,Отличная погода в Ташкенте,9,2,True,Samarqand
+401,2026-03-21 10:06:02,user_394,telegram,uz,Navro'z muborak!,26,1,True,Samarqand
+402,2026-03-21 10:06:02,user_458,instagram,uz,Navro'z muborak!,6,1,True,Farg'ona
+404,2026-03-21 10:06:03,user_19,telegram,uz,Sumalak tayyor,35,0,True,Toshkent
+403,2026-03-21 10:06:04,user_458,instagram,uz,Bayram sayliga boramiz #Uzbekistan,7,0,False,Andijon
+405,2026-03-21 10:06:04,user_167,telegram,uz,Hammaga tinchlik tilayman #bahor,25,1,True,Buxoro
+406,2026-03-21 10:06:06,user_65,instagram,uz,"Yangi kun, yangi umid",10,0,False,
+407,2026-03-21 10:06:08,user_527,telegram,en,Spring is here #Uzbekistan,28,5,False,
+408,2026-03-21 10:06:08,user_253,telegram,uz,Milliy taomlar festivali,50,11,True,Toshkent
+409,2026-03-21 10:06:09,user_163,instagram,uz,,25,6,False,Samarqand
+410,2026-03-21 10:06:10,user_598,instagram,ru,Отличная погода в Ташкенте #Toshkent,8,1,False,Toshkent
+411,2026-03-21 10:06:10,user_188,telegram,uz,Do'stlar bilan sayil,10,2,True,Buxoro
+412,2026-03-21 10:06:12,user_301,instagram,uz,Milliy taomlar festivali #Navruz2026,7,0,False,Farg'ona
+413,2026-03-21 10:06:12,user_589,telegram,uz,Hammaga tinchlik tilayman,43,0,False,Farg'ona
+414,2026-03-21 10:06:12,user_245,telegram,uz,Ko'pkari boshlanyapti,14,2,False,
+416,2026-03-21 10:06:14,user_278,x,uz,Sumalak tayyor #Uzbekistan,34,9,False,Andijon
+415,2026-03-21 10:06:15,user_337,instagram,uz,Sumalak tayyor,32,1,True,Samarqand
+417,2026-03-21 10:06:15,user_229,telegram,uz,Hammaga tinchlik tilayman #bahor,15,4,False,Toshkent
+418,2026-03-21 10:06:18,user_233,telegram,uz,Navro'z muborak!,5,1,False,
+419,2026-03-21 10:06:18,user_229,facebook,uz,Bayram sayliga boramiz #Navruz2026,21,0,False,Nukus
+420,2026-03-21 10:06:18,user_142,facebook,uz,Milliy taomlar festivali #Navruz2026,26,4,False,Toshkent
+421,2026-03-21 10:06:19,user_106,instagram,uz,Navro'z muborak!,66,1,True,Farg'ona
+422,2026-03-21 10:06:21,user_445,telegram,uz,Navro'z muborak! 😊,12,2,True,Andijon
+423,2026-03-21 10:06:22,user_284,telegram,ru,С праздником Навруз!,30,1,False,Toshkent
+424,2026-03-21 10:06:22,user_502,facebook,uz,Bahor keldi,2,0,False,Samarqand
+425,2026-03-21 10:06:24,user_443,telegram,uz,Navro'z muborak! #bahor,17,2,False,
+426,2026-03-21 10:06:24,user_465,telegram,uz,Hammaga tinchlik tilayman,3,0,False,Buxoro
+425,2026-03-21 10:06:24,user_443,telegram,uz,Navro'z muborak! #bahor,17,2,False,
+427,2026-03-21 10:06:26,user_86,x,uz,Milliy taomlar festivali,45,9,False,Buxoro
+428,2026-03-21 10:06:26,user_262,instagram,uz,Bugun Toshkentda havo ajoyib,25,1,True,
+427,2026-03-21 10:06:26,user_86,x,uz,Milliy taomlar festivali,45,9,False,Buxoro
+429,2026-03-21 10:06:27,user_246,instagram,uz,Bahor keldi,30,0,True,
+430,2026-03-21 10:06:28,user_144,telegram,ru,Сумаляк готов,35,4,False,
+431,2026-03-21 10:06:28,user_481,telegram,en,Great festival in Tashkent,132,6,True,Toshkent
+432,2026-03-21 10:06:29,user_3,telegram,uz,"Yangi kun, yangi umid #Uzbekistan",31,5,True,Toshkent
+433,2026-03-21 10:06:31,user_489,instagram,uz,Milliy taomlar festivali,19,3,False,Qarshi
+434,2026-03-21 10:06:31,user_326,telegram,uz,Navro'z muborak! #bahor,121,14,False,Toshkent
+435,2026-03-21 10:06:32,user_142,telegram,ru,Сумаляк готов,1,0,True,Farg'ona
+436,2026-03-21 10:06:33,user_68,telegram,uz,Bahor keldi,50,6,False,Andijon
+437,2026-03-21 10:06:34,user_363,telegram,uz,Bahor keldi,8,1,True,
+438,2026-03-21 10:06:35,user_364,telegram,uz,Bahor keldi,30,6,False,Toshkent
+439,2026-03-21 10:06:36,user_12,instagram,uz,Ko'pkari boshlanyapti,4,0,True,Samarqand
+440,2026-03-21 10:06:37,user_87,instagram,uz,Do'stlar bilan sayil,20,3,True,Toshkent
+441,2026-03-21 10:06:38,user_15,telegram,ru,Отличная погода в Ташкенте,9,0,False,Buxoro
+442,2026-03-21 10:06:38,user_389,telegram,en,Visiting Samarkand today,7,1,True,Toshkent
+441,2026-03-21 10:06:38,user_15,telegram,ru,Отличная погода в Ташкенте,9,0,False,Buxoro
+443,2026-03-21 10:06:39,user_473,instagram,uz,Do'stlar bilan sayil,0,0,False,Qarshi
+444,2026-03-21 10:06:40,user_173,facebook,uz,Ko'pkari boshlanyapti,71,18,False,Toshkent
+445,2026-03-21 10:06:40,user_25,telegram,uz,Bugun Toshkentda havo ajoyib,5,1,True,Toshkent
+446,2026-03-21 10:06:43,user_158,instagram,en,Spring is here #Uzbekistan,44,12,False,Andijon
+447,2026-03-21 10:06:43,user_136,telegram,uz,Bahor keldi,45,13,True,Farg'ona
+448,2026-03-21 10:06:44,user_80,telegram,uz,Milliy taomlar festivali,44,0,False,Nukus
+449,2026-03-21 10:06:45,user_516,instagram,uz,Milliy taomlar festivali,19,4,False,Toshkent
+450,2026-03-21 10:06:46,user_286,telegram,en,Spring is here,12,1,False,Buxoro
+451,2026-03-21 10:06:46,user_509,telegram,uz,Bayram sayliga boramiz #bahor,13,0,False,Andijon
+452,2026-03-21 10:06:48,user_101,x,uz,Bugun Toshkentda havo ajoyib #Uzbekistan,2,0,False,Toshkent
+453,2026-03-21 10:06:49,user_384,instagram,uz,Hammaga tinchlik tilayman 🌷,17,1,False,Toshkent
+454,2026-03-21 10:06:50,user_161,instagram,uz,,20,1,False,Toshkent
+455,2026-03-21 10:06:50,user_284,telegram,uz,Sumalak tayyor #Uzbekistan,0,0,False,Toshkent
+456,2026-03-21 10:06:51,user_143,instagram,uz,Ko'pkari boshlanyapti,6,0,True,Samarqand
+457,2026-03-21 10:06:52,user_227,telegram,en,Happy Navruz!,1,0,True,
+458,2026-03-21 10:06:53,user_117,x,ru,Отличная погода в Ташкенте,36,6,False,Toshkent
+460,2026-03-21 10:06:54,user_595,instagram,ru,Отличная погода в Ташкенте,28,5,False,
+459,2026-03-21 10:06:55,user_332,instagram,uz,Hammaga tinchlik tilayman #bahor,13,2,False,Toshkent
+461,2026-03-21 10:06:56,user_133,telegram,uz,Navro'z muborak! #Uzbekistan,40,0,False,Farg'ona
+462,2026-03-21 10:06:57,user_527,telegram,uz,Bayram sayliga boramiz,57,13,False,Toshkent
+463,2026-03-21 10:06:57,user_289,instagram,en,Spring is here #Toshkent,69,5,True,Buxoro
+464,2026-03-21 10:06:58,user_325,instagram,en,Happy Navruz!,18,5,True,Andijon
+465,2026-03-21 10:06:59,user_470,telegram,uz,"Yangi kun, yangi umid 🌷",9,1,False,Toshkent
+466,2026-03-21 10:06:59,user_44,telegram,uz,Sumalak tayyor,6,1,False,Buxoro
+467,2026-03-21 10:07:00,user_292,telegram,ru,Весна пришла,20,3,False,Toshkent
+468,2026-03-21 10:07:01,user_287,telegram,uz,Ko'pkari boshlanyapti 😊,42,5,True,Samarqand
+469,2026-03-21 10:07:02,user_2,facebook,uz,Hammaga tinchlik tilayman,45,5,True,Buxoro
+470,2026-03-21 10:07:03,user_213,telegram,ru,Весна пришла,4,1,True,Farg'ona
+471,2026-03-21 10:07:05,user_442,telegram,en,Spring is here,15,1,False,Toshkent
+472,2026-03-21 10:07:06,user_475,instagram,ru,Отличная погода в Ташкенте #bahor,3,0,False,Toshkent
+473,2026-03-21 10:07:06,user_396,telegram,uz,Ko'pkari boshlanyapti,35,1,False,Namangan
+474,2026-03-21 10:07:07,user_121,telegram,ru,Весна пришла,100,2,True,Toshkent
+475,2026-03-21 10:07:08,user_300,telegram,en,Happy Navruz! 🌷,5,0,False,Samarqand
+477,2026-03-21 10:07:09,user_499,telegram,uz,Ko'pkari boshlanyapti #Navruz2026,13,0,True,
+476,2026-03-21 10:07:10,user_172,instagram,uz,Sumalak tayyor,8,0,True,Nukus
+478,2026-03-21 10:07:10,user_456,instagram,uz,Bugun Toshkentda havo ajoyib,15,2,False,Toshkent
+479,2026-03-21 10:07:12,user_48,x,uz,Milliy taomlar festivali,12,0,True,Toshkent
+480,2026-03-21 10:07:13,user_385,instagram,uz,Do'stlar bilan sayil,3,0,False,Samarqand
+481,2026-03-21 10:07:14,user_89,telegram,ru,Весна пришла,30,7,False,Toshkent
+482,2026-03-21 10:07:15,user_475,telegram,uz,Milliy taomlar festivali,83,7,False,Qarshi
+483,2026-03-21 10:07:15,user_104,telegram,uz,Bugun Toshkentda havo ajoyib,0,0,False,Toshkent
+484,2026-03-21 10:07:16,user_212,instagram,uz,Bayram sayliga boramiz #Navruz2026,28,6,False,
+485,2026-03-21 10:07:17,user_256,telegram,uz,Milliy taomlar festivali,71,13,False,Samarqand
+486,2026-03-21 10:07:17,user_245,telegram,uz,,9,0,True,
+487,2026-03-21 10:07:19,user_399,instagram,ru,Отличная погода в Ташкенте #Navruz2026,20,0,True,Samarqand
+488,2026-03-21 10:07:20,user_440,telegram,uz,Hammaga tinchlik tilayman 🌷,49,12,True,Namangan
+489,2026-03-21 10:07:21,user_352,telegram,ru,Отличная погода в Ташкенте,7,1,True,Buxoro
+490,2026-03-21 10:07:21,user_351,instagram,uz,Bayram sayliga boramiz #bahor,7,0,False,Samarqand
+491,2026-03-21 10:07:22,user_64,instagram,uz,Hammaga tinchlik tilayman,6,1,True,Toshkent
+492,2026-03-21 10:07:24,user_75,telegram,uz,Hammaga tinchlik tilayman,38,4,False,Toshkent
+494,2026-03-21 10:07:24,user_351,instagram,uz,Milliy taomlar festivali 😊,9,0,False,Toshkent
+493,2026-03-21 10:07:25,user_389,telegram,uz,Do'stlar bilan sayil 😊,25,4,False,Toshkent
+495,2026-03-21 10:07:26,user_123,telegram,uz,Bugun Toshkentda havo ajoyib,4,0,False,Buxoro
+496,2026-03-21 10:07:28,user_119,telegram,uz,Bugun Toshkentda havo ajoyib,111,7,True,Buxoro
+497,2026-03-21 10:07:29,user_505,telegram,en,Great festival in Tashkent,23,4,False,Toshkent
+498,2026-03-21 10:07:29,user_96,telegram,uz,Sumalak tayyor,8,1,False,Andijon
+499,2026-03-21 10:07:30,user_142,instagram,uz,Bahor keldi #Toshkent,10,1,True,Toshkent
+500,2026-03-21 10:07:31,user_24,telegram,ru,Весна пришла,1,0,False,Toshkent
+501,2026-03-21 10:07:31,user_370,x,uz,Bahor keldi,5,0,False,
+502,2026-03-21 10:07:33,user_428,telegram,ru,,25,0,False,Nukus
+503,2026-03-21 10:07:33,user_285,facebook,uz,"Yangi kun, yangi umid #Uzbekistan",15,2,False,Buxoro
+504,2026-03-21 10:07:34,user_346,instagram,ru,Сумаляк готов,10,2,False,Nukus
+505,2026-03-21 10:07:34,user_576,telegram,uz,Bayram sayliga boramiz,26,0,False,Farg'ona
+506,2026-03-21 10:07:37,user_494,instagram,uz,"Yangi kun, yangi umid",18,0,False,Toshkent
+507,2026-03-21 10:07:37,user_322,telegram,uz,Bahor keldi,12,3,True,Toshkent
+508,2026-03-21 10:07:37,user_324,telegram,ru,Сумаляк готов,3,0,False,Farg'ona
+509,2026-03-21 10:07:39,user_404,telegram,ru,Отличная погода в Ташкенте,118,11,False,Toshkent
+510,2026-03-21 10:07:39,user_544,instagram,uz,"Yangi kun, yangi umid 😊",16,2,False,Farg'ona
+510,2026-03-21 10:07:39,user_544,instagram,uz,"Yangi kun, yangi umid 😊",16,2,False,Farg'ona
+511,2026-03-21 10:07:41,user_228,telegram,ru,Весна пришла 🌷,35,3,False,
+512,2026-03-21 10:07:41,user_197,telegram,uz,"Yangi kun, yangi umid 🌷",4,0,False,
+513,2026-03-21 10:07:42,user_500,telegram,uz,Bugun Toshkentda havo ajoyib #Toshkent,16,0,True,Nukus
+514,2026-03-21 10:07:42,user_282,telegram,ru,Весна пришла,3,0,False,Buxoro
+515,2026-03-21 10:07:44,user_81,telegram,uz,Bahor keldi,11,2,True,Namangan
+516,2026-03-21 10:07:45,user_561,telegram,ru,С праздником Навруз! #Uzbekistan,3,0,False,Toshkent
+517,2026-03-21 10:07:46,user_593,instagram,uz,Sumalak tayyor #Uzbekistan,25,7,False,Toshkent
+518,2026-03-21 10:07:46,user_554,instagram,en,Great festival in Tashkent,8,1,False,Andijon
+519,2026-03-21 10:07:48,user_82,telegram,uz,Ko'pkari boshlanyapti,20,0,False,Samarqand
+520,2026-03-21 10:07:48,user_293,telegram,ru,Сумаляк готов,6,0,False,Toshkent
+521,2026-03-21 10:07:49,user_451,telegram,uz,Ko'pkari boshlanyapti,13,0,True,Toshkent
+522,2026-03-21 10:07:51,user_243,instagram,uz,"Yangi kun, yangi umid",20,5,False,Samarqand
+523,2026-03-21 10:07:51,user_285,facebook,uz,"Yangi kun, yangi umid",2,0,True,Samarqand
+524,2026-03-21 10:07:51,user_1,instagram,ru,Весна пришла,49,12,True,Toshkent
+525,2026-03-21 10:07:54,user_90,telegram,uz,Do'stlar bilan sayil,16,0,False,Toshkent
+526,2026-03-21 10:07:55,user_157,telegram,uz,"Yangi kun, yangi umid",3,0,True,Toshkent
+527,2026-03-21 10:07:55,user_479,telegram,uz,Bayram sayliga boramiz #Navruz2026,28,6,True,Qarshi
+528,2026-03-21 10:07:55,user_46,telegram,uz,Sumalak tayyor 🌷,17,2,True,Toshkent
+529,2026-03-21 10:07:57,user_304,telegram,uz,Hammaga tinchlik tilayman,50,3,False,
+530,2026-03-21 10:07:57,user_133,instagram,uz,Ko'pkari boshlanyapti #Toshkent,22,0,True,Namangan
+531,2026-03-21 10:07:58,user_475,telegram,uz,Ko'pkari boshlanyapti #bahor,7,0,True,Buxoro
+532,2026-03-21 10:07:59,user_430,telegram,uz,Milliy taomlar festivali,27,1,False,Buxoro
+533,2026-03-21 10:08:00,user_371,telegram,ru,Сумаляк готов,0,0,False,Andijon
+534,2026-03-21 10:08:00,user_465,instagram,uz,Navro'z muborak! #Navruz2026,11,1,True,Namangan
+535,2026-03-21 10:08:01,user_327,telegram,ru,Сумаляк готов,61,3,False,Nukus
+536,2026-03-21 10:08:03,user_371,x,ru,С праздником Навруз!,51,4,False,Farg'ona
+537,2026-03-21 10:08:03,user_90,telegram,uz,Navro'z muborak!,23,5,False,Toshkent
+539,2026-03-21 10:08:05,user_445,facebook,ru,Весна пришла,7,1,False,Qarshi
+538,2026-03-21 10:08:06,user_176,telegram,uz,"Yangi kun, yangi umid",3,0,False,Toshkent
+540,2026-03-21 10:08:06,user_254,telegram,uz,Sumalak tayyor 😊,29,3,False,Farg'ona
+541,2026-03-21 10:08:07,user_198,instagram,uz,Sumalak tayyor 🌷,7,1,False,Toshkent
+542,2026-03-21 10:08:09,user_551,telegram,uz,"Yangi kun, yangi umid 🌷",0,0,False,Farg'ona
+543,2026-03-21 10:08:10,user_392,facebook,uz,"Yangi kun, yangi umid",51,1,False,Toshkent
+544,2026-03-21 10:08:10,user_125,telegram,uz,Bugun Toshkentda havo ajoyib,17,3,False,Andijon
+545,2026-03-21 10:08:10,user_391,telegram,uz,Hammaga tinchlik tilayman 🌷,24,6,True,Toshkent
+546,2026-03-21 10:08:11,user_403,x,uz,Hammaga tinchlik tilayman,29,5,False,
+547,2026-03-21 10:08:12,user_512,x,ru,Сумаляк готов,33,9,False,
+548,2026-03-21 10:08:13,user_344,x,uz,Ko'pkari boshlanyapti #Toshkent,8,2,False,Toshkent
+549,2026-03-21 10:08:15,user_62,telegram,uz,Ko'pkari boshlanyapti,2,0,False,
+550,2026-03-21 10:08:15,user_200,telegram,uz,Bahor keldi,17,1,True,
+551,2026-03-21 10:08:16,user_477,facebook,ru,Весна пришла #Uzbekistan,0,0,False,
+552,2026-03-21 10:08:16,user_590,telegram,uz,"Yangi kun, yangi umid #Toshkent",2,0,False,
+553,2026-03-21 10:08:18,user_351,instagram,uz,Bahor keldi,19,3,False,Buxoro
+554,2026-03-21 10:08:19,user_260,telegram,uz,Hammaga tinchlik tilayman #Uzbekistan,7,1,False,
+555,2026-03-21 10:08:20,user_200,instagram,uz,Do'stlar bilan sayil,22,5,True,Toshkent
+556,2026-03-21 10:08:21,user_596,instagram,uz,Bahor keldi,10,2,False,
+557,2026-03-21 10:08:22,user_206,telegram,ru,Сумаляк готов 🌷,1,0,False,Buxoro
+558,2026-03-21 10:08:22,user_466,instagram,uz,Do'stlar bilan sayil,11,3,True,Andijon
+559,2026-03-21 10:08:23,user_38,instagram,en,Visiting Samarkand today #Navruz2026,20,4,False,
+560,2026-03-21 10:08:24,user_110,telegram,uz,Hammaga tinchlik tilayman,22,4,False,Namangan
+562,2026-03-21 10:08:25,user_127,facebook,uz,"Yangi kun, yangi umid",42,6,False,Farg'ona
+561,2026-03-21 10:08:26,user_22,instagram,uz,Bayram sayliga boramiz,4,0,True,Buxoro
+564,2026-03-21 10:08:27,user_160,instagram,uz,Bayram sayliga boramiz #Toshkent,38,8,False,Samarqand
+563,2026-03-21 10:08:28,user_556,facebook,en,Visiting Samarkand today,5,0,False,Toshkent
+565,2026-03-21 10:08:28,user_33,instagram,ru,Сумаляк готов #Navruz2026,45,1,False,Toshkent
+566,2026-03-21 10:08:29,user_498,telegram,uz,Milliy taomlar festivali,10,0,True,Toshkent
+567,2026-03-21 10:08:30,user_35,x,uz,Bahor keldi,20,2,True,Qarshi
+568,2026-03-21 10:08:31,user_366,telegram,uz,Ko'pkari boshlanyapti,0,0,True,Andijon
+569,2026-03-21 10:08:33,user_9,telegram,uz,Bayram sayliga boramiz 🌷,70,17,False,Toshkent
+570,2026-03-21 10:08:34,user_202,telegram,ru,С праздником Навруз!,60,13,False,Toshkent
+571,2026-03-21 10:08:35,user_121,telegram,uz,Sumalak tayyor,30,0,False,
+572,2026-03-21 10:08:35,user_148,telegram,ru,Весна пришла #bahor,32,3,False,Buxoro
+573,2026-03-21 10:08:35,user_31,telegram,uz,Bahor keldi #Uzbekistan,6,1,False,Toshkent
+574,2026-03-21 10:08:37,user_9,telegram,uz,Ko'pkari boshlanyapti,46,1,False,Toshkent
+574,2026-03-21 10:08:37,user_9,telegram,uz,Ko'pkari boshlanyapti,46,1,False,Toshkent
+575,2026-03-21 10:08:38,user_86,telegram,uz,Sumalak tayyor 😊,14,0,False,Buxoro
+576,2026-03-21 10:08:38,user_23,instagram,uz,Bayram sayliga boramiz,0,0,False,Toshkent
+577,2026-03-21 10:08:40,user_232,telegram,uz,Hammaga tinchlik tilayman,31,4,True,Toshkent
+578,2026-03-21 10:08:41,user_127,facebook,uz,Bahor keldi,13,3,True,Toshkent
+579,2026-03-21 10:08:42,user_310,telegram,uz,Bayram sayliga boramiz,5,0,False,Farg'ona
+580,2026-03-21 10:08:43,user_323,telegram,uz,Milliy taomlar festivali,30,4,True,Samarqand
+580,2026-03-21 10:08:43,user_323,telegram,uz,Milliy taomlar festivali,30,4,True,Samarqand
+581,2026-03-21 10:08:44,user_472,telegram,uz,Milliy taomlar festivali,15,4,False,
+582,2026-03-21 10:08:44,user_361,instagram,ru,Весна пришла,4,0,True,Toshkent
+583,2026-03-21 10:08:46,user_221,facebook,uz,Do'stlar bilan sayil,4,0,False,
+584,2026-03-21 10:08:46,user_537,telegram,uz,Hammaga tinchlik tilayman #Toshkent,49,11,False,Andijon
+585,2026-03-21 10:08:47,user_208,instagram,uz,Bugun Toshkentda havo ajoyib,4,1,False,Buxoro
+586,2026-03-21 10:08:49,user_226,x,uz,,18,4,False,Toshkent
+587,2026-03-21 10:08:49,user_535,instagram,uz,Sumalak tayyor,49,11,True,Toshkent
+588,2026-03-21 10:08:49,user_116,x,uz,Bugun Toshkentda havo ajoyib #Uzbekistan,1,0,True,Toshkent
+589,2026-03-21 10:08:51,user_325,instagram,uz,Milliy taomlar festivali,16,0,False,Samarqand
+590,2026-03-21 10:08:51,user_558,telegram,uz,Bugun Toshkentda havo ajoyib,14,3,True,Toshkent
+591,2026-03-21 10:08:53,user_255,x,uz,Bahor keldi,34,6,False,Toshkent
+592,2026-03-21 10:08:53,user_581,x,uz,Milliy taomlar festivali,86,21,False,Toshkent
+593,2026-03-21 10:08:54,user_550,instagram,en,Happy Navruz! 😊,22,0,True,Toshkent
+594,2026-03-21 10:08:54,user_559,telegram,uz,Bahor keldi #bahor,2,0,False,Qarshi
+594,2026-03-21 10:08:54,user_559,telegram,uz,Bahor keldi #bahor,2,0,False,Qarshi
+595,2026-03-21 10:08:56,user_47,instagram,uz,Navro'z muborak!,31,8,True,Farg'ona
+596,2026-03-21 10:08:58,user_112,telegram,uz,Do'stlar bilan sayil,80,19,True,Andijon
+597,2026-03-21 10:08:59,user_478,telegram,uz,Sumalak tayyor,22,1,False,Toshkent
+598,2026-03-21 10:08:59,user_536,x,ru,Отличная погода в Ташкенте,35,1,True,Samarqand
+599,2026-03-21 10:09:00,user_134,telegram,uz,Ko'pkari boshlanyapti,0,0,False,Buxoro
+600,2026-03-21 10:09:00,user_392,x,en,Visiting Samarkand today #Navruz2026,19,1,True,Samarqand
+601,2026-03-21 10:09:02,user_82,telegram,uz,Bahor keldi,3,0,False,
+602,2026-03-21 10:09:02,user_574,telegram,uz,Navro'z muborak! #Uzbekistan,14,0,False,Toshkent
+603,2026-03-21 10:09:03,user_364,telegram,uz,Milliy taomlar festivali,3,0,True,Toshkent
+604,2026-03-21 10:09:03,user_18,telegram,uz,Bayram sayliga boramiz #Toshkent,20,5,False,Buxoro
+605,2026-03-21 10:09:04,user_332,instagram,uz,"Yangi kun, yangi umid",22,0,False,Namangan
+606,2026-03-21 10:09:05,user_441,instagram,ru,Отличная погода в Ташкенте,8,0,False,Toshkent
+607,2026-03-21 10:09:07,user_237,instagram,ru,Отличная погода в Ташкенте #Uzbekistan,17,5,False,
+608,2026-03-21 10:09:07,user_329,facebook,en,Spring is here 😊,13,3,False,Buxoro
+609,2026-03-21 10:09:08,user_489,telegram,en,Visiting Samarkand today,122,4,False,Buxoro
+610,2026-03-21 10:09:09,user_359,telegram,uz,Bugun Toshkentda havo ajoyib,63,13,False,
+611,2026-03-21 10:09:10,user_262,telegram,uz,,0,0,False,Toshkent
+612,2026-03-21 10:09:10,user_332,instagram,uz,Navro'z muborak! #bahor,10,0,True,
+612,2026-03-21 10:09:10,user_332,instagram,uz,Navro'z muborak! #bahor,10,0,True,
+613,2026-03-21 10:09:13,user_531,telegram,ru,Весна пришла,0,0,False,
+614,2026-03-21 10:09:13,user_369,instagram,ru,Сумаляк готов #Toshkent,26,4,True,Namangan
+615,2026-03-21 10:09:13,user_497,instagram,uz,Hammaga tinchlik tilayman #bahor,24,4,True,Toshkent
+616,2026-03-21 10:09:14,user_267,telegram,ru,Сумаляк готов #Toshkent,33,0,False,Toshkent
+617,2026-03-21 10:09:16,user_239,instagram,uz,Milliy taomlar festivali,13,2,False,Toshkent
+618,2026-03-21 10:09:16,user_102,x,uz,Bayram sayliga boramiz 🌷,1,0,False,
+619,2026-03-21 10:09:18,user_365,telegram,uz,Bayram sayliga boramiz #Toshkent,30,5,False,Toshkent
+620,2026-03-21 10:09:19,user_583,telegram,ru,Сумаляк готов #Toshkent,15,1,False,Namangan
+621,2026-03-21 10:09:20,user_15,instagram,uz,Do'stlar bilan sayil,99,12,True,Toshkent
+622,2026-03-21 10:09:20,user_512,facebook,uz,Bayram sayliga boramiz,28,1,False,Samarqand
+623,2026-03-21 10:09:20,user_217,telegram,en,Spring is here #Toshkent,13,3,False,Toshkent
+624,2026-03-21 10:09:23,user_479,instagram,uz,Do'stlar bilan sayil,15,1,False,Namangan
+625,2026-03-21 10:09:23,user_270,telegram,uz,Navro'z muborak! #Toshkent,2,0,True,Andijon
+627,2026-03-21 10:09:24,user_48,x,ru,С праздником Навруз! #Toshkent,79,23,True,
+626,2026-03-21 10:09:25,user_575,instagram,uz,Do'stlar bilan sayil,18,2,False,Qarshi
+628,2026-03-21 10:09:25,user_187,telegram,uz,Bayram sayliga boramiz,28,6,True,Toshkent
+629,2026-03-21 10:09:26,user_58,instagram,uz,"Yangi kun, yangi umid",19,1,True,Toshkent
+630,2026-03-21 10:09:27,user_106,instagram,uz,Do'stlar bilan sayil #Toshkent,57,12,True,Toshkent
+631,2026-03-21 10:09:29,user_230,telegram,en,Spring is here,0,0,False,Toshkent
+632,2026-03-21 10:09:29,user_301,telegram,uz,Bayram sayliga boramiz 😊,34,9,False,Buxoro
+633,2026-03-21 10:09:30,user_411,facebook,ru,Сумаляк готов,5,1,True,
+634,2026-03-21 10:09:31,user_220,telegram,uz,Navro'z muborak!,60,16,True,Toshkent
+635,2026-03-21 10:09:32,user_571,instagram,ru,С праздником Навруз!,52,0,False,Buxoro
+635,2026-03-21 10:09:32,user_571,instagram,ru,С праздником Навруз!,52,0,False,Buxoro
+636,2026-03-21 10:09:33,user_352,instagram,uz,Bayram sayliga boramiz,34,8,True,
+637,2026-03-21 10:09:34,user_321,telegram,uz,Bahor keldi,44,6,True,Namangan
+638,2026-03-21 10:09:35,user_560,telegram,uz,Bugun Toshkentda havo ajoyib,52,2,False,Toshkent
+639,2026-03-21 10:09:35,user_93,x,uz,Bahor keldi,0,0,True,Toshkent
+641,2026-03-21 10:09:36,user_238,instagram,ru,Сумаляк готов,25,2,False,Farg'ona
+640,2026-03-21 10:09:37,user_158,telegram,uz,Navro'z muborak!,12,0,True,Samarqand
+640,2026-03-21 10:09:37,user_158,telegram,uz,Navro'z muborak!,12,0,True,Samarqand
+642,2026-03-21 10:09:39,user_150,telegram,uz,Navro'z muborak!,20,5,False,Toshkent
+643,2026-03-21 10:09:39,user_570,telegram,ru,,12,2,True,
+644,2026-03-21 10:09:40,user_549,x,uz,Do'stlar bilan sayil #bahor,88,18,True,Buxoro
+645,2026-03-21 10:09:41,user_500,instagram,ru,Сумаляк готов,19,0,False,Toshkent
+646,2026-03-21 10:09:41,user_452,instagram,uz,Do'stlar bilan sayil 🌷,29,1,False,Nukus
+647,2026-03-21 10:09:43,user_318,instagram,uz,Do'stlar bilan sayil #bahor,2,0,False,Qarshi
+648,2026-03-21 10:09:43,user_561,instagram,ru,Сумаляк готов,52,14,False,Nukus
+649,2026-03-21 10:09:45,user_590,telegram,ru,С праздником Навруз!,72,18,False,
+650,2026-03-21 10:09:46,user_201,telegram,ru,Сумаляк готов,24,5,False,Buxoro
+651,2026-03-21 10:09:46,user_247,telegram,uz,Bahor keldi 🌷,21,3,False,Namangan
+652,2026-03-21 10:09:47,user_530,facebook,ru,С праздником Навруз!,48,0,True,Toshkent
+653,2026-03-21 10:09:47,user_388,telegram,uz,Bugun Toshkentda havo ajoyib 😊,24,1,False,Namangan
+654,2026-03-21 10:09:49,user_558,x,uz,Hammaga tinchlik tilayman,23,3,False,Samarqand
+655,2026-03-21 10:09:50,user_36,telegram,en,,7,0,False,Toshkent
+656,2026-03-21 10:09:50,user_571,instagram,uz,Navro'z muborak! #Navruz2026,3,0,False,
+657,2026-03-21 10:09:52,user_342,telegram,uz,Milliy taomlar festivali,66,18,True,Toshkent
+658,2026-03-21 10:09:52,user_34,telegram,uz,Ko'pkari boshlanyapti,2,0,False,
+659,2026-03-21 10:09:54,user_461,instagram,uz,Milliy taomlar festivali,17,1,False,Toshkent
+660,2026-03-21 10:09:55,user_245,instagram,ru,Отличная погода в Ташкенте,33,9,False,
+661,2026-03-21 10:09:55,user_135,telegram,en,Spring is here 🌷,1,0,False,Samarqand
+662,2026-03-21 10:09:56,user_281,instagram,uz,Bayram sayliga boramiz,8,0,False,Farg'ona
+663,2026-03-21 10:09:58,user_223,telegram,uz,Bahor keldi,11,2,False,Toshkent
+664,2026-03-21 10:09:58,user_365,telegram,uz,Sumalak tayyor #bahor,34,9,False,Samarqand
+665,2026-03-21 10:09:58,user_237,telegram,uz,Bahor keldi,60,6,False,Toshkent
+666,2026-03-21 10:10:00,user_279,telegram,ru,Отличная погода в Ташкенте,3,0,True,Buxoro
+667,2026-03-21 10:10:00,user_32,instagram,uz,Bahor keldi #Navruz2026,28,5,False,
+668,2026-03-21 10:10:01,user_338,telegram,ru,С праздником Навруз!,57,3,False,Andijon
+669,2026-03-21 10:10:02,user_263,telegram,uz,Milliy taomlar festivali,3,0,False,Nukus
+670,2026-03-21 10:10:04,user_586,instagram,uz,Bahor keldi,67,2,False,Toshkent
+671,2026-03-21 10:10:05,user_473,telegram,uz,,82,2,True,Toshkent
+672,2026-03-21 10:10:05,user_471,telegram,uz,Navro'z muborak!,10,2,False,Nukus
+673,2026-03-21 10:10:07,user_78,telegram,uz,Ko'pkari boshlanyapti #Uzbekistan,5,1,True,Toshkent
+674,2026-03-21 10:10:08,user_467,instagram,ru,Весна пришла,22,5,False,Farg'ona
+676,2026-03-21 10:10:08,user_193,facebook,ru,Весна пришла,109,11,False,Toshkent
+675,2026-03-21 10:10:09,user_186,telegram,ru,Сумаляк готов,1,0,False,Buxoro
+677,2026-03-21 10:10:10,user_487,telegram,ru,Сумаляк готов,34,4,True,Toshkent
+678,2026-03-21 10:10:10,user_370,telegram,uz,Do'stlar bilan sayil,4,0,False,Samarqand
+677,2026-03-21 10:10:10,user_487,telegram,ru,Сумаляк готов,34,4,True,Toshkent
+679,2026-03-21 10:10:11,user_479,telegram,uz,Hammaga tinchlik tilayman 🌷,11,1,True,Toshkent
+679,2026-03-21 10:10:11,user_479,telegram,uz,Hammaga tinchlik tilayman 🌷,11,1,True,Toshkent
+680,2026-03-21 10:10:13,user_329,telegram,uz,Navro'z muborak!,5,0,False,Qarshi
+681,2026-03-21 10:10:14,user_25,instagram,uz,Hammaga tinchlik tilayman,37,4,True,Toshkent
+682,2026-03-21 10:10:15,user_521,instagram,uz,Milliy taomlar festivali,3,0,False,Nukus
+683,2026-03-21 10:10:15,user_506,x,ru,Сумаляк готов,131,12,True,Andijon
+684,2026-03-21 10:10:15,user_369,instagram,uz,Bayram sayliga boramiz 🌷,1,0,False,
+685,2026-03-21 10:10:18,user_383,facebook,uz,Navro'z muborak!,68,4,False,Toshkent
+686,2026-03-21 10:10:18,user_403,telegram,uz,,22,1,False,
+688,2026-03-21 10:10:19,user_126,instagram,uz,Bayram sayliga boramiz,10,0,True,Toshkent
+687,2026-03-21 10:10:20,user_280,telegram,uz,,4,0,False,Qarshi
+689,2026-03-21 10:10:20,user_413,instagram,ru,Весна пришла,37,7,True,Farg'ona
+690,2026-03-21 10:10:21,user_111,telegram,ru,Сумаляк готов,31,6,True,Toshkent
+691,2026-03-21 10:10:23,user_537,telegram,uz,Ko'pkari boshlanyapti #Uzbekistan,17,0,True,Toshkent
+693,2026-03-21 10:10:23,user_506,telegram,uz,Sumalak tayyor #Navruz2026,0,0,True,Toshkent
+692,2026-03-21 10:10:24,user_213,x,uz,Navro'z muborak!,19,0,False,Samarqand
+694,2026-03-21 10:10:26,user_435,instagram,uz,Hammaga tinchlik tilayman,16,2,False,Buxoro
+695,2026-03-21 10:10:26,user_422,instagram,ru,Сумаляк готов,25,1,False,Toshkent
+696,2026-03-21 10:10:26,user_9,x,uz,Navro'z muborak!,100,4,True,Nukus
+697,2026-03-21 10:10:27,user_572,telegram,uz,Do'stlar bilan sayil,15,0,False,Toshkent
+698,2026-03-21 10:10:29,user_518,telegram,ru,,6,1,False,Samarqand
+699,2026-03-21 10:10:30,user_315,telegram,uz,Bahor keldi,2,0,True,Andijon
+700,2026-03-21 10:10:30,user_30,telegram,en,Happy Navruz!,18,1,False,Toshkent
+701,2026-03-21 10:10:31,user_226,telegram,ru,С праздником Навруз!,14,2,True,Toshkent
+702,2026-03-21 10:10:32,user_128,telegram,uz,"Yangi kun, yangi umid",30,4,False,Buxoro
+703,2026-03-21 10:10:34,user_426,instagram,uz,Hammaga tinchlik tilayman,20,0,True,Samarqand
+705,2026-03-21 10:10:34,user_559,telegram,uz,Navro'z muborak! #Uzbekistan,43,4,True,Toshkent
+704,2026-03-21 10:10:35,user_309,instagram,uz,Bayram sayliga boramiz #Uzbekistan,6,1,False,Samarqand
+706,2026-03-21 10:10:35,user_260,instagram,en,Happy Navruz! 😊,2,0,True,
+707,2026-03-21 10:10:36,user_377,telegram,uz,"Yangi kun, yangi umid #Uzbekistan",11,1,False,Toshkent
+708,2026-03-21 10:10:38,user_586,telegram,uz,Bahor keldi 😊,3,0,False,Toshkent
+709,2026-03-21 10:10:38,user_438,telegram,uz,Bahor keldi,0,0,False,Toshkent
+710,2026-03-21 10:10:40,user_415,telegram,ru,Весна пришла,26,4,True,
+711,2026-03-21 10:10:40,user_426,x,uz,Sumalak tayyor #Toshkent,64,16,False,Farg'ona
+713,2026-03-21 10:10:41,user_571,telegram,uz,Milliy taomlar festivali 🌷,19,3,True,Buxoro
+713,2026-03-21 10:10:41,user_571,telegram,uz,Milliy taomlar festivali 🌷,19,3,True,Buxoro
+712,2026-03-21 10:10:42,user_208,telegram,uz,Do'stlar bilan sayil,32,1,False,Buxoro
+714,2026-03-21 10:10:44,user_595,telegram,uz,Navro'z muborak!,4,0,False,Andijon
+715,2026-03-21 10:10:44,user_296,telegram,uz,Bahor keldi,1,0,False,Toshkent
+716,2026-03-21 10:10:44,user_263,telegram,en,Happy Navruz!,26,3,True,Toshkent
+717,2026-03-21 10:10:45,user_587,facebook,ru,Отличная погода в Ташкенте,20,0,False,Toshkent
+717,2026-03-21 10:10:45,user_587,facebook,ru,Отличная погода в Ташкенте,20,0,False,Toshkent
+718,2026-03-21 10:10:47,user_82,facebook,ru,С праздником Навруз! 🌷,46,2,False,
+719,2026-03-21 10:10:48,user_21,telegram,uz,Bayram sayliga boramiz,8,0,True,Toshkent
+720,2026-03-21 10:10:49,user_599,telegram,ru,С праздником Навруз!,69,14,False,
+721,2026-03-21 10:10:50,user_422,x,uz,Hammaga tinchlik tilayman,7,1,False,
+722,2026-03-21 10:10:51,user_48,telegram,uz,Bayram sayliga boramiz,9,1,True,Namangan
+723,2026-03-21 10:10:51,user_325,x,uz,Ko'pkari boshlanyapti,9,1,False,Toshkent
+724,2026-03-21 10:10:53,user_416,instagram,uz,Do'stlar bilan sayil,25,3,False,Samarqand
+725,2026-03-21 10:10:53,user_37,instagram,uz,Bugun Toshkentda havo ajoyib,8,1,False,Toshkent
+726,2026-03-21 10:10:53,user_314,telegram,uz,Milliy taomlar festivali,8,0,False,
+727,2026-03-21 10:10:54,user_22,x,uz,Ko'pkari boshlanyapti,17,1,False,Toshkent
+728,2026-03-21 10:10:57,user_84,telegram,ru,Сумаляк готов,41,8,True,Buxoro
+729,2026-03-21 10:10:57,user_30,telegram,uz,Ko'pkari boshlanyapti,11,1,False,Samarqand
+730,2026-03-21 10:10:57,user_83,telegram,ru,С праздником Навруз! 🌷,24,3,True,Buxoro
+731,2026-03-21 10:10:58,user_115,telegram,ru,Сумаляк готов,9,0,True,Farg'ona
+732,2026-03-21 10:11:00,user_163,x,uz,Do'stlar bilan sayil,40,0,False,Toshkent
+733,2026-03-21 10:11:00,user_232,x,en,Spring is here,53,6,False,
+734,2026-03-21 10:11:01,user_338,instagram,uz,Bayram sayliga boramiz 🌷,20,5,True,Nukus
+735,2026-03-21 10:11:03,user_164,telegram,ru,С праздником Навруз!,5,1,False,Toshkent
+736,2026-03-21 10:11:03,user_145,telegram,uz,Milliy taomlar festivali,4,0,False,Nukus
+737,2026-03-21 10:11:03,user_377,instagram,ru,Весна пришла,9,2,False,Nukus
+738,2026-03-21 10:11:04,user_302,facebook,en,Visiting Samarkand today,28,8,True,Namangan
+739,2026-03-21 10:11:05,user_147,facebook,ru,С праздником Навруз!,7,1,False,Samarqand
+740,2026-03-21 10:11:06,user_336,instagram,en,Happy Navruz!,41,5,True,Toshkent
+741,2026-03-21 10:11:08,user_380,telegram,en,Spring is here,67,17,False,
+742,2026-03-21 10:11:08,user_139,instagram,uz,Bugun Toshkentda havo ajoyib 😊,10,2,False,Toshkent
+741,2026-03-21 10:11:08,user_380,telegram,en,Spring is here,67,17,False,
+743,2026-03-21 10:11:10,user_302,x,en,Happy Navruz! 😊,0,0,False,
+744,2026-03-21 10:11:11,user_425,telegram,uz,Bahor keldi,55,13,False,Nukus
+745,2026-03-21 10:11:11,user_134,instagram,uz,Ko'pkari boshlanyapti,34,6,False,
+746,2026-03-21 10:11:11,user_490,telegram,en,Visiting Samarkand today #bahor,1,0,False,Samarqand
+747,2026-03-21 10:11:13,user_139,telegram,uz,Hammaga tinchlik tilayman,136,20,True,Toshkent
+748,2026-03-21 10:11:14,user_119,telegram,uz,Navro'z muborak!,0,0,True,Toshkent
+749,2026-03-21 10:11:15,user_363,telegram,ru,Сумаляк готов 🌷,13,3,False,Toshkent
+750,2026-03-21 10:11:15,user_180,instagram,ru,С праздником Навруз! #Toshkent,2,0,True,Toshkent
+751,2026-03-21 10:11:15,user_499,facebook,uz,Ko'pkari boshlanyapti,0,0,False,Toshkent
+752,2026-03-21 10:11:17,user_585,x,uz,Hammaga tinchlik tilayman,49,7,True,
+753,2026-03-21 10:11:19,user_128,instagram,uz,Milliy taomlar festivali,10,0,False,Toshkent
+754,2026-03-21 10:11:19,user_399,x,en,Visiting Samarkand today #Toshkent,3,0,True,Buxoro
+754,2026-03-21 10:11:19,user_399,x,en,Visiting Samarkand today #Toshkent,3,0,True,Buxoro
+756,2026-03-21 10:11:20,user_273,telegram,ru,Сумаляк готов,18,2,True,Toshkent
+755,2026-03-21 10:11:21,user_240,x,uz,Ko'pkari boshlanyapti,12,2,True,
+757,2026-03-21 10:11:21,user_102,facebook,en,Spring is here,12,0,False,Andijon
+758,2026-03-21 10:11:22,user_65,instagram,ru,Сумаляк готов,17,2,True,Farg'ona
+759,2026-03-21 10:11:24,user_430,x,uz,Bahor keldi #Uzbekistan,58,7,False,Namangan
+760,2026-03-21 10:11:25,user_449,telegram,ru,С праздником Навруз!,54,11,False,
+761,2026-03-21 10:11:26,user_161,telegram,uz,Do'stlar bilan sayil,41,9,False,Farg'ona
+762,2026-03-21 10:11:26,user_339,telegram,ru,Весна пришла,12,0,True,Samarqand
+763,2026-03-21 10:11:27,user_290,telegram,uz,Bayram sayliga boramiz #Uzbekistan,8,0,True,Samarqand
+764,2026-03-21 10:11:28,user_361,telegram,ru,С праздником Навруз! #Uzbekistan,57,14,False,Qarshi
+766,2026-03-21 10:11:29,user_533,telegram,ru,Сумаляк готов,55,5,False,Toshkent
+765,2026-03-21 10:11:30,user_216,telegram,uz,Hammaga tinchlik tilayman,16,0,True,Buxoro
+767,2026-03-21 10:11:30,user_596,x,uz,Navro'z muborak! #Uzbekistan,3,0,False,Toshkent
+768,2026-03-21 10:11:31,user_211,telegram,uz,Do'stlar bilan sayil #Uzbekistan,17,1,False,
+769,2026-03-21 10:11:33,user_235,x,en,Great festival in Tashkent,13,0,False,Samarqand
+771,2026-03-21 10:11:33,user_567,x,ru,Сумаляк готов,59,0,False,Buxoro
+770,2026-03-21 10:11:34,user_116,telegram,en,Visiting Samarkand today #Uzbekistan,9,0,False,
+772,2026-03-21 10:11:36,user_560,instagram,en,Spring is here #Uzbekistan,17,0,True,
+773,2026-03-21 10:11:36,user_96,telegram,uz,Bugun Toshkentda havo ajoyib,17,3,False,Namangan
+774,2026-03-21 10:11:37,user_199,telegram,en,Happy Navruz! #Toshkent,25,2,False,Toshkent
+775,2026-03-21 10:11:38,user_399,instagram,uz,Milliy taomlar festivali 🌷,44,11,False,Buxoro
+776,2026-03-21 10:11:40,user_284,instagram,uz,Navro'z muborak! #bahor,21,4,False,Namangan
+778,2026-03-21 10:11:40,user_248,telegram,uz,Sumalak tayyor,18,0,False,
+777,2026-03-21 10:11:41,user_297,x,uz,Milliy taomlar festivali,35,9,False,Toshkent
+779,2026-03-21 10:11:41,user_177,telegram,uz,Bayram sayliga boramiz,23,5,False,Farg'ona
+780,2026-03-21 10:11:43,user_490,instagram,uz,Ko'pkari boshlanyapti,25,5,False,Toshkent
+780,2026-03-21 10:11:43,user_490,instagram,uz,Ko'pkari boshlanyapti,25,5,False,Toshkent
+781,2026-03-21 10:11:44,user_59,telegram,uz,Sumalak tayyor,32,5,False,Andijon
+782,2026-03-21 10:11:44,user_258,instagram,uz,Sumalak tayyor,14,4,True,Samarqand
+783,2026-03-21 10:11:44,user_164,telegram,en,Great festival in Tashkent,90,1,False,Toshkent
+784,2026-03-21 10:11:47,user_401,instagram,uz,Hammaga tinchlik tilayman,22,3,False,Samarqand
+785,2026-03-21 10:11:47,user_444,telegram,uz,"Yangi kun, yangi umid",38,0,False,Farg'ona
+786,2026-03-21 10:11:48,user_492,x,uz,Navro'z muborak!,2,0,False,Toshkent
+787,2026-03-21 10:11:48,user_298,telegram,uz,"Yangi kun, yangi umid",6,0,True,Samarqand
+788,2026-03-21 10:11:50,user_72,x,uz,"Yangi kun, yangi umid #Uzbekistan",6,1,True,Toshkent
+789,2026-03-21 10:11:50,user_217,telegram,uz,Bayram sayliga boramiz,19,0,False,
+790,2026-03-21 10:11:51,user_175,telegram,ru,Отличная погода в Ташкенте 😊,37,9,False,Namangan
+791,2026-03-21 10:11:53,user_17,instagram,uz,Do'stlar bilan sayil,0,0,False,Samarqand
+792,2026-03-21 10:11:53,user_517,telegram,uz,Bayram sayliga boramiz #Navruz2026,3,0,False,
+793,2026-03-21 10:11:54,user_415,facebook,uz,Bugun Toshkentda havo ajoyib,9,1,False,Toshkent
+794,2026-03-21 10:11:55,user_72,facebook,uz,Sumalak tayyor,40,5,False,
+795,2026-03-21 10:11:55,user_143,telegram,uz,Sumalak tayyor,50,5,True,
+796,2026-03-21 10:11:57,user_416,instagram,en,Great festival in Tashkent,41,5,False,Toshkent
+797,2026-03-21 10:11:58,user_123,facebook,ru,Сумаляк готов,26,1,False,Buxoro
+798,2026-03-21 10:11:58,user_29,telegram,en,Spring is here #Uzbekistan,8,1,False,Toshkent
+799,2026-03-21 10:12:00,user_116,instagram,uz,Milliy taomlar festivali,25,4,False,Toshkent
+800,2026-03-21 10:12:01,user_291,instagram,uz,Bugun Toshkentda havo ajoyib,13,1,False,Andijon
+801,2026-03-21 10:12:01,user_471,telegram,uz,Bugun Toshkentda havo ajoyib,25,4,False,Toshkent
+802,2026-03-21 10:12:02,user_110,x,uz,Bahor keldi,69,18,False,Qarshi
+803,2026-03-21 10:12:03,user_286,instagram,ru,Сумаляк готов #bahor,42,11,True,Namangan
+804,2026-03-21 10:12:04,user_216,instagram,uz,Sumalak tayyor,18,3,True,Toshkent
+805,2026-03-21 10:12:05,user_111,facebook,uz,"Yangi kun, yangi umid",15,0,True,Toshkent
+806,2026-03-21 10:12:07,user_586,telegram,uz,Bugun Toshkentda havo ajoyib,22,0,False,Namangan
+807,2026-03-21 10:12:08,user_90,instagram,en,Spring is here #Toshkent,13,1,False,Toshkent
+808,2026-03-21 10:12:08,user_550,telegram,ru,Весна пришла #bahor,23,2,False,Nukus
+809,2026-03-21 10:12:08,user_352,x,uz,Do'stlar bilan sayil,47,12,True,Andijon
+810,2026-03-21 10:12:09,user_117,instagram,en,Spring is here,3,0,True,Toshkent
+811,2026-03-21 10:12:11,user_457,instagram,uz,Bahor keldi #Toshkent,11,0,False,Farg'ona
+812,2026-03-21 10:12:12,user_359,instagram,uz,Hammaga tinchlik tilayman #Toshkent,12,0,True,Samarqand
+813,2026-03-21 10:12:12,user_512,telegram,uz,Bayram sayliga boramiz 🌷,2,0,False,Samarqand
+814,2026-03-21 10:12:13,user_272,facebook,uz,Bugun Toshkentda havo ajoyib,13,2,True,Qarshi
+815,2026-03-21 10:12:13,user_373,instagram,uz,Ko'pkari boshlanyapti #Uzbekistan,76,4,False,
+816,2026-03-21 10:12:15,user_587,telegram,uz,Hammaga tinchlik tilayman,4,0,False,Farg'ona
+817,2026-03-21 10:12:15,user_69,telegram,ru,С праздником Навруз!,28,2,False,Namangan
+819,2026-03-21 10:12:17,user_290,telegram,uz,Bahor keldi #Navruz2026,32,0,False,Andijon
+818,2026-03-21 10:12:18,user_590,telegram,uz,Navro'z muborak! #Toshkent,37,4,False,Buxoro
+820,2026-03-21 10:12:19,user_474,telegram,uz,Bayram sayliga boramiz,1,0,True,Nukus
+821,2026-03-21 10:12:19,user_270,facebook,ru,С праздником Навруз!,45,6,False,Samarqand
+822,2026-03-21 10:12:20,user_454,telegram,ru,С праздником Навруз!,4,0,False,Toshkent
+823,2026-03-21 10:12:21,user_41,instagram,uz,Milliy taomlar festivali 🌷,4,1,False,Farg'ona
+824,2026-03-21 10:12:22,user_452,telegram,ru,Сумаляк готов,49,12,True,Buxoro
+825,2026-03-21 10:12:23,user_216,telegram,ru,Отличная погода в Ташкенте,26,2,False,Namangan
+826,2026-03-21 10:12:23,user_327,telegram,uz,Sumalak tayyor 😊,2,0,True,Buxoro
+827,2026-03-21 10:12:25,user_162,telegram,ru,Сумаляк готов,59,2,False,Farg'ona
+828,2026-03-21 10:12:25,user_559,telegram,uz,Do'stlar bilan sayil,43,4,False,Toshkent
+829,2026-03-21 10:12:27,user_229,telegram,uz,Hammaga tinchlik tilayman,25,6,False,
+830,2026-03-21 10:12:28,user_233,telegram,uz,Bahor keldi,35,4,True,Toshkent
+831,2026-03-21 10:12:29,user_15,telegram,uz,Milliy taomlar festivali,7,1,False,Qarshi
+832,2026-03-21 10:12:30,user_411,telegram,uz,Navro'z muborak!,11,0,True,Samarqand
+833,2026-03-21 10:12:31,user_131,telegram,en,Happy Navruz!,43,12,False,Andijon
+835,2026-03-21 10:12:31,user_86,telegram,uz,Bugun Toshkentda havo ajoyib,4,0,False,Qarshi
+834,2026-03-21 10:12:32,user_489,telegram,uz,Navro'z muborak!,12,1,False,Toshkent
+837,2026-03-21 10:12:33,user_168,instagram,uz,Sumalak tayyor,86,7,False,Toshkent
+836,2026-03-21 10:12:34,user_127,instagram,ru,Весна пришла,3,0,False,Toshkent
+838,2026-03-21 10:12:34,user_571,telegram,uz,Milliy taomlar festivali 🌷,17,2,False,
+839,2026-03-21 10:12:35,user_294,instagram,uz,Bugun Toshkentda havo ajoyib,4,1,False,Toshkent
+840,2026-03-21 10:12:36,user_177,telegram,ru,Весна пришла,81,20,False,Toshkent
+841,2026-03-21 10:12:37,user_164,telegram,uz,Milliy taomlar festivali,67,13,False,Andijon
+843,2026-03-21 10:12:38,user_117,instagram,uz,Bahor keldi,8,0,True,Toshkent
+842,2026-03-21 10:12:39,user_593,telegram,uz,Bugun Toshkentda havo ajoyib #Navruz2026,1,0,False,Toshkent
+844,2026-03-21 10:12:39,user_10,telegram,ru,Отличная погода в Ташкенте,39,10,False,
+845,2026-03-21 10:12:40,user_317,instagram,uz,Do'stlar bilan sayil,9,1,False,Toshkent
+846,2026-03-21 10:12:42,user_529,telegram,uz,Sumalak tayyor,7,0,False,Samarqand
+847,2026-03-21 10:12:42,user_428,instagram,uz,Ko'pkari boshlanyapti #Navruz2026,4,0,True,Toshkent
+848,2026-03-21 10:12:44,user_439,telegram,uz,Bugun Toshkentda havo ajoyib,0,0,True,Namangan
+849,2026-03-21 10:12:44,user_10,instagram,uz,Milliy taomlar festivali,107,17,False,Toshkent
+849,2026-03-21 10:12:44,user_10,instagram,uz,Milliy taomlar festivali,107,17,False,Toshkent
+850,2026-03-21 10:12:46,user_27,telegram,uz,Milliy taomlar festivali,3,0,False,Qarshi
+851,2026-03-21 10:12:46,user_147,telegram,uz,Sumalak tayyor,84,11,False,Toshkent
+852,2026-03-21 10:12:47,user_487,facebook,uz,Ko'pkari boshlanyapti #Navruz2026,27,7,True,Toshkent
+853,2026-03-21 10:12:49,user_432,x,uz,Sumalak tayyor,0,0,False,Buxoro
+855,2026-03-21 10:12:49,user_14,facebook,uz,Milliy taomlar festivali,28,8,False,Farg'ona
+854,2026-03-21 10:12:50,user_312,x,ru,Отличная погода в Ташкенте #bahor,46,3,False,Samarqand
+856,2026-03-21 10:12:51,user_106,instagram,uz,Bahor keldi,21,0,False,Samarqand
+857,2026-03-21 10:12:51,user_516,instagram,uz,Bugun Toshkentda havo ajoyib,39,1,False,Buxoro
+858,2026-03-21 10:12:52,user_477,telegram,en,Spring is here,22,1,False,Samarqand
+859,2026-03-21 10:12:53,user_224,telegram,ru,С праздником Навруз! #Navruz2026,6,0,False,
+860,2026-03-21 10:12:55,user_22,instagram,uz,Navro'z muborak!,51,5,False,Namangan
+862,2026-03-21 10:12:55,user_36,instagram,uz,Bugun Toshkentda havo ajoyib,3,0,False,Buxoro
+861,2026-03-21 10:12:56,user_167,telegram,uz,Ko'pkari boshlanyapti,99,21,True,Namangan
+864,2026-03-21 10:12:57,user_456,facebook,uz,Hammaga tinchlik tilayman,15,3,False,Buxoro
+863,2026-03-21 10:12:58,user_198,telegram,uz,Do'stlar bilan sayil 😊,4,0,True,Toshkent
+865,2026-03-21 10:12:59,user_16,telegram,uz,Milliy taomlar festivali,41,3,False,Namangan
+867,2026-03-21 10:13:00,user_554,x,uz,Navro'z muborak!,5,0,False,Nukus
+866,2026-03-21 10:13:01,user_166,instagram,uz,"Yangi kun, yangi umid",36,3,False,
+868,2026-03-21 10:13:01,user_88,instagram,uz,Do'stlar bilan sayil,48,2,False,Toshkent
+869,2026-03-21 10:13:03,user_542,instagram,uz,Do'stlar bilan sayil #Navruz2026,0,0,False,Toshkent
+870,2026-03-21 10:13:03,user_391,telegram,ru,Весна пришла,7,0,False,Nukus
+871,2026-03-21 10:13:04,user_65,telegram,uz,Do'stlar bilan sayil #Toshkent,11,1,True,Toshkent
+872,2026-03-21 10:13:05,user_210,telegram,uz,Bayram sayliga boramiz,39,6,False,Samarqand
+873,2026-03-21 10:13:06,user_106,instagram,uz,,35,9,False,Samarqand
+875,2026-03-21 10:13:07,user_442,instagram,ru,С праздником Навруз!,16,2,True,Toshkent
+874,2026-03-21 10:13:08,user_96,telegram,ru,Весна пришла 😊,43,1,True,Toshkent
+876,2026-03-21 10:13:10,user_156,x,uz,Bugun Toshkentda havo ajoyib,4,0,False,Qarshi
+877,2026-03-21 10:13:10,user_17,instagram,ru,Весна пришла,27,1,True,Farg'ona
+878,2026-03-21 10:13:11,user_444,telegram,uz,Navro'z muborak!,6,1,False,Namangan
+879,2026-03-21 10:13:11,user_341,telegram,uz,Bayram sayliga boramiz 😊,33,1,False,Toshkent
+880,2026-03-21 10:13:12,user_183,telegram,uz,Milliy taomlar festivali,59,16,True,Toshkent
+881,2026-03-21 10:13:14,user_551,telegram,uz,Ko'pkari boshlanyapti #Navruz2026,1,0,True,Toshkent
+883,2026-03-21 10:13:14,user_23,telegram,uz,Bahor keldi,5,1,False,
+882,2026-03-21 10:13:15,user_349,instagram,uz,Sumalak tayyor,53,6,True,Toshkent
+884,2026-03-21 10:13:16,user_299,x,uz,Milliy taomlar festivali,59,11,True,Buxoro
+885,2026-03-21 10:13:16,user_492,facebook,uz,Milliy taomlar festivali #Uzbekistan,34,5,True,
+887,2026-03-21 10:13:18,user_248,telegram,uz,Sumalak tayyor 🌷,33,9,False,Toshkent
+886,2026-03-21 10:13:19,user_332,telegram,uz,Bayram sayliga boramiz 😊,9,1,False,
+888,2026-03-21 10:13:19,user_82,instagram,uz,Sumalak tayyor,11,2,False,Samarqand
+889,2026-03-21 10:13:21,user_279,instagram,uz,Hammaga tinchlik tilayman #bahor,4,0,False,Toshkent
+890,2026-03-21 10:13:22,user_397,telegram,ru,Сумаляк готов,5,1,True,Buxoro
+891,2026-03-21 10:13:23,user_73,instagram,ru,Сумаляк готов,30,6,True,Toshkent
+892,2026-03-21 10:13:24,user_152,instagram,uz,Bayram sayliga boramiz #bahor,36,10,False,Samarqand
+893,2026-03-21 10:13:24,user_14,telegram,uz,Do'stlar bilan sayil,14,3,False,Samarqand
+894,2026-03-21 10:13:25,user_588,telegram,ru,Весна пришла,91,18,False,
+895,2026-03-21 10:13:27,user_276,telegram,uz,Milliy taomlar festivali,5,0,False,Toshkent
+896,2026-03-21 10:13:27,user_441,telegram,uz,Sumalak tayyor #Navruz2026,25,3,False,
+897,2026-03-21 10:13:27,user_96,x,uz,"Yangi kun, yangi umid",3,0,True,
+898,2026-03-21 10:13:29,user_370,telegram,en,Happy Navruz!,10,2,False,Toshkent
+899,2026-03-21 10:13:29,user_588,telegram,en,Happy Navruz!,4,0,False,
+900,2026-03-21 10:13:31,user_523,x,en,Visiting Samarkand today,36,1,False,Toshkent
+901,2026-03-21 10:13:31,user_385,x,uz,Bahor keldi #Toshkent,65,18,False,Toshkent
+902,2026-03-21 10:13:32,user_409,telegram,uz,Do'stlar bilan sayil,7,0,False,
+903,2026-03-21 10:13:33,user_455,telegram,uz,Do'stlar bilan sayil,74,3,False,Nukus
+904,2026-03-21 10:13:34,user_212,instagram,en,Great festival in Tashkent,31,9,True,Samarqand
+905,2026-03-21 10:13:36,user_117,instagram,uz,Do'stlar bilan sayil,12,3,True,
+906,2026-03-21 10:13:36,user_225,instagram,ru,Сумаляк готов,13,2,False,Toshkent
+907,2026-03-21 10:13:37,user_199,telegram,uz,Navro'z muborak! 🌷,14,1,True,Nukus
+908,2026-03-21 10:13:38,user_544,telegram,uz,Navro'z muborak!,38,3,False,Samarqand
+909,2026-03-21 10:13:39,user_504,x,uz,Hammaga tinchlik tilayman 😊,5,1,False,Toshkent
+910,2026-03-21 10:13:39,user_566,telegram,ru,Сумаляк готов,9,1,False,Buxoro
+911,2026-03-21 10:13:41,user_501,x,uz,,10,2,False,Toshkent
+912,2026-03-21 10:13:41,user_116,instagram,uz,Sumalak tayyor 🌷,13,0,False,Samarqand
+913,2026-03-21 10:13:42,user_568,instagram,uz,Sumalak tayyor,26,5,False,Buxoro
+914,2026-03-21 10:13:42,user_507,telegram,uz,Bayram sayliga boramiz,3,0,True,
+915,2026-03-21 10:13:44,user_279,telegram,uz,Sumalak tayyor,15,1,True,Samarqand
+916,2026-03-21 10:13:45,user_189,x,ru,Весна пришла #Navruz2026,70,20,True,Toshkent
+917,2026-03-21 10:13:45,user_420,telegram,uz,Navro'z muborak!,29,3,False,Toshkent
+918,2026-03-21 10:13:46,user_59,instagram,ru,С праздником Навруз!,18,1,True,
+919,2026-03-21 10:13:48,user_399,telegram,ru,Отличная погода в Ташкенте 🌷,14,4,True,Qarshi
+920,2026-03-21 10:13:48,user_397,telegram,ru,Сумаляк готов,22,4,False,Toshkent
+921,2026-03-21 10:13:50,user_444,telegram,uz,Ko'pkari boshlanyapti,9,0,False,Buxoro
+922,2026-03-21 10:13:50,user_75,instagram,uz,"Yangi kun, yangi umid",34,7,False,Toshkent
+923,2026-03-21 10:13:51,user_18,telegram,uz,Ko'pkari boshlanyapti,126,11,False,Qarshi
+924,2026-03-21 10:13:52,user_37,telegram,uz,Ko'pkari boshlanyapti,31,4,False,Toshkent
+925,2026-03-21 10:13:53,user_542,x,uz,Bugun Toshkentda havo ajoyib,6,0,True,Buxoro
+926,2026-03-21 10:13:53,user_131,telegram,uz,Navro'z muborak!,67,16,True,Samarqand
+927,2026-03-21 10:13:56,user_448,instagram,uz,Sumalak tayyor,6,1,False,Toshkent
+928,2026-03-21 10:13:57,user_24,x,uz,Bahor keldi,33,6,False,Toshkent
+929,2026-03-21 10:13:57,user_212,telegram,uz,Milliy taomlar festivali,4,0,False,Samarqand
+930,2026-03-21 10:13:57,user_59,instagram,uz,Milliy taomlar festivali #bahor,0,0,True,Andijon
+931,2026-03-21 10:13:59,user_88,facebook,uz,"Yangi kun, yangi umid",34,0,False,Buxoro
+933,2026-03-21 10:13:59,user_447,telegram,uz,"Yangi kun, yangi umid",17,5,True,Samarqand
+932,2026-03-21 10:14:00,user_344,telegram,ru,С праздником Навруз! #Uzbekistan,8,0,False,Samarqand
+934,2026-03-21 10:14:02,user_258,telegram,en,Visiting Samarkand today #Navruz2026,114,15,False,Toshkent
+935,2026-03-21 10:14:03,user_187,x,uz,Bayram sayliga boramiz #Uzbekistan,39,1,True,Samarqand
+937,2026-03-21 10:14:03,user_287,telegram,uz,Bayram sayliga boramiz,16,0,False,Nukus
+936,2026-03-21 10:14:04,user_115,facebook,ru,Сумаляк готов #Navruz2026,14,3,False,Toshkent
+938,2026-03-21 10:14:05,user_558,telegram,uz,Bayram sayliga boramiz,161,3,True,
+939,2026-03-21 10:14:06,user_576,x,ru,Весна пришла,115,10,False,
+940,2026-03-21 10:14:07,user_475,instagram,ru,Сумаляк готов,9,1,True,
+941,2026-03-21 10:14:07,user_265,instagram,uz,Sumalak tayyor #Uzbekistan,7,0,False,Toshkent
+942,2026-03-21 10:14:08,user_104,instagram,ru,Сумаляк готов 😊,37,1,False,Buxoro
+943,2026-03-21 10:14:09,user_414,telegram,en,Visiting Samarkand today,3,0,False,Nukus
+944,2026-03-21 10:14:10,user_578,telegram,uz,Bahor keldi 😊,28,0,True,Toshkent
+945,2026-03-21 10:14:11,user_521,telegram,uz,Milliy taomlar festivali 😊,33,9,False,Samarqand
+946,2026-03-21 10:14:12,user_273,x,uz,Bahor keldi,10,2,False,Toshkent
+948,2026-03-21 10:14:13,user_394,telegram,en,Happy Navruz!,11,0,False,Buxoro
+947,2026-03-21 10:14:14,user_181,instagram,en,,57,8,True,Toshkent
+949,2026-03-21 10:14:15,user_40,instagram,uz,Milliy taomlar festivali,3,0,False,Qarshi
+950,2026-03-21 10:14:15,user_196,telegram,uz,,5,1,True,Farg'ona
+951,2026-03-21 10:14:16,user_455,telegram,uz,Do'stlar bilan sayil,10,2,True,Farg'ona
+952,2026-03-21 10:14:17,user_250,instagram,uz,Bayram sayliga boramiz #Toshkent,0,0,False,Samarqand
+953,2026-03-21 10:14:18,user_322,telegram,uz,Hammaga tinchlik tilayman,10,2,False,Buxoro
+954,2026-03-21 10:14:19,user_154,facebook,ru,Весна пришла #Uzbekistan,73,15,True,Samarqand
+955,2026-03-21 10:14:20,user_386,telegram,uz,Sumalak tayyor,3,0,True,Toshkent
+956,2026-03-21 10:14:21,user_389,instagram,uz,Bugun Toshkentda havo ajoyib,110,29,False,Toshkent
+957,2026-03-21 10:14:21,user_152,x,ru,Сумаляк готов #Toshkent,34,7,True,Toshkent
+958,2026-03-21 10:14:23,user_29,telegram,uz,Bugun Toshkentda havo ajoyib #bahor,16,3,False,Nukus
+959,2026-03-21 10:14:24,user_415,telegram,ru,С праздником Навруз!,7,1,True,Toshkent
+960,2026-03-21 10:14:24,user_449,telegram,uz,Sumalak tayyor,5,0,False,Toshkent
+961,2026-03-21 10:14:25,user_247,telegram,uz,Sumalak tayyor #Uzbekistan,8,1,True,Toshkent
+962,2026-03-21 10:14:26,user_262,telegram,uz,Do'stlar bilan sayil,69,11,False,
+963,2026-03-21 10:14:27,user_286,telegram,ru,С праздником Навруз!,23,1,True,Samarqand
+964,2026-03-21 10:14:28,user_220,instagram,uz,Bahor keldi,8,1,False,Toshkent
+965,2026-03-21 10:14:28,user_34,telegram,uz,Bayram sayliga boramiz,1,0,False,Buxoro
+966,2026-03-21 10:14:29,user_562,facebook,uz,Bahor keldi #bahor,10,0,False,Toshkent
+967,2026-03-21 10:14:31,user_180,instagram,uz,Hammaga tinchlik tilayman #bahor,29,7,False,Samarqand
+968,2026-03-21 10:14:32,user_547,telegram,uz,Milliy taomlar festivali #Toshkent,39,9,True,Namangan
+969,2026-03-21 10:14:34,user_330,telegram,uz,"Yangi kun, yangi umid",30,5,False,Toshkent
+970,2026-03-21 10:14:34,user_444,telegram,uz,Bahor keldi,33,9,False,Andijon
+971,2026-03-21 10:14:34,user_520,telegram,uz,Navro'z muborak!,23,2,False,Samarqand
+972,2026-03-21 10:14:35,user_161,x,uz,Bayram sayliga boramiz,20,2,False,Buxoro
+973,2026-03-21 10:14:36,user_268,telegram,ru,С праздником Навруз!,9,1,False,Farg'ona
+974,2026-03-21 10:14:37,user_514,telegram,uz,Do'stlar bilan sayil,29,0,True,Toshkent
+976,2026-03-21 10:14:38,user_453,facebook,ru,С праздником Навруз!,10,2,True,Toshkent
+975,2026-03-21 10:14:39,user_456,instagram,ru,С праздником Навруз! #Uzbekistan,3,0,False,Toshkent
+977,2026-03-21 10:14:39,user_567,instagram,uz,"Yangi kun, yangi umid #Toshkent",7,0,False,Nukus
+978,2026-03-21 10:14:40,user_512,x,ru,Отличная погода в Ташкенте,12,2,False,Qarshi
+979,2026-03-21 10:14:43,user_589,instagram,uz,Bayram sayliga boramiz #Navruz2026,17,3,True,Samarqand
+980,2026-03-21 10:14:43,user_338,instagram,uz,Milliy taomlar festivali #Navruz2026,15,0,False,Toshkent
+981,2026-03-21 10:14:43,user_456,telegram,uz,Navro'z muborak!,18,0,False,Farg'ona
+982,2026-03-21 10:14:44,user_17,telegram,uz,Do'stlar bilan sayil,117,31,False,
+983,2026-03-21 10:14:45,user_450,instagram,uz,Hammaga tinchlik tilayman,9,1,False,Nukus
+984,2026-03-21 10:14:47,user_351,instagram,uz,Do'stlar bilan sayil,12,3,True,Toshkent
+985,2026-03-21 10:14:47,user_553,x,uz,Bayram sayliga boramiz,40,0,False,Samarqand
+986,2026-03-21 10:14:48,user_26,telegram,uz,"Yangi kun, yangi umid #Navruz2026",45,4,False,Namangan
+987,2026-03-21 10:14:49,user_221,telegram,uz,"Yangi kun, yangi umid",67,5,False,Samarqand
+988,2026-03-21 10:14:49,user_32,x,uz,Bayram sayliga boramiz 🌷,58,9,False,Toshkent
+989,2026-03-21 10:14:51,user_559,telegram,uz,Bahor keldi #Toshkent,20,0,False,Toshkent
+990,2026-03-21 10:14:52,user_577,instagram,uz,Sumalak tayyor,12,2,True,
+991,2026-03-21 10:14:53,user_238,telegram,ru,Отличная погода в Ташкенте,0,0,False,Toshkent
+992,2026-03-21 10:14:53,user_28,instagram,ru,С праздником Навруз!,40,2,False,Farg'ona
+993,2026-03-21 10:14:53,user_284,telegram,uz,Ko'pkari boshlanyapti 😊,0,0,False,Toshkent
+994,2026-03-21 10:14:56,user_542,instagram,uz,Do'stlar bilan sayil,1,0,False,
+995,2026-03-21 10:14:57,user_173,x,en,Visiting Samarkand today,25,2,False,
+996,2026-03-21 10:14:57,user_433,facebook,uz,Do'stlar bilan sayil,20,4,False,Toshkent
+997,2026-03-21 10:14:58,user_495,facebook,uz,Bayram sayliga boramiz #Navruz2026,36,0,False,Toshkent
+998,2026-03-21 10:14:59,user_173,facebook,en,Great festival in Tashkent,28,1,True,Andijon
+999,2026-03-21 10:15:00,user_82,x,uz,Navro'z muborak! #Toshkent,35,6,False,Buxoro
+1000,2026-03-21 10:15:01,user_91,x,uz,Bugun Toshkentda havo ajoyib,79,10,True,
+1001,2026-03-21 10:15:02,user_586,facebook,uz,Sumalak tayyor #Uzbekistan,13,1,True,Buxoro
+1002,2026-03-21 10:15:02,user_584,telegram,en,Great festival in Tashkent,3,0,False,Toshkent
+1003,2026-03-21 10:15:03,user_421,instagram,ru,Отличная погода в Ташкенте,0,0,True,Samarqand
+1004,2026-03-21 10:15:05,user_209,telegram,uz,Bayram sayliga boramiz,18,2,True,Samarqand
+1005,2026-03-21 10:15:05,user_186,telegram,uz,Bahor keldi #Toshkent,11,2,True,Buxoro
+1006,2026-03-21 10:15:05,user_71,telegram,en,Great festival in Tashkent,3,0,True,Samarqand
+1007,2026-03-21 10:15:07,user_147,instagram,uz,Ko'pkari boshlanyapti #Uzbekistan,36,6,False,Toshkent
+1008,2026-03-21 10:15:08,user_535,facebook,uz,Bahor keldi 😊,9,1,False,Samarqand
+1009,2026-03-21 10:15:08,user_332,telegram,uz,Hammaga tinchlik tilayman,6,1,False,Namangan
+1010,2026-03-21 10:15:09,user_76,instagram,en,Spring is here 😊,13,0,False,Toshkent
+1011,2026-03-21 10:15:11,user_351,instagram,uz,Bahor keldi,11,0,False,Farg'ona
+1012,2026-03-21 10:15:12,user_500,telegram,ru,Отличная погода в Ташкенте,10,2,False,Toshkent
+1013,2026-03-21 10:15:12,user_212,x,uz,Milliy taomlar festivali #Toshkent,21,1,True,Andijon
+1014,2026-03-21 10:15:12,user_320,telegram,uz,"Yangi kun, yangi umid",12,2,False,
+1015,2026-03-21 10:15:15,user_573,telegram,uz,Hammaga tinchlik tilayman #Uzbekistan,79,21,True,Samarqand
+1016,2026-03-21 10:15:16,user_272,telegram,uz,Navro'z muborak! 😊,13,2,False,Samarqand
+1017,2026-03-21 10:15:16,user_1,instagram,uz,Ko'pkari boshlanyapti,12,1,False,Samarqand
+1018,2026-03-21 10:15:17,user_241,telegram,uz,Navro'z muborak!,10,2,False,Namangan
+1019,2026-03-21 10:15:19,user_41,instagram,ru,,4,0,False,Toshkent
+1020,2026-03-21 10:15:19,user_591,x,ru,Сумаляк готов,12,0,False,Samarqand
+1022,2026-03-21 10:15:19,user_443,instagram,en,Happy Navruz! #Uzbekistan,17,2,False,
+1020,2026-03-21 10:15:19,user_591,x,ru,Сумаляк готов,12,0,False,Samarqand
+1021,2026-03-21 10:15:20,user_292,instagram,uz,Hammaga tinchlik tilayman,15,2,True,Toshkent
+1023,2026-03-21 10:15:22,user_126,instagram,uz,Bugun Toshkentda havo ajoyib 🌷,3,0,False,Buxoro
+1024,2026-03-21 10:15:22,user_90,instagram,en,Spring is here,18,0,True,Toshkent
+1025,2026-03-21 10:15:22,user_233,telegram,uz,Do'stlar bilan sayil #Navruz2026,27,6,True,Buxoro
+1025,2026-03-21 10:15:22,user_233,telegram,uz,Do'stlar bilan sayil #Navruz2026,27,6,True,Buxoro
+1026,2026-03-21 10:15:24,user_395,instagram,uz,Do'stlar bilan sayil #bahor,51,12,True,Toshkent
+1027,2026-03-21 10:15:24,user_537,telegram,uz,Ko'pkari boshlanyapti,57,6,True,
+1028,2026-03-21 10:15:26,user_66,telegram,ru,Отличная погода в Ташкенте,24,1,False,Toshkent
+1029,2026-03-21 10:15:26,user_536,telegram,uz,Ko'pkari boshlanyapti,1,0,False,Toshkent
+1030,2026-03-21 10:15:28,user_57,facebook,uz,Bahor keldi,4,0,True,Buxoro
+1031,2026-03-21 10:15:28,user_156,instagram,ru,Отличная погода в Ташкенте #bahor,6,1,False,
+1032,2026-03-21 10:15:30,user_236,telegram,uz,,10,2,False,Qarshi
+1033,2026-03-21 10:15:31,user_322,instagram,uz,Bayram sayliga boramiz,3,0,False,Toshkent
+1034,2026-03-21 10:15:31,user_77,telegram,uz,Bahor keldi #Uzbekistan,14,0,False,Buxoro
+1036,2026-03-21 10:15:32,user_501,telegram,uz,Navro'z muborak!,5,1,True,Toshkent
+1035,2026-03-21 10:15:33,user_567,facebook,uz,Bayram sayliga boramiz 😊,1,0,False,Nukus
+1037,2026-03-21 10:15:34,user_222,x,uz,Sumalak tayyor,2,0,False,Samarqand
+1038,2026-03-21 10:15:35,user_139,telegram,ru,Сумаляк готов,45,4,True,
+1039,2026-03-21 10:15:35,user_269,telegram,uz,Sumalak tayyor #Uzbekistan,2,0,False,Toshkent
+1040,2026-03-21 10:15:36,user_441,instagram,uz,Do'stlar bilan sayil,1,0,False,Toshkent
+1041,2026-03-21 10:15:37,user_264,telegram,uz,Ko'pkari boshlanyapti,0,0,True,Toshkent
+1042,2026-03-21 10:15:39,user_296,x,ru,С праздником Навруз!,35,8,False,Namangan
+1043,2026-03-21 10:15:39,user_54,instagram,ru,Весна пришла,5,0,False,Toshkent
+1044,2026-03-21 10:15:40,user_118,instagram,uz,Hammaga tinchlik tilayman,22,5,False,Buxoro
+1045,2026-03-21 10:15:41,user_396,facebook,uz,Bugun Toshkentda havo ajoyib,8,0,False,
+1046,2026-03-21 10:15:42,user_356,telegram,uz,Hammaga tinchlik tilayman,0,0,True,Toshkent
+1047,2026-03-21 10:15:43,user_314,telegram,uz,Do'stlar bilan sayil #Uzbekistan,1,0,True,Samarqand
+1048,2026-03-21 10:15:44,user_220,facebook,uz,Bugun Toshkentda havo ajoyib 🌷,68,16,False,Nukus
+1049,2026-03-21 10:15:44,user_371,x,uz,Sumalak tayyor,34,4,True,
+1050,2026-03-21 10:15:46,user_594,facebook,uz,Sumalak tayyor,35,0,True,Samarqand
+1051,2026-03-21 10:15:47,user_434,facebook,uz,Bayram sayliga boramiz,24,4,False,
+1052,2026-03-21 10:15:47,user_173,telegram,ru,Отличная погода в Ташкенте,59,15,False,Nukus
+1053,2026-03-21 10:15:48,user_114,telegram,uz,Sumalak tayyor 🌷,39,10,False,Toshkent
+1054,2026-03-21 10:15:50,user_261,instagram,uz,Bahor keldi #Uzbekistan,11,0,True,Namangan
+1055,2026-03-21 10:15:50,user_388,instagram,ru,Отличная погода в Ташкенте #bahor,12,2,False,Toshkent
+1056,2026-03-21 10:15:51,user_391,telegram,uz,Bayram sayliga boramiz,0,0,False,Toshkent
+1057,2026-03-21 10:15:51,user_548,x,uz,Ko'pkari boshlanyapti,6,1,False,Qarshi
+1058,2026-03-21 10:15:53,user_390,x,uz,"Yangi kun, yangi umid",1,0,False,
+1059,2026-03-21 10:15:54,user_289,telegram,uz,Do'stlar bilan sayil,3,0,False,Toshkent
+1060,2026-03-21 10:15:54,user_383,telegram,uz,Bayram sayliga boramiz,7,1,True,Toshkent
+1061,2026-03-21 10:15:55,user_166,instagram,ru,Весна пришла,12,1,False,
+1062,2026-03-21 10:15:56,user_466,facebook,uz,Ko'pkari boshlanyapti,8,0,True,Toshkent
+1064,2026-03-21 10:15:57,user_19,telegram,uz,Do'stlar bilan sayil,15,3,True,Buxoro
+1063,2026-03-21 10:15:58,user_94,facebook,uz,Bayram sayliga boramiz,23,0,False,Samarqand
+1065,2026-03-21 10:15:58,user_321,telegram,uz,Navro'z muborak! #bahor,8,1,False,Toshkent
+1066,2026-03-21 10:16:00,user_69,telegram,uz,Do'stlar bilan sayil,51,5,False,Toshkent
+1067,2026-03-21 10:16:01,user_158,facebook,uz,Do'stlar bilan sayil,5,1,False,Toshkent
+1068,2026-03-21 10:16:01,user_282,instagram,uz,Navro'z muborak! #bahor,56,6,True,
+1069,2026-03-21 10:16:02,user_591,telegram,ru,Отличная погода в Ташкенте #Navruz2026,1,0,True,Toshkent
+1070,2026-03-21 10:16:03,user_122,facebook,uz,Bugun Toshkentda havo ajoyib,14,3,False,Nukus
+1071,2026-03-21 10:16:04,user_574,facebook,uz,Navro'z muborak! 😊,16,4,False,Andijon
+1072,2026-03-21 10:16:04,user_147,telegram,ru,С праздником Навруз!,11,2,True,
+1073,2026-03-21 10:16:06,user_485,instagram,uz,Hammaga tinchlik tilayman #Toshkent,0,0,True,Toshkent
+1074,2026-03-21 10:16:08,user_404,telegram,uz,Milliy taomlar festivali #Navruz2026,13,2,False,
+1075,2026-03-21 10:16:08,user_487,telegram,uz,Bayram sayliga boramiz,42,11,True,
+1076,2026-03-21 10:16:09,user_497,telegram,uz,Bugun Toshkentda havo ajoyib #Uzbekistan,15,0,False,Toshkent
+1077,2026-03-21 10:16:10,user_381,telegram,uz,Do'stlar bilan sayil,52,14,False,
+1078,2026-03-21 10:16:11,user_532,instagram,uz,Bugun Toshkentda havo ajoyib,25,5,False,Toshkent
+1079,2026-03-21 10:16:12,user_471,telegram,ru,С праздником Навруз!,123,4,False,Toshkent
+1080,2026-03-21 10:16:13,user_337,telegram,uz,Bayram sayliga boramiz,26,1,True,Samarqand
+1081,2026-03-21 10:16:13,user_548,telegram,uz,Ko'pkari boshlanyapti,7,1,False,Toshkent
+1082,2026-03-21 10:16:15,user_22,telegram,ru,Сумаляк готов,2,0,False,Samarqand
+1083,2026-03-21 10:16:15,user_82,telegram,uz,Bugun Toshkentda havo ajoyib,0,0,True,Andijon
+1084,2026-03-21 10:16:16,user_242,instagram,uz,Ko'pkari boshlanyapti,0,0,False,Farg'ona
+1085,2026-03-21 10:16:17,user_576,instagram,uz,Ko'pkari boshlanyapti #Uzbekistan,2,0,False,Toshkent
+1086,2026-03-21 10:16:17,user_237,instagram,ru,Весна пришла #Toshkent,15,1,False,Toshkent
+1087,2026-03-21 10:16:19,user_476,telegram,uz,Bahor keldi 😊,59,13,True,
+1088,2026-03-21 10:16:19,user_424,telegram,ru,Весна пришла #Uzbekistan,104,19,False,Toshkent
+1089,2026-03-21 10:16:20,user_250,instagram,uz,Milliy taomlar festivali 🌷,61,8,False,
+1090,2026-03-21 10:16:21,user_189,instagram,uz,,17,1,True,Andijon
+1091,2026-03-21 10:16:23,user_397,facebook,uz,Bayram sayliga boramiz,16,2,False,Samarqand
+1092,2026-03-21 10:16:24,user_340,instagram,uz,Milliy taomlar festivali,4,0,True,
+1093,2026-03-21 10:16:24,user_107,telegram,en,Spring is here,3,0,False,
+1094,2026-03-21 10:16:25,user_282,telegram,uz,Milliy taomlar festivali,12,2,True,Farg'ona
+1095,2026-03-21 10:16:25,user_237,instagram,uz,Bugun Toshkentda havo ajoyib,7,1,False,Samarqand
+1096,2026-03-21 10:16:27,user_16,instagram,uz,Sumalak tayyor #Navruz2026,29,0,False,
+1096,2026-03-21 10:16:27,user_16,instagram,uz,Sumalak tayyor #Navruz2026,29,0,False,
+1097,2026-03-21 10:16:28,user_265,x,ru,Сумаляк готов,3,0,True,Samarqand
+1098,2026-03-21 10:16:28,user_336,telegram,ru,Весна пришла #Navruz2026,22,0,False,Toshkent
+1099,2026-03-21 10:16:29,user_117,facebook,ru,Весна пришла,52,5,False,Samarqand
+1100,2026-03-21 10:16:31,user_63,x,uz,,146,11,False,Namangan
+1101,2026-03-21 10:16:31,user_288,facebook,uz,"Yangi kun, yangi umid",6,1,False,Farg'ona
+1102,2026-03-21 10:16:33,user_163,telegram,uz,Do'stlar bilan sayil,5,0,True,Samarqand
+1103,2026-03-21 10:16:33,user_470,x,ru,Весна пришла,18,3,False,Toshkent
+1103,2026-03-21 10:16:33,user_470,x,ru,Весна пришла,18,3,False,Toshkent
+1105,2026-03-21 10:16:34,user_77,telegram,uz,Bahor keldi,37,5,False,Namangan
+1104,2026-03-21 10:16:35,user_68,telegram,uz,Sumalak tayyor #Toshkent,10,2,False,Qarshi
+1106,2026-03-21 10:16:36,user_471,instagram,uz,Bayram sayliga boramiz #Navruz2026,32,2,True,Buxoro
+1107,2026-03-21 10:16:38,user_307,telegram,uz,Do'stlar bilan sayil #Uzbekistan,24,1,True,Samarqand
+1108,2026-03-21 10:16:38,user_232,instagram,uz,Milliy taomlar festivali,10,2,False,Namangan
+1109,2026-03-21 10:16:38,user_324,telegram,uz,Hammaga tinchlik tilayman 😊,4,0,False,Samarqand
+1110,2026-03-21 10:16:39,user_115,telegram,ru,С праздником Навруз! #Navruz2026,9,0,False,Toshkent
+1111,2026-03-21 10:16:41,user_109,telegram,uz,Do'stlar bilan sayil,0,0,False,Toshkent
+1112,2026-03-21 10:16:41,user_84,telegram,en,Happy Navruz!,4,0,True,Namangan
+1112,2026-03-21 10:16:41,user_84,telegram,en,Happy Navruz!,4,0,True,Namangan
+1113,2026-03-21 10:16:42,user_465,facebook,uz,Bayram sayliga boramiz #bahor,48,4,False,Samarqand
+1114,2026-03-21 10:16:43,user_507,instagram,uz,Bugun Toshkentda havo ajoyib,3,0,False,Samarqand
+1115,2026-03-21 10:16:45,user_176,x,ru,Отличная погода в Ташкенте,5,0,True,Namangan
+1116,2026-03-21 10:16:45,user_430,instagram,uz,Bayram sayliga boramiz,64,10,True,
+1117,2026-03-21 10:16:45,user_514,telegram,uz,Sumalak tayyor,19,5,True,
+1118,2026-03-21 10:16:47,user_52,telegram,uz,Bayram sayliga boramiz,44,13,False,Toshkent
+1119,2026-03-21 10:16:48,user_438,instagram,ru,Сумаляк готов,13,1,False,Andijon
+1120,2026-03-21 10:16:49,user_25,facebook,uz,Milliy taomlar festivali 😊,8,0,False,
+1121,2026-03-21 10:16:49,user_480,x,ru,Отличная погода в Ташкенте,0,0,True,Samarqand
+1122,2026-03-21 10:16:50,user_530,instagram,en,Happy Navruz!,1,0,False,Farg'ona
+1123,2026-03-21 10:16:52,user_596,telegram,ru,Сумаляк готов 😊,33,0,False,Toshkent
+1124,2026-03-21 10:16:52,user_366,telegram,uz,Sumalak tayyor #Uzbekistan,11,3,False,Farg'ona
+1126,2026-03-21 10:16:53,user_572,facebook,ru,С праздником Навруз!,51,1,False,Buxoro
+1125,2026-03-21 10:16:54,user_386,instagram,uz,Bayram sayliga boramiz,24,6,False,Toshkent
+1127,2026-03-21 10:16:56,user_407,instagram,ru,Отличная погода в Ташкенте,19,4,True,Samarqand
+1128,2026-03-21 10:16:56,user_429,telegram,ru,Сумаляк готов,7,1,False,Toshkent
+1129,2026-03-21 10:16:57,user_70,facebook,uz,"Yangi kun, yangi umid",2,0,False,Namangan
+1130,2026-03-21 10:16:58,user_18,facebook,ru,Весна пришла,18,0,True,Samarqand
+1131,2026-03-21 10:16:58,user_458,x,uz,Bayram sayliga boramiz,16,1,True,Toshkent
+1132,2026-03-21 10:17:00,user_562,x,ru,Сумаляк готов #Navruz2026,35,10,False,Samarqand
+1133,2026-03-21 10:17:01,user_90,telegram,uz,Ko'pkari boshlanyapti,39,3,False,Buxoro
+1134,2026-03-21 10:17:01,user_100,instagram,ru,С праздником Навруз!,21,5,False,Nukus
+1135,2026-03-21 10:17:02,user_224,instagram,uz,Bayram sayliga boramiz,32,2,False,Toshkent
+1136,2026-03-21 10:17:02,user_164,telegram,uz,Navro'z muborak! 😊,3,0,True,Toshkent
+1137,2026-03-21 10:17:03,user_319,telegram,uz,Bugun Toshkentda havo ajoyib,7,0,False,Toshkent
+1138,2026-03-21 10:17:04,user_1,telegram,uz,Bayram sayliga boramiz #Uzbekistan,2,0,False,Toshkent
+1139,2026-03-21 10:17:06,user_115,x,uz,Ko'pkari boshlanyapti,5,1,False,Nukus
+1140,2026-03-21 10:17:06,user_142,instagram,uz,Hammaga tinchlik tilayman,17,1,True,Nukus
+1141,2026-03-21 10:17:08,user_344,telegram,uz,Bayram sayliga boramiz,1,0,True,Namangan
+1142,2026-03-21 10:17:09,user_444,facebook,en,Visiting Samarkand today,23,1,False,Nukus
+1143,2026-03-21 10:17:10,user_293,facebook,ru,Отличная погода в Ташкенте,91,21,False,Toshkent
+1144,2026-03-21 10:17:10,user_312,instagram,ru,Отличная погода в Ташкенте,20,2,True,Toshkent
+1145,2026-03-21 10:17:11,user_352,telegram,uz,Ko'pkari boshlanyapti,0,0,True,
+1145,2026-03-21 10:17:11,user_352,telegram,uz,Ko'pkari boshlanyapti,0,0,True,
+1146,2026-03-21 10:17:12,user_459,facebook,uz,Do'stlar bilan sayil,16,0,False,Andijon
+1147,2026-03-21 10:17:13,user_434,telegram,uz,Bayram sayliga boramiz,17,0,False,Namangan
+1148,2026-03-21 10:17:13,user_176,telegram,ru,С праздником Навруз!,0,0,False,Nukus
+1149,2026-03-21 10:17:16,user_230,telegram,ru,Весна пришла,21,5,False,
+1150,2026-03-21 10:17:16,user_251,telegram,ru,Отличная погода в Ташкенте 😊,45,7,False,Samarqand
+1151,2026-03-21 10:17:16,user_144,telegram,ru,Сумаляк готов,40,0,True,Namangan
+1152,2026-03-21 10:17:16,user_432,telegram,ru,С праздником Навруз!,14,2,False,Farg'ona
+1153,2026-03-21 10:17:19,user_130,facebook,uz,Do'stlar bilan sayil #bahor,54,10,False,Samarqand
+1154,2026-03-21 10:17:19,user_401,instagram,uz,Bayram sayliga boramiz,19,1,False,Buxoro
+1155,2026-03-21 10:17:21,user_522,instagram,uz,Milliy taomlar festivali 🌷,25,4,False,Nukus
+1156,2026-03-21 10:17:21,user_31,telegram,uz,Ko'pkari boshlanyapti,42,12,False,Toshkent
+1157,2026-03-21 10:17:22,user_453,telegram,uz,Sumalak tayyor #Toshkent,5,0,True,Samarqand
+1157,2026-03-21 10:17:22,user_453,telegram,uz,Sumalak tayyor #Toshkent,5,0,True,Samarqand
+1158,2026-03-21 10:17:23,user_151,telegram,uz,Do'stlar bilan sayil,125,13,False,Buxoro
+1159,2026-03-21 10:17:23,user_161,instagram,uz,Navro'z muborak! #Navruz2026,16,3,False,Toshkent
+1160,2026-03-21 10:17:25,user_202,facebook,en,Happy Navruz!,44,7,True,Nukus
+1161,2026-03-21 10:17:26,user_256,instagram,uz,Do'stlar bilan sayil,8,1,True,Samarqand
+1162,2026-03-21 10:17:27,user_90,instagram,uz,Ko'pkari boshlanyapti,0,0,True,Toshkent
+1163,2026-03-21 10:17:27,user_519,telegram,uz,Ko'pkari boshlanyapti #Navruz2026,17,3,False,Toshkent
+1164,2026-03-21 10:17:29,user_235,x,ru,Сумаляк готов 😊,40,5,True,Toshkent
+1165,2026-03-21 10:17:29,user_248,telegram,uz,Milliy taomlar festivali,5,1,False,Qarshi
+1166,2026-03-21 10:17:30,user_531,telegram,uz,"Yangi kun, yangi umid",5,0,False,Samarqand
+1167,2026-03-21 10:17:31,user_48,instagram,ru,Сумаляк готов,53,7,False,
+1168,2026-03-21 10:17:31,user_554,telegram,uz,Bahor keldi,1,0,False,Samarqand
+1169,2026-03-21 10:17:33,user_276,telegram,ru,Сумаляк готов,15,0,False,
+1170,2026-03-21 10:17:34,user_173,telegram,uz,Hammaga tinchlik tilayman,8,1,False,Buxoro
+1172,2026-03-21 10:17:34,user_556,instagram,uz,Ko'pkari boshlanyapti,38,3,True,Toshkent
+1171,2026-03-21 10:17:35,user_163,telegram,uz,,60,6,True,Namangan
+1173,2026-03-21 10:17:35,user_365,x,uz,Hammaga tinchlik tilayman 🌷,50,10,False,Samarqand
+1174,2026-03-21 10:17:37,user_43,telegram,en,Spring is here #bahor,10,0,True,Toshkent
+1175,2026-03-21 10:17:38,user_521,telegram,ru,С праздником Навруз!,22,1,False,Samarqand
+1176,2026-03-21 10:17:38,user_155,instagram,ru,С праздником Навруз! 😊,3,0,True,Buxoro
+1177,2026-03-21 10:17:39,user_277,telegram,uz,Milliy taomlar festivali,31,6,True,Toshkent
+1178,2026-03-21 10:17:42,user_192,telegram,uz,Bayram sayliga boramiz,22,1,True,Samarqand
+1179,2026-03-21 10:17:42,user_475,telegram,uz,Ko'pkari boshlanyapti,52,13,True,Buxoro
+1180,2026-03-21 10:17:42,user_315,telegram,uz,Bayram sayliga boramiz,21,3,False,Samarqand
+1181,2026-03-21 10:17:43,user_324,telegram,en,Great festival in Tashkent,46,12,False,Toshkent
+1182,2026-03-21 10:17:45,user_432,instagram,uz,Navro'z muborak!,5,0,True,Toshkent
+1183,2026-03-21 10:17:46,user_182,telegram,en,Great festival in Tashkent,11,1,False,Samarqand
+1185,2026-03-21 10:17:46,user_244,facebook,en,Spring is here,40,1,False,Toshkent
+1184,2026-03-21 10:17:47,user_168,facebook,ru,Отличная погода в Ташкенте,39,6,False,
+1186,2026-03-21 10:17:48,user_483,telegram,uz,Sumalak tayyor,10,1,False,Samarqand
+1187,2026-03-21 10:17:49,user_45,x,uz,Bahor keldi,4,1,False,Toshkent
+1188,2026-03-21 10:17:50,user_120,instagram,en,Spring is here,32,9,True,Toshkent
+1189,2026-03-21 10:17:51,user_460,telegram,uz,Bayram sayliga boramiz,15,1,True,Toshkent
+1190,2026-03-21 10:17:51,user_137,telegram,uz,Navro'z muborak!,40,6,False,Buxoro
+1191,2026-03-21 10:17:52,user_209,telegram,uz,Do'stlar bilan sayil,59,16,False,Samarqand
+1192,2026-03-21 10:17:54,user_551,telegram,uz,Do'stlar bilan sayil,56,0,True,Toshkent
+1194,2026-03-21 10:17:54,user_296,instagram,uz,"Yangi kun, yangi umid #Toshkent",32,1,False,Namangan
+1193,2026-03-21 10:17:55,user_266,telegram,uz,Do'stlar bilan sayil,5,1,True,
+1195,2026-03-21 10:17:57,user_315,x,ru,Сумаляк готов 🌷,48,7,False,Namangan
+1196,2026-03-21 10:17:57,user_265,telegram,uz,Bayram sayliga boramiz,21,5,False,Toshkent
+1195,2026-03-21 10:17:57,user_315,x,ru,Сумаляк готов 🌷,48,7,False,Namangan
+1197,2026-03-21 10:17:58,user_339,telegram,uz,Do'stlar bilan sayil,1,0,False,Farg'ona
+1198,2026-03-21 10:17:58,user_316,telegram,uz,Bugun Toshkentda havo ajoyib,8,1,True,Farg'ona
+1199,2026-03-21 10:17:59,user_345,facebook,uz,Hammaga tinchlik tilayman,65,0,False,Toshkent
+1200,2026-03-21 10:18:00,user_573,telegram,uz,Hammaga tinchlik tilayman #bahor,3,0,True,Toshkent
+1201,2026-03-21 10:18:02,user_268,telegram,uz,Do'stlar bilan sayil,23,4,False,Toshkent
+1202,2026-03-21 10:18:02,user_473,instagram,uz,Bugun Toshkentda havo ajoyib,5,1,True,Samarqand
+1203,2026-03-21 10:18:03,user_133,telegram,uz,Navro'z muborak! #Navruz2026,30,3,False,Toshkent
+1204,2026-03-21 10:18:03,user_59,instagram,ru,С праздником Навруз! #Uzbekistan,10,0,True,
+1205,2026-03-21 10:18:05,user_600,telegram,ru,Отличная погода в Ташкенте,72,20,True,Toshkent
+1206,2026-03-21 10:18:05,user_385,telegram,ru,Отличная погода в Ташкенте,12,1,True,
+1207,2026-03-21 10:18:08,user_260,instagram,uz,Sumalak tayyor,13,0,False,Samarqand
+1208,2026-03-21 10:18:08,user_295,telegram,ru,Сумаляк готов,19,2,False,Toshkent
+1209,2026-03-21 10:18:10,user_161,telegram,uz,Hammaga tinchlik tilayman 🌷,38,1,False,
+1210,2026-03-21 10:18:10,user_521,telegram,uz,Navro'z muborak!,20,3,False,Toshkent
+1211,2026-03-21 10:18:10,user_384,telegram,uz,Sumalak tayyor,9,1,True,
+1212,2026-03-21 10:18:12,user_445,instagram,uz,Bayram sayliga boramiz,37,11,False,Toshkent
+1213,2026-03-21 10:18:12,user_430,instagram,en,Spring is here,9,1,True,Toshkent
+1214,2026-03-21 10:18:13,user_542,instagram,uz,Hammaga tinchlik tilayman,2,0,False,Samarqand
+1215,2026-03-21 10:18:15,user_211,telegram,uz,"Yangi kun, yangi umid",44,1,False,Samarqand
+1216,2026-03-21 10:18:15,user_82,telegram,uz,Do'stlar bilan sayil,3,0,True,Samarqand
+1217,2026-03-21 10:18:16,user_559,telegram,uz,"Yangi kun, yangi umid",4,0,False,
+1218,2026-03-21 10:18:17,user_52,facebook,uz,Bugun Toshkentda havo ajoyib 🌷,9,0,False,Samarqand
+1219,2026-03-21 10:18:18,user_540,telegram,uz,Bayram sayliga boramiz #Uzbekistan,0,0,True,Toshkent
+1220,2026-03-21 10:18:18,user_279,telegram,uz,"Yangi kun, yangi umid",27,7,True,Toshkent
+1221,2026-03-21 10:18:19,user_125,x,uz,Hammaga tinchlik tilayman,32,2,False,
+1222,2026-03-21 10:18:19,user_50,telegram,uz,Hammaga tinchlik tilayman,8,0,False,Samarqand
+1224,2026-03-21 10:18:21,user_273,telegram,uz,Hammaga tinchlik tilayman,161,36,False,Samarqand
+1223,2026-03-21 10:18:22,user_117,telegram,ru,Сумаляк готов #Toshkent,8,0,False,Toshkent
+1225,2026-03-21 10:18:24,user_3,telegram,uz,Navro'z muborak!,56,2,False,Toshkent
+1226,2026-03-21 10:18:24,user_8,instagram,ru,С праздником Навруз!,74,5,False,Farg'ona
+1227,2026-03-21 10:18:25,user_38,telegram,uz,Navro'z muborak!,11,0,False,
+1228,2026-03-21 10:18:25,user_30,x,ru,Весна пришла #Toshkent,43,6,True,Farg'ona
+1229,2026-03-21 10:18:26,user_482,instagram,uz,Ko'pkari boshlanyapti #Navruz2026,16,0,False,Andijon
+1230,2026-03-21 10:18:27,user_495,telegram,ru,Отличная погода в Ташкенте,0,0,True,Samarqand
+1231,2026-03-21 10:18:29,user_346,instagram,uz,Bugun Toshkentda havo ajoyib,7,2,False,Samarqand
+1232,2026-03-21 10:18:30,user_341,telegram,uz,"Yangi kun, yangi umid",48,2,False,
+1233,2026-03-21 10:18:31,user_478,telegram,uz,Sumalak tayyor,6,0,False,Andijon
+1234,2026-03-21 10:18:31,user_99,telegram,uz,Hammaga tinchlik tilayman,55,0,False,Toshkent
+1235,2026-03-21 10:18:31,user_454,instagram,uz,Navro'z muborak!,16,3,False,Andijon
+1236,2026-03-21 10:18:33,user_253,telegram,uz,Bahor keldi,0,0,False,Toshkent
+1236,2026-03-21 10:18:33,user_253,telegram,uz,Bahor keldi,0,0,False,Toshkent
+1237,2026-03-21 10:18:34,user_311,telegram,en,Visiting Samarkand today,44,0,True,Toshkent
+1239,2026-03-21 10:18:35,user_471,x,uz,Bugun Toshkentda havo ajoyib #Uzbekistan,7,1,True,Samarqand
+1238,2026-03-21 10:18:36,user_583,instagram,uz,Sumalak tayyor,15,1,False,Toshkent
+1240,2026-03-21 10:18:37,user_588,telegram,uz,Bugun Toshkentda havo ajoyib 🌷,11,2,False,
+1241,2026-03-21 10:18:37,user_448,telegram,uz,Bugun Toshkentda havo ajoyib,58,5,False,Farg'ona
+1242,2026-03-21 10:18:39,user_115,telegram,ru,Весна пришла,23,3,False,Toshkent
+1243,2026-03-21 10:18:40,user_367,facebook,ru,,4,0,False,Toshkent
+1244,2026-03-21 10:18:40,user_549,x,uz,Bahor keldi,13,2,True,Toshkent
+1245,2026-03-21 10:18:42,user_178,facebook,ru,Весна пришла,26,1,True,Buxoro
+1247,2026-03-21 10:18:42,user_188,instagram,uz,Milliy taomlar festivali #Uzbekistan,21,2,True,Buxoro
+1246,2026-03-21 10:18:43,user_303,instagram,ru,Отличная погода в Ташкенте,8,0,True,Toshkent
+1248,2026-03-21 10:18:44,user_42,instagram,uz,,25,0,False,
+1249,2026-03-21 10:18:44,user_17,telegram,uz,Do'stlar bilan sayil,1,0,True,
+1250,2026-03-21 10:18:45,user_448,instagram,en,Happy Navruz!,12,1,False,Toshkent
+1251,2026-03-21 10:18:47,user_6,telegram,uz,Hammaga tinchlik tilayman,8,0,False,Toshkent
+1252,2026-03-21 10:18:47,user_234,telegram,uz,,19,1,False,Buxoro
+1253,2026-03-21 10:18:49,user_537,telegram,uz,Do'stlar bilan sayil,59,13,False,Andijon
+1254,2026-03-21 10:18:49,user_127,telegram,uz,Sumalak tayyor,16,1,False,Samarqand
+1255,2026-03-21 10:18:49,user_408,instagram,en,Spring is here,23,6,False,
+1256,2026-03-21 10:18:51,user_163,instagram,uz,Ko'pkari boshlanyapti,66,16,False,Toshkent
+1257,2026-03-21 10:18:53,user_142,facebook,ru,Отличная погода в Ташкенте,9,0,True,
+1258,2026-03-21 10:18:53,user_386,instagram,uz,Hammaga tinchlik tilayman,24,3,True,Samarqand
+1259,2026-03-21 10:18:53,user_115,facebook,uz,Hammaga tinchlik tilayman,56,11,True,Farg'ona
+1260,2026-03-21 10:18:55,user_464,telegram,uz,Navro'z muborak!,46,3,True,Samarqand
+1261,2026-03-21 10:18:56,user_46,telegram,uz,Navro'z muborak!,10,1,False,Samarqand
+1262,2026-03-21 10:18:56,user_367,telegram,uz,Bugun Toshkentda havo ajoyib #Toshkent,42,2,False,Toshkent
+1263,2026-03-21 10:18:56,user_478,telegram,uz,Milliy taomlar festivali,9,2,False,Toshkent
+1264,2026-03-21 10:18:59,user_320,telegram,uz,Ko'pkari boshlanyapti #Navruz2026,43,1,False,Toshkent
+1265,2026-03-21 10:18:59,user_166,telegram,ru,Отличная погода в Ташкенте,38,7,False,Toshkent
+1264,2026-03-21 10:18:59,user_320,telegram,uz,Ko'pkari boshlanyapti #Navruz2026,43,1,False,Toshkent
+1266,2026-03-21 10:19:00,user_86,x,uz,Navro'z muborak!,7,1,False,Toshkent
+1267,2026-03-21 10:19:01,user_479,instagram,uz,Do'stlar bilan sayil,16,1,True,Toshkent
+1268,2026-03-21 10:19:01,user_185,telegram,uz,Do'stlar bilan sayil,38,1,True,Toshkent
+1269,2026-03-21 10:19:02,user_40,instagram,uz,"Yangi kun, yangi umid",14,0,False,Nukus
+1270,2026-03-21 10:19:04,user_403,instagram,uz,"Yangi kun, yangi umid",49,1,False,
+1271,2026-03-21 10:19:04,user_393,x,uz,Bayram sayliga boramiz,10,2,True,
+1272,2026-03-21 10:19:05,user_110,telegram,uz,Bayram sayliga boramiz #Navruz2026,49,0,False,Buxoro
+1273,2026-03-21 10:19:06,user_425,instagram,uz,Hammaga tinchlik tilayman,2,0,False,Toshkent
+1274,2026-03-21 10:19:07,user_423,instagram,uz,Ko'pkari boshlanyapti,1,0,False,Toshkent
+1275,2026-03-21 10:19:08,user_300,telegram,uz,Bahor keldi,56,3,True,Toshkent
+1276,2026-03-21 10:19:09,user_101,telegram,ru,Весна пришла,3,0,True,Toshkent
+1277,2026-03-21 10:19:10,user_292,instagram,ru,Сумаляк готов,19,3,True,Samarqand
+1278,2026-03-21 10:19:11,user_110,telegram,uz,Do'stlar bilan sayil,13,0,True,Qarshi
+1279,2026-03-21 10:19:12,user_426,telegram,uz,Ko'pkari boshlanyapti,4,0,False,Farg'ona
+1280,2026-03-21 10:19:12,user_311,instagram,ru,С праздником Навруз!,51,11,False,Samarqand
+1281,2026-03-21 10:19:14,user_538,x,ru,Весна пришла,28,2,False,Namangan
+1283,2026-03-21 10:19:14,user_366,instagram,uz,Milliy taomlar festivali,29,7,False,Toshkent
+1282,2026-03-21 10:19:15,user_364,telegram,ru,Сумаляк готов #bahor,1,0,True,Nukus
+1284,2026-03-21 10:19:17,user_78,telegram,uz,Hammaga tinchlik tilayman 😊,18,3,True,Buxoro
+1285,2026-03-21 10:19:17,user_399,telegram,uz,Bugun Toshkentda havo ajoyib,54,4,False,Samarqand
+1286,2026-03-21 10:19:19,user_64,telegram,ru,С праздником Навруз! 😊,0,0,False,
+1287,2026-03-21 10:19:19,user_570,instagram,ru,,23,0,False,Samarqand
+1288,2026-03-21 10:19:19,user_172,telegram,uz,Bahor keldi,15,2,False,
+1286,2026-03-21 10:19:19,user_64,telegram,ru,С праздником Навруз! 😊,0,0,False,
+1289,2026-03-21 10:19:21,user_290,x,uz,Bugun Toshkentda havo ajoyib 😊,70,7,False,Nukus
+1290,2026-03-21 10:19:21,user_254,telegram,uz,"Yangi kun, yangi umid",15,1,True,
+1291,2026-03-21 10:19:21,user_173,telegram,uz,Bahor keldi,3,0,True,Farg'ona
+1290,2026-03-21 10:19:21,user_254,telegram,uz,"Yangi kun, yangi umid",15,1,True,
+1292,2026-03-21 10:19:23,user_115,telegram,ru,Сумаляк готов,4,0,True,Toshkent
+1293,2026-03-21 10:19:24,user_357,telegram,uz,Bugun Toshkentda havo ajoyib,18,0,False,Toshkent
+1294,2026-03-21 10:19:25,user_348,telegram,ru,Весна пришла 🌷,5,0,False,Toshkent
+1295,2026-03-21 10:19:26,user_502,telegram,en,Happy Navruz!,0,0,False,Farg'ona
+1296,2026-03-21 10:19:27,user_32,telegram,uz,Sumalak tayyor 🌷,9,1,False,Toshkent
+1297,2026-03-21 10:19:28,user_136,instagram,uz,Sumalak tayyor,35,2,True,Andijon
+1298,2026-03-21 10:19:29,user_568,instagram,ru,Весна пришла #Toshkent,36,2,True,
+1299,2026-03-21 10:19:29,user_132,x,uz,Bugun Toshkentda havo ajoyib,1,0,True,Samarqand
+1300,2026-03-21 10:19:30,user_276,facebook,uz,Navro'z muborak!,19,2,False,Andijon
+1301,2026-03-21 10:19:31,user_139,telegram,uz,,8,0,True,Samarqand
+1302,2026-03-21 10:19:32,user_418,x,uz,Bugun Toshkentda havo ajoyib,13,2,False,Toshkent
+1303,2026-03-21 10:19:33,user_83,telegram,uz,Do'stlar bilan sayil #Uzbekistan,2,0,False,Toshkent
+1304,2026-03-21 10:19:35,user_449,telegram,uz,Do'stlar bilan sayil,89,15,True,Toshkent
+1305,2026-03-21 10:19:36,user_40,instagram,uz,Sumalak tayyor #Uzbekistan,2,0,False,Buxoro
+1306,2026-03-21 10:19:36,user_40,x,uz,Do'stlar bilan sayil 😊,31,2,True,Toshkent
+1307,2026-03-21 10:19:37,user_300,instagram,uz,Do'stlar bilan sayil #bahor,7,1,False,Toshkent
+1309,2026-03-21 10:19:38,user_293,instagram,uz,Milliy taomlar festivali,6,0,False,Farg'ona
+1308,2026-03-21 10:19:39,user_358,telegram,uz,Bayram sayliga boramiz,2,0,False,
+1310,2026-03-21 10:19:40,user_147,x,en,Great festival in Tashkent,104,8,True,Toshkent
+1311,2026-03-21 10:19:40,user_443,telegram,uz,Ko'pkari boshlanyapti,35,7,False,Namangan
+1312,2026-03-21 10:19:41,user_369,telegram,uz,Milliy taomlar festivali #Navruz2026,13,1,False,Farg'ona
+1313,2026-03-21 10:19:42,user_123,telegram,uz,Bahor keldi #bahor,15,3,False,Qarshi
+1314,2026-03-21 10:19:42,user_594,x,uz,Bayram sayliga boramiz #Uzbekistan,50,13,True,Namangan
+1315,2026-03-21 10:19:44,user_32,x,uz,Hammaga tinchlik tilayman,23,1,True,Andijon
+1316,2026-03-21 10:19:45,user_484,telegram,uz,Navro'z muborak! 😊,2,0,True,Toshkent
+1317,2026-03-21 10:19:46,user_385,telegram,ru,С праздником Навруз!,0,0,True,Toshkent
+1318,2026-03-21 10:19:47,user_50,telegram,uz,Milliy taomlar festivali,17,3,False,Samarqand
+1319,2026-03-21 10:19:47,user_8,x,uz,Bugun Toshkentda havo ajoyib,6,1,False,Samarqand
+1320,2026-03-21 10:19:48,user_563,instagram,uz,Milliy taomlar festivali,14,0,False,Toshkent
+1321,2026-03-21 10:19:50,user_569,instagram,uz,Sumalak tayyor #Toshkent,54,4,False,Namangan
+1322,2026-03-21 10:19:50,user_226,telegram,uz,"Yangi kun, yangi umid",15,1,False,Toshkent
+1323,2026-03-21 10:19:51,user_286,telegram,uz,Bayram sayliga boramiz,31,7,False,Namangan
+1324,2026-03-21 10:19:51,user_179,telegram,uz,Hammaga tinchlik tilayman,44,4,False,
+1325,2026-03-21 10:19:53,user_241,telegram,uz,Sumalak tayyor,11,1,False,Toshkent
+1326,2026-03-21 10:19:53,user_340,x,ru,С праздником Навруз!,66,8,False,Andijon
+1327,2026-03-21 10:19:56,user_10,telegram,uz,Do'stlar bilan sayil 🌷,42,8,True,Namangan
+1329,2026-03-21 10:19:56,user_515,telegram,uz,Ko'pkari boshlanyapti #Toshkent,4,0,False,Nukus
+1328,2026-03-21 10:19:57,user_264,telegram,uz,Do'stlar bilan sayil,16,2,False,
+1330,2026-03-21 10:19:57,user_294,facebook,ru,,2,0,True,Toshkent
+1331,2026-03-21 10:19:59,user_388,instagram,uz,Bugun Toshkentda havo ajoyib,85,9,False,Toshkent
+1332,2026-03-21 10:20:00,user_445,facebook,uz,Hammaga tinchlik tilayman #Toshkent,2,0,False,Namangan
+1333,2026-03-21 10:20:00,user_285,facebook,ru,Отличная погода в Ташкенте,15,2,True,Toshkent
+1334,2026-03-21 10:20:01,user_39,facebook,uz,,12,2,True,Buxoro
+1334,2026-03-21 10:20:01,user_39,facebook,uz,,12,2,True,Buxoro
+1335,2026-03-21 10:20:03,user_487,instagram,uz,Do'stlar bilan sayil,2,0,False,Samarqand
+1336,2026-03-21 10:20:03,user_409,instagram,uz,"Yangi kun, yangi umid",30,6,False,Samarqand
+1337,2026-03-21 10:20:04,user_127,instagram,en,Visiting Samarkand today 🌷,1,0,False,Samarqand
+1338,2026-03-21 10:20:04,user_107,x,en,Great festival in Tashkent #Uzbekistan,19,4,False,Nukus
+1339,2026-03-21 10:20:06,user_250,telegram,en,Great festival in Tashkent,78,8,False,Nukus
+1340,2026-03-21 10:20:06,user_519,facebook,uz,Bugun Toshkentda havo ajoyib #Navruz2026,2,0,True,
+1341,2026-03-21 10:20:07,user_501,instagram,ru,Сумаляк готов,0,0,True,Samarqand
+1342,2026-03-21 10:20:08,user_267,instagram,uz,Hammaga tinchlik tilayman #Uzbekistan,3,0,False,
+1343,2026-03-21 10:20:09,user_209,telegram,en,Visiting Samarkand today,9,1,False,Samarqand
+1344,2026-03-21 10:20:10,user_426,instagram,uz,Sumalak tayyor,16,2,True,Samarqand
+1345,2026-03-21 10:20:11,user_354,instagram,uz,Ko'pkari boshlanyapti,16,4,True,
+1346,2026-03-21 10:20:12,user_243,telegram,uz,"Yangi kun, yangi umid",15,2,False,Toshkent
+1347,2026-03-21 10:20:12,user_486,telegram,uz,Bayram sayliga boramiz,47,12,False,Andijon
+1348,2026-03-21 10:20:14,user_397,telegram,uz,Do'stlar bilan sayil #Uzbekistan,7,2,False,Toshkent
+1349,2026-03-21 10:20:14,user_74,telegram,ru,Сумаляк готов,5,0,False,Andijon
+1350,2026-03-21 10:20:15,user_302,instagram,en,Great festival in Tashkent,64,1,True,Farg'ona
+1351,2026-03-21 10:20:16,user_263,instagram,ru,Отличная погода в Ташкенте,72,21,False,
+1352,2026-03-21 10:20:18,user_154,x,ru,Весна пришла,5,0,False,Toshkent
+1353,2026-03-21 10:20:18,user_246,instagram,uz,"Yangi kun, yangi umid",8,2,False,Toshkent
+1354,2026-03-21 10:20:19,user_391,x,uz,Hammaga tinchlik tilayman,22,6,False,
+1355,2026-03-21 10:20:20,user_385,facebook,uz,Bahor keldi,6,1,True,Toshkent
+1356,2026-03-21 10:20:21,user_93,instagram,ru,Сумаляк готов,3,0,False,
+1357,2026-03-21 10:20:21,user_584,telegram,uz,Sumalak tayyor,13,1,False,Samarqand
+1356,2026-03-21 10:20:21,user_93,instagram,ru,Сумаляк готов,3,0,False,
+1357,2026-03-21 10:20:21,user_584,telegram,uz,Sumalak tayyor,13,1,False,Samarqand
+1358,2026-03-21 10:20:23,user_593,telegram,en,Great festival in Tashkent,5,0,False,Namangan
+1359,2026-03-21 10:20:24,user_158,x,uz,Hammaga tinchlik tilayman,37,6,False,Farg'ona
+1360,2026-03-21 10:20:25,user_234,instagram,en,Great festival in Tashkent,10,2,True,Buxoro
+1361,2026-03-21 10:20:26,user_544,instagram,uz,Ko'pkari boshlanyapti 🌷,16,0,False,Toshkent
+1362,2026-03-21 10:20:27,user_114,instagram,uz,Milliy taomlar festivali,27,5,False,Andijon
+1363,2026-03-21 10:20:27,user_479,telegram,en,Great festival in Tashkent,12,2,False,Toshkent
+1364,2026-03-21 10:20:28,user_413,x,uz,Milliy taomlar festivali,0,0,False,Buxoro
+1365,2026-03-21 10:20:29,user_504,telegram,uz,Milliy taomlar festivali #bahor,32,3,False,Toshkent
+1366,2026-03-21 10:20:29,user_533,instagram,ru,Сумаляк готов,17,4,False,
+1367,2026-03-21 10:20:31,user_197,telegram,ru,Отличная погода в Ташкенте,26,4,True,Samarqand
+1368,2026-03-21 10:20:31,user_146,telegram,uz,Bahor keldi #Uzbekistan,1,0,True,
+1368,2026-03-21 10:20:31,user_146,telegram,uz,Bahor keldi #Uzbekistan,1,0,True,
+1369,2026-03-21 10:20:33,user_258,telegram,uz,Milliy taomlar festivali,8,1,False,
+1371,2026-03-21 10:20:33,user_301,instagram,ru,Весна пришла,17,2,False,Nukus
+1370,2026-03-21 10:20:34,user_401,instagram,uz,Navro'z muborak! #Toshkent,3,0,False,Buxoro
+1372,2026-03-21 10:20:35,user_580,telegram,uz,,10,1,False,Buxoro
+1373,2026-03-21 10:20:36,user_39,telegram,uz,Hammaga tinchlik tilayman 😊,12,0,True,Samarqand
+1374,2026-03-21 10:20:37,user_360,telegram,uz,Ko'pkari boshlanyapti,28,5,True,Namangan
+1375,2026-03-21 10:20:38,user_291,x,ru,Отличная погода в Ташкенте,8,0,False,Toshkent
+1376,2026-03-21 10:20:38,user_403,x,uz,"Yangi kun, yangi umid",16,3,True,Farg'ona
+1377,2026-03-21 10:20:41,user_351,instagram,ru,С праздником Навруз! 🌷,93,14,False,Toshkent
+1379,2026-03-21 10:20:41,user_465,instagram,uz,Hammaga tinchlik tilayman,87,18,False,Toshkent
+1378,2026-03-21 10:20:42,user_425,telegram,uz,Do'stlar bilan sayil #Toshkent,28,3,False,Toshkent
+1380,2026-03-21 10:20:43,user_192,instagram,uz,Navro'z muborak! #bahor,36,8,False,Buxoro
+1381,2026-03-21 10:20:43,user_456,telegram,uz,"Yangi kun, yangi umid",27,7,False,Samarqand
+1382,2026-03-21 10:20:44,user_461,telegram,uz,"Yangi kun, yangi umid #Navruz2026",3,0,False,Samarqand
+1383,2026-03-21 10:20:44,user_497,instagram,uz,Bayram sayliga boramiz,3,0,False,
+1384,2026-03-21 10:20:47,user_14,facebook,uz,Navro'z muborak! 😊,51,9,False,Nukus
+1385,2026-03-21 10:20:47,user_149,telegram,ru,Сумаляк готов,8,1,True,Namangan
+1386,2026-03-21 10:20:47,user_556,telegram,ru,Отличная погода в Ташкенте,3,0,False,Andijon
+1387,2026-03-21 10:20:49,user_52,telegram,uz,Ko'pkari boshlanyapti,76,8,False,Toshkent
+1388,2026-03-21 10:20:49,user_483,instagram,uz,Hammaga tinchlik tilayman #Navruz2026,4,0,True,Nukus
+1389,2026-03-21 10:20:50,user_211,telegram,ru,Отличная погода в Ташкенте,52,0,False,
+1390,2026-03-21 10:20:51,user_242,instagram,uz,Bugun Toshkentda havo ajoyib,47,4,True,Andijon
+1391,2026-03-21 10:20:52,user_174,instagram,ru,Сумаляк готов 😊,67,17,False,Toshkent
+1392,2026-03-21 10:20:53,user_268,instagram,uz,Milliy taomlar festivali 🌷,4,0,True,
+1393,2026-03-21 10:20:54,user_405,telegram,uz,"Yangi kun, yangi umid #bahor",61,8,False,Toshkent
+1394,2026-03-21 10:20:55,user_403,x,uz,Milliy taomlar festivali,2,0,False,Toshkent
+1396,2026-03-21 10:20:56,user_295,instagram,uz,Bugun Toshkentda havo ajoyib,6,1,True,Nukus
+1395,2026-03-21 10:20:57,user_265,instagram,uz,Ko'pkari boshlanyapti 😊,6,1,False,Toshkent
+1397,2026-03-21 10:20:57,user_29,telegram,ru,Отличная погода в Ташкенте,18,3,False,Toshkent
+1399,2026-03-21 10:20:59,user_506,x,uz,Hammaga tinchlik tilayman,1,0,False,Toshkent
+1398,2026-03-21 10:21:00,user_76,telegram,en,Visiting Samarkand today,8,1,True,Toshkent
+1400,2026-03-21 10:21:00,user_104,telegram,ru,Сумаляк готов,25,4,False,Samarqand
+1401,2026-03-21 10:21:01,user_187,telegram,uz,Sumalak tayyor,3,0,True,
+1403,2026-03-21 10:21:02,user_231,instagram,uz,Sumalak tayyor,77,9,False,Toshkent
+1402,2026-03-21 10:21:03,user_530,telegram,uz,Do'stlar bilan sayil,9,0,True,Toshkent
+1404,2026-03-21 10:21:05,user_196,x,ru,Сумаляк готов,24,3,False,Toshkent
+1405,2026-03-21 10:21:06,user_536,instagram,uz,Milliy taomlar festivali,1,0,False,Samarqand
+1406,2026-03-21 10:21:06,user_157,x,ru,Сумаляк готов,32,0,False,Buxoro
+1405,2026-03-21 10:21:06,user_536,instagram,uz,Milliy taomlar festivali,1,0,False,Samarqand
+1407,2026-03-21 10:21:07,user_3,instagram,uz,Bahor keldi,99,3,False,Toshkent
+1408,2026-03-21 10:21:08,user_198,instagram,uz,Sumalak tayyor,2,0,True,Toshkent
+1409,2026-03-21 10:21:08,user_138,x,uz,Hammaga tinchlik tilayman,5,1,False,
+1410,2026-03-21 10:21:10,user_18,instagram,uz,Do'stlar bilan sayil,10,2,False,Namangan
+1411,2026-03-21 10:21:10,user_267,telegram,ru,Отличная погода в Ташкенте #Toshkent,17,4,False,Buxoro
+1412,2026-03-21 10:21:10,user_210,instagram,uz,Bahor keldi,6,0,True,Buxoro
+1413,2026-03-21 10:21:12,user_131,x,ru,Отличная погода в Ташкенте,0,0,False,Namangan
+1414,2026-03-21 10:21:13,user_474,telegram,uz,Navro'z muborak! #Uzbekistan,8,2,True,Toshkent
+1415,2026-03-21 10:21:14,user_227,x,en,Visiting Samarkand today,74,4,True,Samarqand
+1416,2026-03-21 10:21:15,user_512,x,uz,Sumalak tayyor,54,3,False,Toshkent
+1417,2026-03-21 10:21:16,user_217,instagram,uz,"Yangi kun, yangi umid",1,0,False,Samarqand
+1418,2026-03-21 10:21:17,user_546,telegram,uz,Milliy taomlar festivali #Uzbekistan,20,2,True,Namangan
+1419,2026-03-21 10:21:18,user_278,telegram,uz,Ko'pkari boshlanyapti #bahor,26,1,True,Farg'ona
+1420,2026-03-21 10:21:19,user_379,x,uz,Hammaga tinchlik tilayman,4,0,True,Toshkent
+1421,2026-03-21 10:21:20,user_232,instagram,uz,Bayram sayliga boramiz #Navruz2026,1,0,True,Toshkent
+1422,2026-03-21 10:21:20,user_18,instagram,ru,Сумаляк готов,4,0,False,Namangan
+1423,2026-03-21 10:21:21,user_222,telegram,uz,Ko'pkari boshlanyapti #Navruz2026,13,0,True,Farg'ona
+1424,2026-03-21 10:21:22,user_472,telegram,uz,Sumalak tayyor,6,1,True,Toshkent
+1425,2026-03-21 10:21:23,user_76,instagram,en,Spring is here,52,1,True,Toshkent
+1426,2026-03-21 10:21:24,user_187,telegram,uz,Bahor keldi,15,0,False,Namangan
+1427,2026-03-21 10:21:25,user_550,telegram,ru,Весна пришла #Uzbekistan,89,12,True,Qarshi
+1428,2026-03-21 10:21:26,user_312,x,uz,Do'stlar bilan sayil #Navruz2026,19,0,False,Andijon
+1429,2026-03-21 10:21:26,user_383,instagram,uz,Bugun Toshkentda havo ajoyib,29,0,False,Buxoro
+1431,2026-03-21 10:21:27,user_382,instagram,uz,Bahor keldi #Navruz2026,2,0,False,Samarqand
+1430,2026-03-21 10:21:28,user_209,facebook,ru,С праздником Навруз! #Toshkent,31,8,False,Toshkent
+1433,2026-03-21 10:21:29,user_559,instagram,uz,Sumalak tayyor 🌷,114,21,False,Samarqand
+1432,2026-03-21 10:21:30,user_351,telegram,uz,Sumalak tayyor #Toshkent,3,0,True,Toshkent
+1434,2026-03-21 10:21:31,user_514,x,uz,Do'stlar bilan sayil,23,4,False,Samarqand
+1436,2026-03-21 10:21:32,user_256,telegram,en,Great festival in Tashkent,45,11,True,Buxoro
+1435,2026-03-21 10:21:33,user_200,x,ru,Отличная погода в Ташкенте,12,3,True,
+1437,2026-03-21 10:21:35,user_449,telegram,ru,С праздником Навруз!,26,1,True,Buxoro
+1438,2026-03-21 10:21:35,user_202,telegram,uz,"Yangi kun, yangi umid #bahor",4,0,False,Toshkent
+1439,2026-03-21 10:21:36,user_47,telegram,uz,Do'stlar bilan sayil,47,5,True,Farg'ona
+1440,2026-03-21 10:21:36,user_226,instagram,uz,"Yangi kun, yangi umid #Toshkent",1,0,False,Toshkent
+1441,2026-03-21 10:21:38,user_510,telegram,uz,"Yangi kun, yangi umid",10,1,False,
+1442,2026-03-21 10:21:39,user_50,telegram,uz,Bahor keldi #Uzbekistan,16,3,True,Toshkent
+1443,2026-03-21 10:21:39,user_377,telegram,uz,Sumalak tayyor 🌷,8,1,True,Samarqand
+1444,2026-03-21 10:21:40,user_589,telegram,uz,Milliy taomlar festivali,8,0,True,Samarqand
+1445,2026-03-21 10:21:41,user_518,telegram,uz,Hammaga tinchlik tilayman,11,2,False,Buxoro
+1445,2026-03-21 10:21:41,user_518,telegram,uz,Hammaga tinchlik tilayman,11,2,False,Buxoro
+1446,2026-03-21 10:21:42,user_64,telegram,uz,Sumalak tayyor #Navruz2026,1,0,True,Toshkent
+1447,2026-03-21 10:21:42,user_254,telegram,uz,Sumalak tayyor,2,0,False,Toshkent
+1448,2026-03-21 10:21:43,user_261,x,uz,Bugun Toshkentda havo ajoyib 😊,11,3,True,Samarqand
+1450,2026-03-21 10:21:45,user_451,x,uz,Bugun Toshkentda havo ajoyib,16,1,False,Buxoro
+1449,2026-03-21 10:21:46,user_16,telegram,uz,Bahor keldi,95,2,True,Qarshi
+1451,2026-03-21 10:21:47,user_473,telegram,ru,Отличная погода в Ташкенте,15,0,True,Farg'ona
+1452,2026-03-21 10:21:48,user_318,telegram,uz,Sumalak tayyor #Toshkent,17,1,False,Toshkent
+1454,2026-03-21 10:21:48,user_418,telegram,ru,С праздником Навруз!,57,7,True,Toshkent
+1453,2026-03-21 10:21:49,user_305,x,uz,Ko'pkari boshlanyapti,53,10,False,Toshkent
+1455,2026-03-21 10:21:50,user_232,telegram,uz,Bayram sayliga boramiz,24,0,False,Samarqand
+1456,2026-03-21 10:21:52,user_262,instagram,uz,Bayram sayliga boramiz 😊,31,4,True,
+1457,2026-03-21 10:21:52,user_589,x,uz,,36,5,False,
+1458,2026-03-21 10:21:53,user_117,telegram,ru,Отличная погода в Ташкенте,3,0,False,
+1459,2026-03-21 10:21:53,user_60,x,uz,"Yangi kun, yangi umid 🌷",23,5,True,Andijon
+1460,2026-03-21 10:21:55,user_366,facebook,uz,Ko'pkari boshlanyapti,36,6,False,Buxoro
+1461,2026-03-21 10:21:55,user_11,telegram,uz,Bahor keldi #Uzbekistan,26,2,True,Qarshi
+1462,2026-03-21 10:21:57,user_579,x,uz,Navro'z muborak! #Toshkent,6,0,False,Andijon
+1463,2026-03-21 10:21:57,user_99,x,uz,Milliy taomlar festivali,8,1,False,Namangan
+1464,2026-03-21 10:21:58,user_508,telegram,uz,Ko'pkari boshlanyapti #Toshkent,46,5,False,Farg'ona
+1466,2026-03-21 10:21:59,user_590,telegram,uz,Bugun Toshkentda havo ajoyib,13,1,True,
+1465,2026-03-21 10:22:00,user_206,telegram,uz,"Yangi kun, yangi umid 🌷",28,7,False,Farg'ona
+1467,2026-03-21 10:22:00,user_598,instagram,uz,Bahor keldi,4,0,True,Toshkent
+1468,2026-03-21 10:22:01,user_143,instagram,uz,Bahor keldi 🌷,11,0,False,Samarqand
+1469,2026-03-21 10:22:02,user_380,instagram,uz,Bahor keldi #Uzbekistan,31,7,False,Toshkent
+1470,2026-03-21 10:22:04,user_557,x,ru,Весна пришла #Toshkent,9,1,False,Namangan
+1471,2026-03-21 10:22:04,user_469,instagram,ru,С праздником Навруз!,3,0,False,Buxoro
+1472,2026-03-21 10:22:06,user_157,telegram,uz,Sumalak tayyor,77,22,False,Qarshi
+1473,2026-03-21 10:22:06,user_594,facebook,en,Happy Navruz!,2,0,True,
+1475,2026-03-21 10:22:07,user_266,x,uz,Navro'z muborak! 🌷,8,0,True,Namangan
+1474,2026-03-21 10:22:08,user_537,telegram,uz,Bayram sayliga boramiz #Navruz2026,9,2,False,Farg'ona
+1476,2026-03-21 10:22:08,user_390,telegram,ru,Весна пришла #Uzbekistan,12,2,False,Toshkent
+1474,2026-03-21 10:22:08,user_537,telegram,uz,Bayram sayliga boramiz #Navruz2026,9,2,False,Farg'ona
+1477,2026-03-21 10:22:10,user_442,instagram,uz,Do'stlar bilan sayil,28,8,True,Samarqand
+1478,2026-03-21 10:22:10,user_500,instagram,ru,С праздником Навруз!,0,0,True,Samarqand
+1479,2026-03-21 10:22:11,user_429,telegram,uz,Milliy taomlar festivali,9,0,True,Toshkent
+1480,2026-03-21 10:22:13,user_571,instagram,uz,Bayram sayliga boramiz,5,0,True,
+1481,2026-03-21 10:22:13,user_96,telegram,uz,"Yangi kun, yangi umid 😊",29,5,False,Namangan
+1482,2026-03-21 10:22:15,user_531,telegram,uz,Navro'z muborak!,8,0,False,Toshkent
+1484,2026-03-21 10:22:15,user_186,telegram,uz,Sumalak tayyor #Navruz2026,0,0,False,Buxoro
+1483,2026-03-21 10:22:16,user_548,telegram,ru,С праздником Навруз! #bahor,24,0,False,Farg'ona
+1485,2026-03-21 10:22:17,user_168,facebook,uz,Bugun Toshkentda havo ajoyib,15,0,True,
+1486,2026-03-21 10:22:17,user_349,instagram,uz,Hammaga tinchlik tilayman 🌷,43,12,False,Toshkent
+1487,2026-03-21 10:22:18,user_503,instagram,uz,"Yangi kun, yangi umid",3,0,False,Toshkent
+1488,2026-03-21 10:22:20,user_166,x,uz,Ko'pkari boshlanyapti #Uzbekistan,5,0,True,Toshkent
+1489,2026-03-21 10:22:20,user_27,x,uz,Do'stlar bilan sayil,43,2,False,Samarqand
+1490,2026-03-21 10:22:22,user_55,telegram,uz,Bayram sayliga boramiz #Navruz2026,8,1,False,Toshkent
+1491,2026-03-21 10:22:23,user_27,telegram,uz,"Yangi kun, yangi umid",26,4,False,
+1492,2026-03-21 10:22:23,user_146,telegram,uz,Milliy taomlar festivali,20,5,False,
+1492,2026-03-21 10:22:23,user_146,telegram,uz,Milliy taomlar festivali,20,5,False,
+1493,2026-03-21 10:22:24,user_536,telegram,uz,Milliy taomlar festivali #Toshkent,19,1,True,Toshkent
+1494,2026-03-21 10:22:25,user_524,x,ru,Отличная погода в Ташкенте,15,2,True,
+1495,2026-03-21 10:22:25,user_208,telegram,uz,"Yangi kun, yangi umid",60,17,False,
+1496,2026-03-21 10:22:27,user_346,facebook,uz,Bugun Toshkentda havo ajoyib,5,0,True,Farg'ona
+1497,2026-03-21 10:22:27,user_477,telegram,uz,Bugun Toshkentda havo ajoyib,52,12,True,Nukus
+1498,2026-03-21 10:22:29,user_292,telegram,uz,Bahor keldi,38,8,False,Toshkent
+1500,2026-03-21 10:22:30,user_175,telegram,uz,Navro'z muborak!,15,3,False,Nukus
+1499,2026-03-21 10:22:31,user_94,instagram,uz,Milliy taomlar festivali,50,13,False,Toshkent
+1501,2026-03-21 10:22:31,user_279,instagram,uz,Ko'pkari boshlanyapti,2,0,False,Namangan
+1502,2026-03-21 10:22:32,user_305,x,uz,"Yangi kun, yangi umid",20,5,True,Farg'ona
+1503,2026-03-21 10:22:33,user_5,telegram,ru,Весна пришла,7,1,False,Farg'ona
+1503,2026-03-21 10:22:33,user_5,telegram,ru,Весна пришла,7,1,False,Farg'ona
+1504,2026-03-21 10:22:35,user_54,instagram,en,Spring is here,18,1,True,Andijon
+1505,2026-03-21 10:22:35,user_354,telegram,uz,"Yangi kun, yangi umid",3,0,False,Toshkent
+1506,2026-03-21 10:22:35,user_85,instagram,uz,"Yangi kun, yangi umid 🌷",47,9,False,Samarqand
+1507,2026-03-21 10:22:36,user_15,telegram,uz,Sumalak tayyor,6,0,True,Buxoro
+1508,2026-03-21 10:22:38,user_108,instagram,uz,Bayram sayliga boramiz 🌷,20,3,True,Toshkent
+1509,2026-03-21 10:22:38,user_569,instagram,uz,Hammaga tinchlik tilayman #Uzbekistan,6,1,True,Toshkent
+1510,2026-03-21 10:22:39,user_397,instagram,uz,Bugun Toshkentda havo ajoyib,8,1,True,Namangan
+1511,2026-03-21 10:22:40,user_255,instagram,uz,Sumalak tayyor 😊,0,0,True,Qarshi
+1512,2026-03-21 10:22:40,user_29,x,uz,Sumalak tayyor #Toshkent,25,2,False,Toshkent
+1514,2026-03-21 10:22:42,user_566,instagram,uz,"Yangi kun, yangi umid",26,4,True,Namangan
+1513,2026-03-21 10:22:43,user_267,instagram,en,Visiting Samarkand today,102,18,False,
+1515,2026-03-21 10:22:44,user_283,telegram,uz,Ko'pkari boshlanyapti,50,8,False,Nukus
+1516,2026-03-21 10:22:45,user_171,telegram,uz,Navro'z muborak!,9,2,False,Toshkent
+1517,2026-03-21 10:22:45,user_294,telegram,ru,Весна пришла,17,2,True,Toshkent
+1518,2026-03-21 10:22:46,user_303,telegram,ru,С праздником Навруз! 😊,22,3,True,Samarqand
+1519,2026-03-21 10:22:47,user_372,telegram,ru,Весна пришла,47,10,True,Farg'ona
+1520,2026-03-21 10:22:48,user_433,telegram,en,Visiting Samarkand today,4,0,False,Farg'ona
+1521,2026-03-21 10:22:49,user_226,telegram,ru,Отличная погода в Ташкенте,2,0,False,
+1522,2026-03-21 10:22:50,user_173,instagram,uz,"Yangi kun, yangi umid",19,1,True,Toshkent
+1523,2026-03-21 10:22:51,user_77,facebook,uz,Milliy taomlar festivali #bahor,18,1,True,
+1524,2026-03-21 10:22:52,user_224,telegram,uz,Sumalak tayyor,16,2,False,Buxoro
+1525,2026-03-21 10:22:53,user_536,telegram,ru,С праздником Навруз!,66,4,False,Buxoro
+1526,2026-03-21 10:22:54,user_227,instagram,uz,Hammaga tinchlik tilayman,18,2,False,Farg'ona
+1527,2026-03-21 10:22:54,user_91,instagram,uz,Ko'pkari boshlanyapti #bahor,72,17,False,
+1528,2026-03-21 10:22:56,user_191,instagram,ru,Весна пришла,21,5,False,
+1529,2026-03-21 10:22:56,user_456,telegram,uz,Navro'z muborak! 🌷,6,0,False,Toshkent
+1530,2026-03-21 10:22:57,user_367,telegram,uz,Sumalak tayyor,8,0,False,Buxoro
+1531,2026-03-21 10:22:59,user_479,telegram,uz,Ko'pkari boshlanyapti,44,5,True,Qarshi
+1532,2026-03-21 10:23:00,user_285,telegram,ru,Сумаляк готов,67,9,False,Farg'ona
+1533,2026-03-21 10:23:00,user_491,instagram,uz,Bahor keldi,5,0,False,Toshkent
+1534,2026-03-21 10:23:01,user_78,x,uz,Bahor keldi,1,0,False,Andijon
+1535,2026-03-21 10:23:02,user_85,instagram,ru,Весна пришла,2,0,False,Namangan
+1536,2026-03-21 10:23:04,user_34,x,uz,,9,1,False,Toshkent
+1537,2026-03-21 10:23:05,user_476,telegram,uz,Milliy taomlar festivali,0,0,False,Toshkent
+1538,2026-03-21 10:23:05,user_39,x,uz,Ko'pkari boshlanyapti,15,4,False,Toshkent
+1539,2026-03-21 10:23:06,user_375,telegram,uz,,44,8,False,Toshkent
+1540,2026-03-21 10:23:07,user_156,instagram,uz,,4,0,False,Toshkent
+1541,2026-03-21 10:23:07,user_143,instagram,uz,Sumalak tayyor #bahor,22,1,False,Samarqand
+1542,2026-03-21 10:23:08,user_322,telegram,uz,Hammaga tinchlik tilayman #Navruz2026,42,1,True,
+1543,2026-03-21 10:23:09,user_389,telegram,ru,Весна пришла,16,1,False,Qarshi
+1544,2026-03-21 10:23:10,user_90,telegram,uz,,29,6,False,Toshkent
+1545,2026-03-21 10:23:10,user_46,instagram,uz,Bahor keldi,30,2,False,Samarqand
+1546,2026-03-21 10:23:11,user_74,telegram,uz,Bayram sayliga boramiz,3,0,True,Andijon
+1547,2026-03-21 10:23:13,user_595,telegram,uz,Hammaga tinchlik tilayman,1,0,True,Toshkent
+1548,2026-03-21 10:23:14,user_563,instagram,uz,Bahor keldi #Toshkent,13,2,False,Samarqand
+1550,2026-03-21 10:23:15,user_523,x,en,Happy Navruz! #Toshkent,68,5,False,Farg'ona
+1549,2026-03-21 10:23:16,user_198,telegram,uz,Navro'z muborak!,71,0,False,Samarqand
+1551,2026-03-21 10:23:17,user_238,telegram,en,Happy Navruz!,13,2,False,Namangan
+1552,2026-03-21 10:23:17,user_478,instagram,ru,Весна пришла,0,0,False,Namangan
+1553,2026-03-21 10:23:18,user_446,telegram,uz,Navro'z muborak!,13,1,False,
+1554,2026-03-21 10:23:19,user_276,instagram,uz,Hammaga tinchlik tilayman,6,0,True,
+1555,2026-03-21 10:23:20,user_26,facebook,ru,,52,2,False,Toshkent
+1556,2026-03-21 10:23:21,user_514,telegram,uz,Do'stlar bilan sayil,48,13,False,Toshkent
+1557,2026-03-21 10:23:21,user_214,instagram,uz,Milliy taomlar festivali,40,9,False,Toshkent
+1558,2026-03-21 10:23:22,user_149,instagram,uz,Bugun Toshkentda havo ajoyib,41,1,False,Nukus
+1559,2026-03-21 10:23:24,user_50,instagram,ru,С праздником Навруз! 🌷,13,0,True,Qarshi
+1560,2026-03-21 10:23:25,user_429,telegram,uz,Sumalak tayyor #Uzbekistan,29,3,False,Samarqand
+1561,2026-03-21 10:23:25,user_551,facebook,uz,Ko'pkari boshlanyapti,8,1,False,Toshkent
+1562,2026-03-21 10:23:27,user_495,telegram,uz,Bayram sayliga boramiz #Toshkent,45,12,False,
+1563,2026-03-21 10:23:27,user_520,telegram,uz,Do'stlar bilan sayil,2,0,False,Samarqand
+1563,2026-03-21 10:23:27,user_520,telegram,uz,Do'stlar bilan sayil,2,0,False,Samarqand
+1564,2026-03-21 10:23:28,user_490,x,uz,"Yangi kun, yangi umid",26,6,True,Toshkent
+1565,2026-03-21 10:23:29,user_479,instagram,ru,Отличная погода в Ташкенте,27,1,False,Andijon
+1566,2026-03-21 10:23:30,user_309,instagram,uz,Bayram sayliga boramiz,8,1,True,Farg'ona
+1567,2026-03-21 10:23:30,user_233,telegram,uz,"Yangi kun, yangi umid #Toshkent",34,7,True,Toshkent
+1568,2026-03-21 10:23:33,user_569,telegram,ru,Сумаляк готов #Navruz2026,0,0,False,
+1569,2026-03-21 10:23:33,user_329,telegram,uz,Navro'z muborak!,7,0,False,Buxoro
+1570,2026-03-21 10:23:34,user_347,facebook,uz,Navro'z muborak!,72,20,True,Toshkent
+1571,2026-03-21 10:23:35,user_321,telegram,uz,Milliy taomlar festivali 🌷,16,1,True,Samarqand
+1572,2026-03-21 10:23:36,user_543,x,ru,С праздником Навруз!,32,9,False,Toshkent
+1573,2026-03-21 10:23:37,user_547,telegram,en,Great festival in Tashkent,20,5,False,
+1574,2026-03-21 10:23:38,user_423,telegram,uz,Hammaga tinchlik tilayman,51,14,True,Qarshi
+1575,2026-03-21 10:23:39,user_74,x,uz,Milliy taomlar festivali,49,7,True,
+1576,2026-03-21 10:23:39,user_586,telegram,uz,Ko'pkari boshlanyapti,18,0,True,Farg'ona
+1577,2026-03-21 10:23:39,user_468,telegram,uz,Bahor keldi,2,0,True,
+1578,2026-03-21 10:23:41,user_269,telegram,uz,"Yangi kun, yangi umid",27,6,False,Toshkent
+1579,2026-03-21 10:23:41,user_335,telegram,uz,Sumalak tayyor 😊,33,2,False,Toshkent
+1580,2026-03-21 10:23:42,user_284,telegram,uz,Milliy taomlar festivali,30,1,False,Toshkent
+1581,2026-03-21 10:23:44,user_566,x,uz,Do'stlar bilan sayil 😊,1,0,True,Buxoro
+1582,2026-03-21 10:23:44,user_117,telegram,uz,Bahor keldi,0,0,True,
+1583,2026-03-21 10:23:45,user_218,instagram,ru,С праздником Навруз! 😊,58,5,False,Toshkent
+1584,2026-03-21 10:23:46,user_241,telegram,ru,Весна пришла,70,8,False,Namangan
+1585,2026-03-21 10:23:46,user_378,x,uz,Ko'pkari boshlanyapti,2,0,False,Toshkent
+1586,2026-03-21 10:23:47,user_336,instagram,uz,Bayram sayliga boramiz,48,6,False,Samarqand
+1587,2026-03-21 10:23:50,user_206,x,uz,Sumalak tayyor,29,1,False,Toshkent
+1588,2026-03-21 10:23:50,user_336,instagram,ru,Отличная погода в Ташкенте,38,1,False,Samarqand
+1589,2026-03-21 10:23:51,user_481,telegram,ru,Сумаляк готов,3,0,False,Namangan
+1590,2026-03-21 10:23:52,user_597,telegram,uz,Bugun Toshkentda havo ajoyib #bahor,110,5,True,Toshkent
+1591,2026-03-21 10:23:53,user_134,instagram,uz,Ko'pkari boshlanyapti 🌷,8,0,False,Samarqand
+1592,2026-03-21 10:23:53,user_599,telegram,uz,Milliy taomlar festivali,6,1,False,Toshkent
+1593,2026-03-21 10:23:53,user_556,telegram,uz,Bahor keldi,4,0,True,Samarqand
+1594,2026-03-21 10:23:56,user_486,telegram,ru,Сумаляк готов #Toshkent,0,0,False,Andijon
+1595,2026-03-21 10:23:56,user_196,telegram,uz,Milliy taomlar festivali,47,4,False,Farg'ona
+1596,2026-03-21 10:23:56,user_483,instagram,uz,Milliy taomlar festivali #bahor,1,0,True,Nukus
+1597,2026-03-21 10:23:58,user_294,instagram,ru,Отличная погода в Ташкенте,31,5,False,Toshkent
+1598,2026-03-21 10:23:59,user_202,instagram,uz,Sumalak tayyor,23,1,False,Nukus
+1599,2026-03-21 10:24:00,user_494,x,en,Happy Navruz!,14,2,True,Nukus
+1600,2026-03-21 10:24:01,user_111,facebook,uz,Milliy taomlar festivali,1,0,False,Toshkent
+1601,2026-03-21 10:24:01,user_228,telegram,uz,Milliy taomlar festivali 😊,29,2,False,Andijon
+1602,2026-03-21 10:24:02,user_541,instagram,uz,Sumalak tayyor,40,9,False,Samarqand
+1603,2026-03-21 10:24:02,user_473,instagram,uz,Do'stlar bilan sayil,8,1,True,Toshkent
+1604,2026-03-21 10:24:04,user_72,telegram,en,Visiting Samarkand today,45,9,False,Buxoro
+1605,2026-03-21 10:24:04,user_22,telegram,en,Great festival in Tashkent #Toshkent,19,2,True,
+1606,2026-03-21 10:24:07,user_262,facebook,uz,Do'stlar bilan sayil,0,0,True,Farg'ona
+1607,2026-03-21 10:24:07,user_440,telegram,uz,Milliy taomlar festivali,10,2,True,Farg'ona
+1608,2026-03-21 10:24:08,user_479,telegram,uz,Milliy taomlar festivali,35,6,True,Toshkent
+1609,2026-03-21 10:24:09,user_47,x,uz,"Yangi kun, yangi umid",15,1,False,Namangan
+1610,2026-03-21 10:24:10,user_320,telegram,uz,Hammaga tinchlik tilayman,45,2,True,Farg'ona
+1611,2026-03-21 10:24:10,user_359,instagram,uz,Bugun Toshkentda havo ajoyib,2,0,False,Samarqand
+1612,2026-03-21 10:24:12,user_379,instagram,en,Great festival in Tashkent,3,0,False,Toshkent
+1613,2026-03-21 10:24:12,user_271,instagram,uz,Ko'pkari boshlanyapti,111,26,True,Toshkent
+1614,2026-03-21 10:24:13,user_194,instagram,uz,Hammaga tinchlik tilayman,11,1,True,Toshkent
+1615,2026-03-21 10:24:14,user_98,facebook,uz,Navro'z muborak! #Toshkent,14,3,True,Samarqand
+1616,2026-03-21 10:24:15,user_83,facebook,uz,"Yangi kun, yangi umid",6,1,True,
+1617,2026-03-21 10:24:15,user_593,telegram,ru,Весна пришла,12,3,True,
+1618,2026-03-21 10:24:17,user_2,instagram,uz,Milliy taomlar festivali,29,0,True,Samarqand
+1619,2026-03-21 10:24:17,user_253,telegram,uz,,4,1,False,Toshkent
+1620,2026-03-21 10:24:18,user_495,telegram,uz,Milliy taomlar festivali,11,2,True,Samarqand
+1621,2026-03-21 10:24:20,user_72,telegram,uz,Bahor keldi 🌷,21,5,False,Samarqand
+1622,2026-03-21 10:24:20,user_225,x,uz,Navro'z muborak!,61,1,False,
+1623,2026-03-21 10:24:22,user_255,telegram,uz,Milliy taomlar festivali,30,5,False,Toshkent
+1624,2026-03-21 10:24:22,user_265,instagram,uz,Milliy taomlar festivali,26,3,False,Samarqand
+1625,2026-03-21 10:24:23,user_390,x,ru,С праздником Навруз!,60,5,False,Samarqand
+1626,2026-03-21 10:24:24,user_241,x,uz,Ko'pkari boshlanyapti,4,0,False,Toshkent
+1627,2026-03-21 10:24:25,user_499,telegram,uz,Ko'pkari boshlanyapti #Uzbekistan,33,3,False,Namangan
+1628,2026-03-21 10:24:25,user_400,instagram,ru,Отличная погода в Ташкенте,0,0,True,
+1629,2026-03-21 10:24:26,user_570,telegram,en,Visiting Samarkand today,32,1,False,Toshkent
+1630,2026-03-21 10:24:28,user_454,instagram,uz,Ko'pkari boshlanyapti 🌷,23,3,False,Andijon
+1631,2026-03-21 10:24:28,user_412,telegram,ru,С праздником Навруз! 🌷,45,11,False,Samarqand
+1632,2026-03-21 10:24:29,user_433,telegram,uz,Sumalak tayyor,13,0,False,Farg'ona
+1633,2026-03-21 10:24:30,user_334,telegram,en,Happy Navruz!,7,0,False,
+1635,2026-03-21 10:24:31,user_582,telegram,uz,Bayram sayliga boramiz 🌷,54,8,False,Samarqand
+1634,2026-03-21 10:24:32,user_374,instagram,uz,Bugun Toshkentda havo ajoyib,4,0,False,Namangan
+1636,2026-03-21 10:24:34,user_232,telegram,ru,С праздником Навруз!,15,0,False,Toshkent
+1637,2026-03-21 10:24:34,user_12,telegram,ru,С праздником Навруз!,70,10,False,Samarqand
+1638,2026-03-21 10:24:34,user_489,telegram,ru,Сумаляк готов,34,2,False,Toshkent
+1639,2026-03-21 10:24:36,user_471,telegram,uz,Ko'pkari boshlanyapti 🌷,67,11,False,Namangan
+1640,2026-03-21 10:24:37,user_495,telegram,uz,,16,0,False,
+1641,2026-03-21 10:24:37,user_231,telegram,uz,Sumalak tayyor #Uzbekistan,11,2,False,
+1643,2026-03-21 10:24:38,user_380,telegram,en,Spring is here 🌷,0,0,False,Farg'ona
+1642,2026-03-21 10:24:39,user_49,telegram,ru,Сумаляк готов,9,2,False,Toshkent
+1644,2026-03-21 10:24:41,user_249,telegram,uz,Ko'pkari boshlanyapti,8,1,False,Farg'ona
+1646,2026-03-21 10:24:41,user_400,telegram,uz,Bugun Toshkentda havo ajoyib #Navruz2026,16,0,True,Namangan
+1645,2026-03-21 10:24:42,user_551,telegram,uz,Milliy taomlar festivali,0,0,False,Toshkent
+1647,2026-03-21 10:24:42,user_549,telegram,uz,Navro'z muborak!,20,3,False,Samarqand
+1648,2026-03-21 10:24:44,user_446,telegram,uz,Bahor keldi,8,0,False,Toshkent
+1649,2026-03-21 10:24:44,user_478,facebook,uz,Navro'z muborak!,97,18,True,Farg'ona
+1650,2026-03-21 10:24:46,user_415,x,uz,Bugun Toshkentda havo ajoyib,46,3,False,
+1651,2026-03-21 10:24:47,user_346,telegram,uz,,6,1,False,Toshkent
+1652,2026-03-21 10:24:48,user_29,telegram,uz,Bahor keldi,46,10,False,Toshkent
+1653,2026-03-21 10:24:49,user_418,telegram,uz,"Yangi kun, yangi umid",20,3,False,Toshkent
+1654,2026-03-21 10:24:49,user_509,telegram,uz,"Yangi kun, yangi umid #bahor",23,2,True,
+1655,2026-03-21 10:24:50,user_120,telegram,uz,Ko'pkari boshlanyapti 😊,4,0,True,Toshkent
+1656,2026-03-21 10:24:50,user_425,instagram,uz,Milliy taomlar festivali,22,6,True,Toshkent
+1657,2026-03-21 10:24:52,user_273,facebook,uz,Do'stlar bilan sayil,3,0,True,
+1659,2026-03-21 10:24:53,user_406,facebook,uz,Navro'z muborak! 🌷,4,0,False,Farg'ona
+1658,2026-03-21 10:24:54,user_85,instagram,ru,Сумаляк готов,47,11,False,Toshkent
+1660,2026-03-21 10:24:55,user_506,telegram,uz,Ko'pkari boshlanyapti #bahor,16,4,True,
+1661,2026-03-21 10:24:56,user_33,telegram,ru,Отличная погода в Ташкенте,40,11,False,Namangan
+1662,2026-03-21 10:24:56,user_129,facebook,uz,Bayram sayliga boramiz,34,8,False,
+1663,2026-03-21 10:24:57,user_179,instagram,uz,Milliy taomlar festivali #bahor,9,1,False,Toshkent
+1665,2026-03-21 10:24:58,user_284,instagram,uz,Sumalak tayyor #Toshkent,43,9,True,Samarqand
+1664,2026-03-21 10:24:59,user_389,instagram,uz,Bugun Toshkentda havo ajoyib,8,1,False,Buxoro
+1666,2026-03-21 10:25:00,user_325,telegram,uz,Do'stlar bilan sayil #Uzbekistan,25,5,True,
+1667,2026-03-21 10:25:00,user_242,instagram,ru,Весна пришла #Toshkent,9,0,False,Nukus
+1668,2026-03-21 10:25:02,user_19,telegram,ru,Отличная погода в Ташкенте #Uzbekistan,23,1,False,Qarshi
+1669,2026-03-21 10:25:02,user_504,instagram,uz,Navro'z muborak! #Uzbekistan,7,1,False,Toshkent
+1670,2026-03-21 10:25:03,user_259,telegram,uz,Hammaga tinchlik tilayman,23,4,False,
+1671,2026-03-21 10:25:04,user_37,instagram,uz,"Yangi kun, yangi umid 🌷",43,6,False,Toshkent
+1672,2026-03-21 10:25:05,user_383,facebook,uz,Bahor keldi,48,6,True,Qarshi
+1673,2026-03-21 10:25:05,user_77,telegram,ru,Сумаляк готов #Navruz2026,64,9,False,Andijon
+1674,2026-03-21 10:25:07,user_396,telegram,ru,Отличная погода в Ташкенте,23,3,True,Toshkent
+1676,2026-03-21 10:25:08,user_421,x,ru,С праздником Навруз!,0,0,False,Toshkent
+1675,2026-03-21 10:25:09,user_485,telegram,ru,Отличная погода в Ташкенте #Navruz2026,39,5,False,Toshkent
+1677,2026-03-21 10:25:10,user_181,telegram,uz,Navro'z muborak!,23,2,False,Samarqand
+1678,2026-03-21 10:25:11,user_120,telegram,uz,Navro'z muborak!,43,1,False,Andijon
+1679,2026-03-21 10:25:12,user_281,telegram,uz,Bayram sayliga boramiz,1,0,False,Nukus
+1680,2026-03-21 10:25:13,user_293,x,uz,Hammaga tinchlik tilayman,75,21,False,
+1681,2026-03-21 10:25:13,user_183,telegram,uz,Bahor keldi #Uzbekistan,5,0,True,
+1682,2026-03-21 10:25:14,user_125,instagram,uz,Milliy taomlar festivali,40,11,False,Toshkent
+1683,2026-03-21 10:25:15,user_410,instagram,uz,Ko'pkari boshlanyapti,25,1,False,Namangan
+1684,2026-03-21 10:25:16,user_83,telegram,uz,Hammaga tinchlik tilayman,107,18,False,Toshkent
+1684,2026-03-21 10:25:16,user_83,telegram,uz,Hammaga tinchlik tilayman,107,18,False,Toshkent
+1685,2026-03-21 10:25:18,user_143,telegram,ru,Отличная погода в Ташкенте,21,6,True,Qarshi
+1686,2026-03-21 10:25:18,user_158,instagram,uz,Do'stlar bilan sayil,10,0,False,Samarqand
+1687,2026-03-21 10:25:19,user_46,telegram,uz,Bayram sayliga boramiz,0,0,False,Toshkent
+1688,2026-03-21 10:25:19,user_275,telegram,uz,Navro'z muborak! 🌷,7,1,False,Namangan
+1689,2026-03-21 10:25:20,user_272,telegram,ru,С праздником Навруз! #Uzbekistan,14,3,True,Samarqand
+1690,2026-03-21 10:25:21,user_14,x,uz,Bugun Toshkentda havo ajoyib,10,2,False,Andijon
+1691,2026-03-21 10:25:22,user_372,telegram,uz,Ko'pkari boshlanyapti,0,0,False,Toshkent
+1692,2026-03-21 10:25:23,user_379,x,uz,Navro'z muborak!,0,0,True,Farg'ona
+1693,2026-03-21 10:25:25,user_77,instagram,ru,Отличная погода в Ташкенте,2,0,False,Farg'ona
+1694,2026-03-21 10:25:25,user_159,telegram,ru,Весна пришла #Toshkent,10,1,False,
+1695,2026-03-21 10:25:26,user_483,telegram,uz,"Yangi kun, yangi umid",7,1,True,Buxoro
+1696,2026-03-21 10:25:26,user_283,telegram,uz,Navro'z muborak!,11,2,False,Samarqand
+1697,2026-03-21 10:25:28,user_452,telegram,uz,"Yangi kun, yangi umid",56,3,False,
+1698,2026-03-21 10:25:29,user_304,instagram,uz,"Yangi kun, yangi umid",12,1,False,Samarqand
+1699,2026-03-21 10:25:30,user_579,instagram,uz,Bugun Toshkentda havo ajoyib #Navruz2026,9,0,False,Namangan
+1700,2026-03-21 10:25:31,user_503,instagram,ru,Весна пришла,16,0,False,Buxoro
+1701,2026-03-21 10:25:31,user_316,facebook,en,Happy Navruz!,12,0,False,Toshkent
+1702,2026-03-21 10:25:32,user_19,x,uz,Bahor keldi,15,4,True,Toshkent
+1703,2026-03-21 10:25:34,user_73,telegram,uz,Sumalak tayyor #Uzbekistan,46,9,False,Namangan
+1704,2026-03-21 10:25:34,user_302,telegram,ru,Сумаляк готов,52,9,False,Toshkent
+1706,2026-03-21 10:25:35,user_223,instagram,uz,Hammaga tinchlik tilayman 😊,15,1,True,Samarqand
+1705,2026-03-21 10:25:36,user_593,x,uz,Ko'pkari boshlanyapti,59,15,False,Qarshi
+1707,2026-03-21 10:25:37,user_537,instagram,en,Visiting Samarkand today,7,1,False,
+1708,2026-03-21 10:25:37,user_163,telegram,uz,Ko'pkari boshlanyapti,7,0,False,Toshkent
+1709,2026-03-21 10:25:38,user_196,facebook,ru,Сумаляк готов,7,0,False,
+1710,2026-03-21 10:25:40,user_107,telegram,ru,Отличная погода в Ташкенте,86,0,False,Buxoro
+1711,2026-03-21 10:25:41,user_166,telegram,uz,"Yangi kun, yangi umid",53,4,False,Samarqand
+1712,2026-03-21 10:25:42,user_372,instagram,uz,Do'stlar bilan sayil,18,3,False,Andijon
+1713,2026-03-21 10:25:42,user_126,instagram,ru,Отличная погода в Ташкенте #Uzbekistan,5,0,False,Samarqand
+1714,2026-03-21 10:25:43,user_171,telegram,uz,Milliy taomlar festivali,16,1,True,Samarqand
+1715,2026-03-21 10:25:45,user_126,instagram,ru,Отличная погода в Ташкенте,2,0,False,Toshkent
+1716,2026-03-21 10:25:45,user_542,facebook,uz,Bayram sayliga boramiz 😊,35,10,False,Qarshi
+1717,2026-03-21 10:25:47,user_523,x,uz,Bugun Toshkentda havo ajoyib,13,0,False,
+1718,2026-03-21 10:25:47,user_66,x,ru,Весна пришла,9,1,False,Toshkent
+1719,2026-03-21 10:25:47,user_342,telegram,ru,Сумаляк готов,7,1,False,Toshkent
+1720,2026-03-21 10:25:49,user_177,instagram,uz,Ko'pkari boshlanyapti,35,0,False,Farg'ona
+1721,2026-03-21 10:25:50,user_515,telegram,uz,Ko'pkari boshlanyapti,6,0,True,
+1722,2026-03-21 10:25:51,user_334,instagram,en,Visiting Samarkand today,24,1,False,Farg'ona
+1723,2026-03-21 10:25:52,user_329,telegram,uz,Bayram sayliga boramiz,1,0,False,Namangan
+1725,2026-03-21 10:25:52,user_250,telegram,uz,Do'stlar bilan sayil,26,6,True,
+1724,2026-03-21 10:25:53,user_326,instagram,ru,Весна пришла #Navruz2026,2,0,True,
+1726,2026-03-21 10:25:54,user_197,facebook,en,Spring is here,55,0,False,Toshkent
+1727,2026-03-21 10:25:54,user_589,telegram,uz,Navro'z muborak!,43,5,True,Toshkent
+1728,2026-03-21 10:25:55,user_349,x,uz,Bayram sayliga boramiz,47,2,False,Samarqand
+1729,2026-03-21 10:25:57,user_467,facebook,uz,Do'stlar bilan sayil,18,5,True,Farg'ona
+1730,2026-03-21 10:25:57,user_208,instagram,uz,Navro'z muborak! #Uzbekistan,18,3,True,Toshkent
+1731,2026-03-21 10:25:57,user_598,instagram,ru,С праздником Навруз!,19,1,True,Toshkent
+1732,2026-03-21 10:25:59,user_2,telegram,uz,Navro'z muborak!,1,0,False,Toshkent
+1733,2026-03-21 10:25:59,user_66,telegram,ru,Отличная погода в Ташкенте,51,5,True,Qarshi
+1735,2026-03-21 10:26:01,user_361,x,uz,Hammaga tinchlik tilayman #Toshkent,29,1,False,Buxoro
+1734,2026-03-21 10:26:02,user_261,telegram,en,Happy Navruz!,0,0,True,Buxoro
+1736,2026-03-21 10:26:02,user_105,facebook,uz,Milliy taomlar festivali,21,0,False,Namangan
+1737,2026-03-21 10:26:04,user_9,telegram,uz,,39,3,False,Andijon
+1738,2026-03-21 10:26:05,user_220,instagram,en,Great festival in Tashkent #Toshkent,18,4,True,Namangan
+1738,2026-03-21 10:26:05,user_220,instagram,en,Great festival in Tashkent #Toshkent,18,4,True,Namangan
+1739,2026-03-21 10:26:06,user_567,x,uz,Bayram sayliga boramiz,28,4,False,Samarqand
+1740,2026-03-21 10:26:07,user_584,instagram,uz,Navro'z muborak! #Uzbekistan,11,2,False,Namangan
+1741,2026-03-21 10:26:07,user_560,telegram,uz,Hammaga tinchlik tilayman,13,3,False,Farg'ona
+1741,2026-03-21 10:26:07,user_560,telegram,uz,Hammaga tinchlik tilayman,13,3,False,Farg'ona
+1742,2026-03-21 10:26:09,user_258,telegram,uz,"Yangi kun, yangi umid",21,5,False,Namangan
+1743,2026-03-21 10:26:09,user_329,telegram,uz,Navro'z muborak! #Navruz2026,9,0,False,Samarqand
+1744,2026-03-21 10:26:10,user_120,x,uz,Ko'pkari boshlanyapti,82,22,False,Buxoro
+1745,2026-03-21 10:26:11,user_315,instagram,ru,Отличная погода в Ташкенте,8,1,True,Namangan
+1746,2026-03-21 10:26:12,user_341,instagram,uz,Bugun Toshkentda havo ajoyib,9,1,True,Namangan
+1747,2026-03-21 10:26:13,user_60,telegram,en,Spring is here,25,0,False,Buxoro
+1748,2026-03-21 10:26:14,user_181,instagram,uz,Navro'z muborak! 🌷,66,5,False,Buxoro
+1749,2026-03-21 10:26:15,user_230,instagram,uz,Ko'pkari boshlanyapti,1,0,True,Toshkent
+1751,2026-03-21 10:26:15,user_419,instagram,uz,Do'stlar bilan sayil,0,0,True,Buxoro
+1750,2026-03-21 10:26:16,user_222,telegram,ru,С праздником Навруз! #Toshkent,2,0,False,Namangan
+1752,2026-03-21 10:26:17,user_303,x,ru,Отличная погода в Ташкенте,6,0,True,Namangan
+1753,2026-03-21 10:26:19,user_245,instagram,uz,"Yangi kun, yangi umid #Navruz2026",6,1,False,Toshkent
+1754,2026-03-21 10:26:19,user_267,instagram,en,Spring is here #bahor,24,0,False,Toshkent
+1755,2026-03-21 10:26:20,user_299,instagram,uz,Hammaga tinchlik tilayman,12,1,False,Toshkent
+1756,2026-03-21 10:26:21,user_354,instagram,uz,Sumalak tayyor,32,4,False,Andijon
+1757,2026-03-21 10:26:23,user_590,facebook,uz,Bahor keldi #Uzbekistan,0,0,False,Farg'ona
+1758,2026-03-21 10:26:23,user_511,telegram,uz,Navro'z muborak!,24,5,True,Toshkent
+1759,2026-03-21 10:26:23,user_91,telegram,en,Spring is here,30,1,False,Farg'ona
+1760,2026-03-21 10:26:24,user_7,telegram,uz,Bayram sayliga boramiz,4,1,True,Nukus
+1761,2026-03-21 10:26:26,user_445,instagram,uz,Ko'pkari boshlanyapti,13,1,True,
+1762,2026-03-21 10:26:26,user_46,telegram,uz,Ko'pkari boshlanyapti #Uzbekistan,22,5,False,Toshkent
+1763,2026-03-21 10:26:28,user_311,instagram,uz,Ko'pkari boshlanyapti,21,3,False,Toshkent
+1764,2026-03-21 10:26:28,user_89,telegram,en,Happy Navruz!,42,6,True,Toshkent
+1766,2026-03-21 10:26:29,user_43,instagram,uz,Bugun Toshkentda havo ajoyib,31,1,False,Farg'ona
+1765,2026-03-21 10:26:30,user_578,instagram,en,Happy Navruz!,16,0,True,
+1767,2026-03-21 10:26:31,user_453,instagram,uz,Bahor keldi,25,1,False,Toshkent
+1768,2026-03-21 10:26:31,user_460,instagram,ru,Отличная погода в Ташкенте #Uzbekistan,27,4,True,Samarqand
+1769,2026-03-21 10:26:33,user_29,telegram,ru,Сумаляк готов #Toshkent,23,5,True,Toshkent
+1770,2026-03-21 10:26:33,user_210,instagram,ru,Сумаляк готов,23,6,False,Toshkent
+1771,2026-03-21 10:26:35,user_372,instagram,uz,Bahor keldi,106,22,True,Buxoro
+1772,2026-03-21 10:26:35,user_135,telegram,uz,Bugun Toshkentda havo ajoyib,24,3,False,Toshkent
+1773,2026-03-21 10:26:37,user_97,x,en,Spring is here,10,0,True,Toshkent
+1774,2026-03-21 10:26:38,user_110,instagram,en,Spring is here,14,2,False,Andijon
+1775,2026-03-21 10:26:38,user_186,facebook,uz,Bahor keldi 😊,39,1,True,Buxoro
+1776,2026-03-21 10:26:38,user_45,x,uz,Sumalak tayyor,7,0,False,Samarqand
+1777,2026-03-21 10:26:39,user_493,telegram,ru,Весна пришла,43,10,False,
+1778,2026-03-21 10:26:41,user_43,facebook,uz,Hammaga tinchlik tilayman 😊,56,11,True,Buxoro
+1779,2026-03-21 10:26:42,user_121,facebook,uz,Do'stlar bilan sayil #bahor,23,1,False,Andijon
+1780,2026-03-21 10:26:42,user_375,instagram,uz,Bugun Toshkentda havo ajoyib,1,0,True,Andijon
+1781,2026-03-21 10:26:44,user_95,telegram,uz,Milliy taomlar festivali,18,4,True,
+1782,2026-03-21 10:26:45,user_101,instagram,en,Visiting Samarkand today,15,0,False,
+1783,2026-03-21 10:26:46,user_485,x,uz,Bahor keldi,67,8,False,Toshkent
+1784,2026-03-21 10:26:47,user_377,facebook,uz,Bahor keldi #Toshkent,56,10,False,Toshkent
+1785,2026-03-21 10:26:48,user_417,instagram,uz,Hammaga tinchlik tilayman,38,2,False,Samarqand
+1786,2026-03-21 10:26:48,user_100,instagram,uz,Navro'z muborak!,24,2,False,Qarshi
+1787,2026-03-21 10:26:49,user_387,telegram,uz,Navro'z muborak!,2,0,True,Toshkent
+1788,2026-03-21 10:26:50,user_94,facebook,uz,Milliy taomlar festivali,6,0,False,Toshkent
+1789,2026-03-21 10:26:50,user_98,x,uz,Bahor keldi #Uzbekistan,30,1,False,Toshkent
+1790,2026-03-21 10:26:51,user_328,x,ru,Сумаляк готов #Uzbekistan,17,0,False,Andijon
+1791,2026-03-21 10:26:52,user_402,instagram,uz,Bayram sayliga boramiz,8,0,False,Buxoro
+1792,2026-03-21 10:26:53,user_478,instagram,uz,Do'stlar bilan sayil #bahor,51,13,True,Buxoro
+1793,2026-03-21 10:26:55,user_230,facebook,uz,"Yangi kun, yangi umid 😊",47,11,False,Samarqand
+1794,2026-03-21 10:26:55,user_463,telegram,en,Happy Navruz!,136,18,False,
+1795,2026-03-21 10:26:57,user_577,telegram,uz,Bugun Toshkentda havo ajoyib,11,0,True,Toshkent
+1796,2026-03-21 10:26:57,user_171,telegram,uz,Do'stlar bilan sayil,49,10,False,Samarqand
+1797,2026-03-21 10:26:58,user_373,telegram,uz,"Yangi kun, yangi umid",24,0,False,Nukus
+1799,2026-03-21 10:26:59,user_377,facebook,uz,Sumalak tayyor,19,4,True,Toshkent
+1798,2026-03-21 10:27:00,user_508,instagram,uz,Hammaga tinchlik tilayman #Uzbekistan,50,3,True,
+1800,2026-03-21 10:27:01,user_581,telegram,uz,Bahor keldi,6,0,False,Toshkent
+1801,2026-03-21 10:27:01,user_216,instagram,ru,Отличная погода в Ташкенте,5,0,True,Toshkent
+1802,2026-03-21 10:27:02,user_89,instagram,ru,Сумаляк готов,5,1,True,Toshkent
+1803,2026-03-21 10:27:03,user_110,x,uz,"Yangi kun, yangi umid",89,22,False,Toshkent
+1804,2026-03-21 10:27:04,user_526,telegram,ru,Сумаляк готов,27,2,True,Toshkent
+1805,2026-03-21 10:27:05,user_376,instagram,uz,Milliy taomlar festivali,49,5,True,Andijon
+1806,2026-03-21 10:27:07,user_588,telegram,ru,С праздником Навруз! 😊,11,3,False,Qarshi
+1807,2026-03-21 10:27:07,user_474,telegram,uz,"Yangi kun, yangi umid",25,6,False,Qarshi
+1808,2026-03-21 10:27:08,user_544,telegram,uz,Sumalak tayyor,1,0,False,Toshkent
+1809,2026-03-21 10:27:08,user_231,telegram,uz,"Yangi kun, yangi umid",0,0,False,Buxoro
+1810,2026-03-21 10:27:10,user_324,instagram,uz,Do'stlar bilan sayil,25,2,True,Toshkent
+1811,2026-03-21 10:27:11,user_15,telegram,uz,Navro'z muborak!,16,3,False,Toshkent
+1812,2026-03-21 10:27:12,user_372,x,uz,Hammaga tinchlik tilayman,2,0,True,Samarqand
+1813,2026-03-21 10:27:12,user_294,telegram,uz,Bayram sayliga boramiz,14,0,True,Namangan
+1814,2026-03-21 10:27:14,user_501,instagram,ru,Весна пришла,2,0,False,Toshkent
+1815,2026-03-21 10:27:15,user_259,telegram,uz,Bahor keldi,7,1,False,
+1816,2026-03-21 10:27:15,user_241,instagram,uz,Sumalak tayyor 🌷,113,20,False,Samarqand
+1817,2026-03-21 10:27:16,user_347,telegram,uz,Do'stlar bilan sayil,19,2,False,Toshkent
+1818,2026-03-21 10:27:16,user_331,telegram,uz,"Yangi kun, yangi umid",0,0,False,
+1819,2026-03-21 10:27:18,user_253,instagram,uz,Hammaga tinchlik tilayman,4,0,True,Nukus
+1820,2026-03-21 10:27:18,user_232,telegram,uz,,34,1,False,Buxoro
+1821,2026-03-21 10:27:18,user_139,facebook,uz,"Yangi kun, yangi umid #Toshkent",15,3,False,Buxoro
+1822,2026-03-21 10:27:20,user_86,facebook,uz,Hammaga tinchlik tilayman,2,0,False,Toshkent
+1823,2026-03-21 10:27:21,user_35,telegram,uz,Navro'z muborak!,24,3,False,Samarqand
+1824,2026-03-21 10:27:22,user_222,instagram,en,Visiting Samarkand today,5,0,True,Farg'ona
+1825,2026-03-21 10:27:22,user_195,telegram,uz,Do'stlar bilan sayil,16,2,True,
+1826,2026-03-21 10:27:24,user_267,telegram,uz,Navro'z muborak!,0,0,False,Toshkent
+1827,2026-03-21 10:27:25,user_237,facebook,uz,Navro'z muborak! 🌷,18,3,False,Toshkent
+1828,2026-03-21 10:27:26,user_20,instagram,uz,Bugun Toshkentda havo ajoyib,36,4,False,Samarqand
+1829,2026-03-21 10:27:26,user_154,instagram,uz,Bayram sayliga boramiz,50,13,True,Andijon
+1830,2026-03-21 10:27:28,user_259,instagram,ru,Отличная погода в Ташкенте,40,9,False,
+1831,2026-03-21 10:27:29,user_199,instagram,en,Happy Navruz!,2,0,False,Toshkent
+1832,2026-03-21 10:27:30,user_299,instagram,uz,Hammaga tinchlik tilayman #Navruz2026,5,1,False,
+1833,2026-03-21 10:27:31,user_41,telegram,uz,,1,0,False,Toshkent
+1834,2026-03-21 10:27:32,user_220,instagram,uz,,57,6,False,Buxoro
+1835,2026-03-21 10:27:33,user_108,x,uz,Ko'pkari boshlanyapti,31,4,True,
+1836,2026-03-21 10:27:33,user_23,telegram,uz,Bugun Toshkentda havo ajoyib,16,3,True,Samarqand
+1837,2026-03-21 10:27:34,user_229,instagram,uz,Do'stlar bilan sayil,11,0,False,Toshkent
+1838,2026-03-21 10:27:34,user_526,telegram,uz,"Yangi kun, yangi umid #Navruz2026",30,6,False,Toshkent
+1839,2026-03-21 10:27:35,user_258,x,ru,Весна пришла #Toshkent,10,2,True,Toshkent
+1840,2026-03-21 10:27:36,user_586,telegram,uz,Milliy taomlar festivali 🌷,19,3,True,Nukus
+1841,2026-03-21 10:27:38,user_122,telegram,uz,Do'stlar bilan sayil,14,0,True,Toshkent
+1842,2026-03-21 10:27:38,user_208,telegram,uz,Ko'pkari boshlanyapti 🌷,17,0,False,Toshkent
+1843,2026-03-21 10:27:40,user_545,telegram,uz,Milliy taomlar festivali,6,1,False,
+1844,2026-03-21 10:27:40,user_164,telegram,uz,Do'stlar bilan sayil #Toshkent,71,3,True,Farg'ona
+1845,2026-03-21 10:27:40,user_202,x,ru,Отличная погода в Ташкенте #Uzbekistan,25,2,False,Toshkent
+1846,2026-03-21 10:27:42,user_235,facebook,uz,,63,18,False,
+1847,2026-03-21 10:27:42,user_595,x,uz,Bahor keldi,4,0,True,Andijon
+1848,2026-03-21 10:27:44,user_595,telegram,uz,Bahor keldi #Uzbekistan,11,1,True,Farg'ona
+1849,2026-03-21 10:27:44,user_159,facebook,ru,Отличная погода в Ташкенте,19,4,False,Samarqand
+1850,2026-03-21 10:27:46,user_502,telegram,uz,Bayram sayliga boramiz,25,4,False,Samarqand
+1851,2026-03-21 10:27:46,user_251,instagram,en,Happy Navruz!,12,0,False,Samarqand
+1852,2026-03-21 10:27:48,user_172,telegram,uz,Ko'pkari boshlanyapti,8,2,False,Toshkent
+1853,2026-03-21 10:27:48,user_527,telegram,uz,"Yangi kun, yangi umid 😊",58,13,False,Toshkent
+1855,2026-03-21 10:27:49,user_282,instagram,uz,Bayram sayliga boramiz,16,0,False,Samarqand
+1854,2026-03-21 10:27:50,user_224,telegram,uz,Bugun Toshkentda havo ajoyib,18,4,False,Toshkent
+1856,2026-03-21 10:27:50,user_329,telegram,uz,Ko'pkari boshlanyapti,10,2,True,Farg'ona
+1857,2026-03-21 10:27:52,user_3,facebook,ru,Отличная погода в Ташкенте,25,5,False,Namangan
+1858,2026-03-21 10:27:52,user_296,instagram,uz,Do'stlar bilan sayil,19,0,False,Toshkent
+1859,2026-03-21 10:27:54,user_465,telegram,uz,Sumalak tayyor,2,0,False,Buxoro
+1860,2026-03-21 10:27:55,user_30,telegram,uz,Milliy taomlar festivali #Uzbekistan,4,0,False,
+1861,2026-03-21 10:27:56,user_211,facebook,uz,Ko'pkari boshlanyapti,6,1,False,Toshkent
+1862,2026-03-21 10:27:57,user_504,telegram,uz,Bayram sayliga boramiz,19,2,True,Qarshi
+1863,2026-03-21 10:27:57,user_368,x,en,Visiting Samarkand today,37,1,True,Toshkent
+1865,2026-03-21 10:27:58,user_234,facebook,uz,Bahor keldi,48,7,False,Toshkent
+1864,2026-03-21 10:27:59,user_88,instagram,uz,Hammaga tinchlik tilayman,14,0,True,Toshkent
+1866,2026-03-21 10:27:59,user_451,telegram,uz,Hammaga tinchlik tilayman,13,0,False,
+1867,2026-03-21 10:28:00,user_193,instagram,uz,Bayram sayliga boramiz,27,0,True,Toshkent
+1868,2026-03-21 10:28:01,user_525,telegram,uz,Bahor keldi #Uzbekistan,29,2,False,
+1868,2026-03-21 10:28:01,user_525,telegram,uz,Bahor keldi #Uzbekistan,29,2,False,
+1869,2026-03-21 10:28:03,user_331,instagram,uz,Bayram sayliga boramiz #bahor,20,2,False,Buxoro
+1870,2026-03-21 10:28:03,user_331,telegram,uz,Bayram sayliga boramiz,38,4,True,Nukus
+1871,2026-03-21 10:28:05,user_278,telegram,ru,Сумаляк готов #Navruz2026,32,9,False,Qarshi
+1872,2026-03-21 10:28:05,user_183,telegram,uz,Bugun Toshkentda havo ajoyib,74,4,True,Toshkent
+1873,2026-03-21 10:28:07,user_368,telegram,uz,Milliy taomlar festivali,16,1,True,Toshkent
+1874,2026-03-21 10:28:08,user_359,telegram,uz,Sumalak tayyor,8,0,False,Andijon
+1875,2026-03-21 10:28:09,user_579,instagram,en,Visiting Samarkand today,11,3,True,Buxoro
+1877,2026-03-21 10:28:09,user_457,x,uz,,32,8,False,Toshkent
+1876,2026-03-21 10:28:10,user_507,telegram,uz,Bayram sayliga boramiz #Toshkent,37,8,False,
+1878,2026-03-21 10:28:11,user_434,telegram,ru,Весна пришла,5,1,False,Toshkent
+1879,2026-03-21 10:28:12,user_398,instagram,uz,Sumalak tayyor,7,0,False,Toshkent
+1880,2026-03-21 10:28:13,user_382,instagram,uz,Bahor keldi,6,1,False,Andijon
+1881,2026-03-21 10:28:14,user_313,telegram,uz,"Yangi kun, yangi umid",16,2,True,Toshkent
+1882,2026-03-21 10:28:14,user_573,telegram,ru,Сумаляк готов,16,4,True,
+1883,2026-03-21 10:28:14,user_461,facebook,uz,Navro'z muborak!,46,9,False,Buxoro
+1884,2026-03-21 10:28:17,user_115,x,ru,Отличная погода в Ташкенте,64,12,False,Buxoro
+1885,2026-03-21 10:28:17,user_212,facebook,uz,Do'stlar bilan sayil 😊,10,2,False,Samarqand
+1886,2026-03-21 10:28:17,user_592,instagram,uz,Ko'pkari boshlanyapti,22,5,False,Toshkent
+1887,2026-03-21 10:28:19,user_583,telegram,uz,Do'stlar bilan sayil 🌷,19,4,False,Toshkent
+1888,2026-03-21 10:28:19,user_354,telegram,uz,"Yangi kun, yangi umid",30,1,True,Toshkent
+1889,2026-03-21 10:28:20,user_124,telegram,uz,Bugun Toshkentda havo ajoyib,19,3,True,
+1890,2026-03-21 10:28:21,user_340,telegram,uz,Hammaga tinchlik tilayman,26,0,False,Namangan
+1891,2026-03-21 10:28:23,user_323,instagram,uz,Hammaga tinchlik tilayman,6,1,False,Toshkent
+1892,2026-03-21 10:28:24,user_335,telegram,ru,Весна пришла #bahor,1,0,False,Samarqand
+1893,2026-03-21 10:28:25,user_53,telegram,ru,Весна пришла,7,0,False,Toshkent
+1894,2026-03-21 10:28:25,user_505,x,ru,Весна пришла,110,9,False,Buxoro
+1895,2026-03-21 10:28:25,user_9,telegram,ru,С праздником Навруз! 😊,31,6,False,
+1896,2026-03-21 10:28:28,user_183,facebook,ru,С праздником Навруз!,46,4,False,Buxoro
+1897,2026-03-21 10:28:28,user_562,facebook,uz,Bahor keldi,12,2,True,
+1898,2026-03-21 10:28:29,user_545,telegram,uz,Hammaga tinchlik tilayman,7,1,False,Toshkent
+1899,2026-03-21 10:28:29,user_342,telegram,en,Great festival in Tashkent #Uzbekistan,12,0,False,Toshkent
+1900,2026-03-21 10:28:30,user_421,telegram,uz,Hammaga tinchlik tilayman,38,9,True,Samarqand
+1901,2026-03-21 10:28:31,user_301,instagram,ru,Сумаляк готов,13,3,False,Toshkent
+1902,2026-03-21 10:28:31,user_168,telegram,uz,Bugun Toshkentda havo ajoyib,34,0,False,Samarqand
+1902,2026-03-21 10:28:31,user_168,telegram,uz,Bugun Toshkentda havo ajoyib,34,0,False,Samarqand
+1903,2026-03-21 10:28:33,user_20,x,uz,"Yangi kun, yangi umid",25,6,False,
+1904,2026-03-21 10:28:34,user_308,instagram,uz,Bugun Toshkentda havo ajoyib 🌷,4,0,True,Farg'ona
+1905,2026-03-21 10:28:35,user_62,facebook,uz,Ko'pkari boshlanyapti,10,0,True,Qarshi
+1906,2026-03-21 10:28:36,user_481,telegram,uz,Hammaga tinchlik tilayman,12,3,True,
+1907,2026-03-21 10:28:36,user_231,instagram,uz,Sumalak tayyor 😊,41,11,False,Toshkent
+1908,2026-03-21 10:28:37,user_501,instagram,en,Visiting Samarkand today,6,0,False,Andijon
+1909,2026-03-21 10:28:38,user_103,instagram,uz,Navro'z muborak!,46,2,True,Samarqand
+1910,2026-03-21 10:28:39,user_380,instagram,uz,Bugun Toshkentda havo ajoyib,13,0,False,Samarqand
+1911,2026-03-21 10:28:41,user_233,instagram,uz,Sumalak tayyor,21,1,True,Toshkent
+1912,2026-03-21 10:28:41,user_64,instagram,uz,Hammaga tinchlik tilayman,41,5,False,Samarqand
+1913,2026-03-21 10:28:43,user_460,facebook,ru,Весна пришла 😊,132,14,False,Toshkent
+1914,2026-03-21 10:28:43,user_337,telegram,uz,,1,0,False,Nukus
+1915,2026-03-21 10:28:44,user_80,telegram,en,Visiting Samarkand today #bahor,29,6,False,Nukus
+1916,2026-03-21 10:28:44,user_316,x,uz,Sumalak tayyor,2,0,True,Andijon
+1917,2026-03-21 10:28:47,user_96,telegram,uz,Bayram sayliga boramiz,18,5,True,Samarqand
+1918,2026-03-21 10:28:48,user_263,instagram,uz,Ko'pkari boshlanyapti,17,3,True,Nukus
+1919,2026-03-21 10:28:48,user_351,instagram,ru,Сумаляк готов,2,0,False,Samarqand
+1920,2026-03-21 10:28:48,user_385,telegram,uz,Bugun Toshkentda havo ajoyib,22,4,False,Qarshi
+1921,2026-03-21 10:28:49,user_147,instagram,uz,Navro'z muborak!,63,0,True,Samarqand
+1922,2026-03-21 10:28:50,user_272,telegram,en,Great festival in Tashkent,48,5,False,Buxoro
+1923,2026-03-21 10:28:52,user_204,facebook,uz,Milliy taomlar festivali,68,8,False,Toshkent
+1924,2026-03-21 10:28:53,user_164,telegram,uz,Bugun Toshkentda havo ajoyib 😊,3,0,False,Toshkent
+1925,2026-03-21 10:28:53,user_387,instagram,uz,Hammaga tinchlik tilayman,55,1,True,Buxoro
+1926,2026-03-21 10:28:54,user_41,instagram,ru,Весна пришла,19,3,False,Toshkent
+1927,2026-03-21 10:28:55,user_157,instagram,uz,Milliy taomlar festivali,19,1,True,Farg'ona
+1928,2026-03-21 10:28:56,user_207,telegram,uz,Bugun Toshkentda havo ajoyib #Navruz2026,12,0,True,Toshkent
+1929,2026-03-21 10:28:57,user_129,instagram,uz,Bayram sayliga boramiz #bahor,18,2,False,Buxoro
+1930,2026-03-21 10:28:57,user_41,instagram,uz,Bugun Toshkentda havo ajoyib,15,3,False,Toshkent
+1931,2026-03-21 10:28:59,user_489,telegram,uz,Sumalak tayyor,37,2,False,Farg'ona
+1932,2026-03-21 10:28:59,user_371,facebook,en,Great festival in Tashkent,0,0,False,Samarqand
+1933,2026-03-21 10:29:01,user_345,telegram,ru,С праздником Навруз! #Toshkent,2,0,True,Nukus
+1934,2026-03-21 10:29:01,user_352,instagram,ru,Отличная погода в Ташкенте #Uzbekistan,13,2,True,Farg'ona
+1935,2026-03-21 10:29:03,user_137,instagram,ru,Весна пришла,29,4,False,Namangan
+1936,2026-03-21 10:29:04,user_528,telegram,ru,Отличная погода в Ташкенте,56,1,False,Andijon
+1937,2026-03-21 10:29:04,user_250,x,ru,Отличная погода в Ташкенте,67,15,True,Qarshi
+1938,2026-03-21 10:29:04,user_207,x,uz,Milliy taomlar festivali,18,2,False,Qarshi
+1939,2026-03-21 10:29:05,user_433,telegram,uz,Hammaga tinchlik tilayman #Navruz2026,18,4,False,Namangan
+1940,2026-03-21 10:29:06,user_331,telegram,uz,Bugun Toshkentda havo ajoyib,0,0,True,Andijon
+1941,2026-03-21 10:29:06,user_578,instagram,uz,,4,0,True,Toshkent
+1942,2026-03-21 10:29:09,user_430,telegram,uz,Do'stlar bilan sayil 😊,57,7,True,Toshkent
+1943,2026-03-21 10:29:09,user_537,telegram,uz,"Yangi kun, yangi umid",2,0,True,Toshkent
+1944,2026-03-21 10:29:11,user_496,x,uz,Ko'pkari boshlanyapti #Uzbekistan,24,4,True,Buxoro
+1945,2026-03-21 10:29:11,user_559,telegram,uz,Milliy taomlar festivali,7,0,False,
+1946,2026-03-21 10:29:12,user_537,instagram,uz,"Yangi kun, yangi umid",13,1,True,Toshkent
+1947,2026-03-21 10:29:12,user_216,instagram,uz,Milliy taomlar festivali,12,0,True,Toshkent
+1946,2026-03-21 10:29:12,user_537,instagram,uz,"Yangi kun, yangi umid",13,1,True,Toshkent
+1948,2026-03-21 10:29:13,user_393,telegram,uz,Sumalak tayyor,24,6,False,Farg'ona
+1949,2026-03-21 10:29:15,user_422,telegram,uz,Do'stlar bilan sayil,27,6,False,Toshkent
+1950,2026-03-21 10:29:15,user_141,telegram,ru,,18,2,False,Toshkent
+1951,2026-03-21 10:29:15,user_18,instagram,uz,Bugun Toshkentda havo ajoyib #Toshkent,7,1,True,Buxoro
+1952,2026-03-21 10:29:17,user_361,telegram,uz,Bahor keldi,13,0,False,Namangan
+1953,2026-03-21 10:29:17,user_360,telegram,ru,Сумаляк готов,62,10,False,Qarshi
+1954,2026-03-21 10:29:18,user_357,facebook,uz,Bugun Toshkentda havo ajoyib #Toshkent,14,0,False,Toshkent
+1955,2026-03-21 10:29:20,user_92,instagram,uz,"Yangi kun, yangi umid",14,0,False,Toshkent
+1956,2026-03-21 10:29:20,user_9,instagram,ru,С праздником Навруз!,11,0,True,Toshkent
+1956,2026-03-21 10:29:20,user_9,instagram,ru,С праздником Навруз!,11,0,True,Toshkent
+1957,2026-03-21 10:29:22,user_317,instagram,uz,Hammaga tinchlik tilayman,34,3,True,Toshkent
+1958,2026-03-21 10:29:22,user_245,facebook,ru,С праздником Навруз! 😊,17,3,False,Toshkent
+1959,2026-03-21 10:29:24,user_233,telegram,ru,Отличная погода в Ташкенте,15,3,False,Samarqand
+1960,2026-03-21 10:29:24,user_501,instagram,uz,Milliy taomlar festivali,33,7,False,Buxoro
+1961,2026-03-21 10:29:25,user_308,x,uz,Do'stlar bilan sayil,6,0,True,
+1962,2026-03-21 10:29:26,user_8,telegram,uz,Navro'z muborak!,9,2,True,
+1963,2026-03-21 10:29:27,user_571,x,ru,Весна пришла,3,0,False,Namangan
+1964,2026-03-21 10:29:28,user_295,instagram,ru,Весна пришла #Uzbekistan,20,2,False,
+1965,2026-03-21 10:29:29,user_327,telegram,uz,Milliy taomlar festivali #Toshkent,8,1,False,Toshkent
+1966,2026-03-21 10:29:29,user_103,instagram,en,Visiting Samarkand today 🌷,16,4,False,Andijon
+1968,2026-03-21 10:29:31,user_477,telegram,ru,С праздником Навруз! 🌷,10,0,False,Samarqand
+1967,2026-03-21 10:29:32,user_291,instagram,uz,Bayram sayliga boramiz,4,0,False,Buxoro
+1969,2026-03-21 10:29:32,user_195,telegram,ru,Отличная погода в Ташкенте,27,3,False,Toshkent
+1970,2026-03-21 10:29:34,user_336,instagram,ru,Сумаляк готов,14,3,True,Samarqand
+1971,2026-03-21 10:29:35,user_152,telegram,uz,Navro'z muborak!,60,3,False,Toshkent
+1972,2026-03-21 10:29:35,user_181,facebook,uz,Bayram sayliga boramiz,44,9,False,Namangan
+1974,2026-03-21 10:29:36,user_351,instagram,uz,Bayram sayliga boramiz #Uzbekistan,53,1,True,Farg'ona
+1973,2026-03-21 10:29:37,user_41,instagram,uz,Do'stlar bilan sayil,10,1,False,
+1975,2026-03-21 10:29:37,user_63,facebook,en,Happy Navruz! 🌷,28,6,False,Toshkent
+1976,2026-03-21 10:29:39,user_224,x,uz,"Yangi kun, yangi umid",5,0,False,Samarqand
+1977,2026-03-21 10:29:39,user_516,telegram,uz,Ko'pkari boshlanyapti 😊,13,2,False,
+1978,2026-03-21 10:29:40,user_355,telegram,uz,Hammaga tinchlik tilayman,25,3,False,Toshkent
+1979,2026-03-21 10:29:42,user_446,telegram,ru,С праздником Навруз!,31,6,False,Toshkent
+1980,2026-03-21 10:29:43,user_124,instagram,uz,Milliy taomlar festivali,11,1,True,
+1981,2026-03-21 10:29:43,user_218,telegram,uz,Hammaga tinchlik tilayman,46,4,False,
+1982,2026-03-21 10:29:44,user_268,facebook,uz,Bugun Toshkentda havo ajoyib,42,9,False,
+1983,2026-03-21 10:29:45,user_513,instagram,ru,С праздником Навруз! #Toshkent,33,0,True,
+1984,2026-03-21 10:29:47,user_149,telegram,ru,Сумаляк готов #Uzbekistan,0,0,True,Samarqand
+1985,2026-03-21 10:29:47,user_401,facebook,uz,Bahor keldi #Navruz2026,25,3,False,Samarqand
+1986,2026-03-21 10:29:47,user_600,telegram,uz,Milliy taomlar festivali,13,3,True,Buxoro
+1987,2026-03-21 10:29:49,user_229,instagram,ru,Сумаляк готов 🌷,4,0,True,Buxoro
+1989,2026-03-21 10:29:50,user_561,instagram,uz,Hammaga tinchlik tilayman,44,8,True,Toshkent
+1988,2026-03-21 10:29:51,user_588,instagram,uz,Ko'pkari boshlanyapti,14,0,False,Toshkent
+1990,2026-03-21 10:29:52,user_563,telegram,uz,Hammaga tinchlik tilayman,11,1,True,Toshkent
+1991,2026-03-21 10:29:53,user_371,facebook,uz,Navro'z muborak!,10,2,False,Toshkent
+1992,2026-03-21 10:29:53,user_552,x,en,Great festival in Tashkent,8,1,True,
+1993,2026-03-21 10:29:54,user_321,instagram,uz,Ko'pkari boshlanyapti,24,2,False,Toshkent
+1994,2026-03-21 10:29:54,user_425,instagram,uz,Milliy taomlar festivali 🌷,36,1,False,Qarshi
+1995,2026-03-21 10:29:56,user_397,instagram,uz,Bahor keldi,20,5,False,Andijon
+1996,2026-03-21 10:29:57,user_146,telegram,uz,Sumalak tayyor,8,0,True,Toshkent
+1997,2026-03-21 10:29:57,user_47,telegram,en,Happy Navruz!,44,2,False,Toshkent
+1997,2026-03-21 10:29:57,user_47,telegram,en,Happy Navruz!,44,2,False,Toshkent
+1998,2026-03-21 10:29:58,user_309,telegram,uz,Bugun Toshkentda havo ajoyib,9,1,False,
+1999,2026-03-21 10:29:59,user_376,telegram,uz,Sumalak tayyor #Toshkent,62,15,False,Farg'ona
+2000,2026-03-21 10:30:00,user_179,instagram,en,Visiting Samarkand today,34,7,True,Toshkent

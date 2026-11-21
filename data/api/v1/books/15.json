@@ -1,0 +1,42 @@
+{
+  "id": 15,
+  "title": "Speech and Language Processing",
+  "authors": [
+    {
+      "name": "Jurafsky",
+      "country": "AQSh"
+    },
+    {
+      "name": "Martin",
+      "country": "AQSh"
+    }
+  ],
+  "year": 2024,
+  "language": "en",
+  "genres": [
+    "texnologiya"
+  ],
+  "publisher": {
+    "name": "No Starch Press",
+    "city": "San Francisco"
+  },
+  "price": {
+    "amount": 240000,
+    "currency": "UZS"
+  },
+  "rating": 4.7,
+  "in_stock": true,
+  "translator": "Mirzo Kenjabek",
+  "reviews": [
+    {
+      "user": "user549",
+      "stars": 3,
+      "text": "Juda yoqdi!"
+    },
+    {
+      "user": "user660",
+      "stars": 4,
+      "text": "Qayta o'qishga arziydi"
+    }
+  ]
+}

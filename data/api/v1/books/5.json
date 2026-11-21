@@ -1,0 +1,44 @@
+{
+  "id": 5,
+  "title": "Shum bola",
+  "authors": [
+    {
+      "name": "G'afur G'ulom",
+      "country": "O'zbekiston"
+    }
+  ],
+  "year": 1936,
+  "language": "uz",
+  "genres": [
+    "qissa",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "Akademnashr",
+    "city": "Toshkent"
+  },
+  "price": {
+    "amount": 39000,
+    "currency": "UZS"
+  },
+  "rating": 3.9,
+  "in_stock": false,
+  "isbn": "978-9943-43-533-7",
+  "reviews": [
+    {
+      "user": "user756",
+      "stars": 4,
+      "text": "Qayta o'qishga arziydi"
+    },
+    {
+      "user": "user828",
+      "stars": 4,
+      "text": "Juda yoqdi!"
+    },
+    {
+      "user": "user221",
+      "stars": 5,
+      "text": "Qayta o'qishga arziydi"
+    }
+  ]
+}

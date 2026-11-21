@@ -1,0 +1,147 @@
+{
+  "page": 3,
+  "per_page": 5,
+  "total": 16,
+  "total_pages": 4,
+  "next": "page-4.json",
+  "results": [
+    {
+      "id": 11,
+      "title": "Мастер и Маргарита",
+      "authors": [
+        {
+          "name": "Михаил Булгаков",
+          "country": "Rossiya"
+        }
+      ],
+      "year": 1967,
+      "language": "ru",
+      "genres": [
+        "roman",
+        "klassika"
+      ],
+      "publisher": {
+        "name": "АСТ",
+        "city": "Москва"
+      },
+      "price": {
+        "amount": 72000,
+        "currency": "UZS"
+      },
+      "rating": 4.5,
+      "in_stock": true,
+      "translator": "Ibrohim G'afurov"
+    },
+    {
+      "id": 12,
+      "title": "Преступление и наказание",
+      "authors": [
+        {
+          "name": "Фёдор Достоевский",
+          "country": "Rossiya"
+        }
+      ],
+      "year": 1866,
+      "language": "ru",
+      "genres": [
+        "roman",
+        "klassika"
+      ],
+      "publisher": {
+        "name": "АСТ",
+        "city": "Москва"
+      },
+      "price": {
+        "amount": 68000,
+        "currency": "UZS"
+      },
+      "rating": 4.0,
+      "in_stock": true,
+      "isbn": "978-9943-30-244-5",
+      "translator": "Ibrohim G'afurov"
+    },
+    {
+      "id": 13,
+      "title": "Python Crash Course",
+      "authors": [
+        {
+          "name": "Eric Matthes",
+          "country": "AQSh"
+        }
+      ],
+      "year": 2023,
+      "language": "en",
+      "genres": [
+        "texnologiya"
+      ],
+      "publisher": {
+        "name": "No Starch Press",
+        "city": "San Francisco"
+      },
+      "price": {
+        "amount": 185000,
+        "currency": "UZS"
+      },
+      "rating": 4.8,
+      "in_stock": false,
+      "isbn": "978-9943-36-532-5"
+    },
+    {
+      "id": 14,
+      "title": "Automate the Boring Stuff with Python",
+      "authors": [
+        {
+          "name": "Al Sweigart",
+          "country": "AQSh"
+        }
+      ],
+      "year": 2025,
+      "language": "en",
+      "genres": [
+        "texnologiya"
+      ],
+      "publisher": {
+        "name": "No Starch Press",
+        "city": "San Francisco"
+      },
+      "price": {
+        "amount": 175000,
+        "currency": "UZS"
+      },
+      "rating": 3.9,
+      "in_stock": true,
+      "isbn": "978-9943-23-200-1",
+      "translator": "Vafo Fayzulloh"
+    },
+    {
+      "id": 15,
+      "title": "Speech and Language Processing",
+      "authors": [
+        {
+          "name": "Jurafsky",
+          "country": "AQSh"
+        },
+        {
+          "name": "Martin",
+          "country": "AQSh"
+        }
+      ],
+      "year": 2024,
+      "language": "en",
+      "genres": [
+        "texnologiya"
+      ],
+      "publisher": {
+        "name": "No Starch Press",
+        "city": "San Francisco"
+      },
+      "price": {
+        "amount": 240000,
+        "currency": "UZS"
+      },
+      "rating": 4.7,
+      "in_stock": true,
+      "translator": "Mirzo Kenjabek"
+    }
+  ]
+}

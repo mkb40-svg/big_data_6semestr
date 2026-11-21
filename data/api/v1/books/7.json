@@ -1,0 +1,28 @@
+{
+  "id": 7,
+  "title": "Dunyoning ishlari",
+  "authors": [
+    {
+      "name": "O'tkir Hoshimov",
+      "country": "O'zbekiston"
+    }
+  ],
+  "year": 1982,
+  "language": "uz",
+  "genres": [
+    "qissa",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "G'afur G'ulom nashriyoti",
+    "city": "Toshkent"
+  },
+  "price": {
+    "amount": 45000,
+    "currency": "UZS"
+  },
+  "rating": 4.1,
+  "in_stock": false,
+  "isbn": "978-9943-70-545-3",
+  "reviews": []
+}

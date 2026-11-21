@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "title": "Mehrobdan chayon",
+  "authors": [
+    {
+      "name": "Abdulla Qodiriy",
+      "country": "O'zbekiston"
+    }
+  ],
+  "year": 1929,
+  "language": "uz",
+  "genres": [
+    "roman",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "Akademnashr",
+    "city": "Toshkent"
+  },
+  "price": {
+    "amount": 58000,
+    "currency": "UZS"
+  },
+  "rating": 5.0,
+  "in_stock": false,
+  "isbn": "978-9943-12-362-6",
+  "reviews": [
+    {
+      "user": "user480",
+      "stars": 3,
+      "text": "Talabalar uchun foydali"
+    }
+  ]
+}

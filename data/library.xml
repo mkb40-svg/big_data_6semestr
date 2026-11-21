@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library name="Universitet kutubxonasi" updated="2026-09-01">
+  <book id="1" lang="uz">
+    <title>O&#x27;tkan kunlar</title>
+    <author>Abdulla Qodiriy</author>
+    <year>1926</year>
+    <genre>roman</genre>
+    <price currency="UZS">65000</price>
+    <copies>11</copies>
+  </book>
+  <book id="2" lang="uz">
+    <title>Mehrobdan chayon</title>
+    <author>Abdulla Qodiriy</author>
+    <year>1929</year>
+    <genre>roman</genre>
+    <price currency="UZS">58000</price>
+    <copies>9</copies>
+  </book>
+  <book id="3" lang="uz">
+    <title>Kecha va kunduz</title>
+    <author>Cho&#x27;lpon</author>
+    <year>1936</year>
+    <genre>roman</genre>
+    <price currency="UZS">55000</price>
+    <copies>2</copies>
+  </book>
+  <book id="4" lang="uz">
+    <title>Sariq devni minib</title>
+    <author>Xudoyberdi To&#x27;xtaboyev</author>
+    <year>1968</year>
+    <genre>bolalar</genre>
+    <price currency="UZS">42000</price>
+    <copies>7</copies>
+  </book>
+  <book id="5" lang="uz">
+    <title>Shum bola</title>
+    <author>G&#x27;afur G&#x27;ulom</author>
+    <year>1936</year>
+    <genre>qissa</genre>
+    <price currency="UZS">39000</price>
+    <copies>12</copies>
+  </book>
+  <book id="6" lang="uz">
+    <title>Ufq</title>
+    <author>Said Ahmad</author>
+    <year>1974</year>
+    <genre>roman</genre>
+    <price currency="UZS">61000</price>
+    <copies>9</copies>
+  </book>
+  <book id="7" lang="uz">
+    <title>Dunyoning ishlari</title>
+    <author>O&#x27;tkir Hoshimov</author>
+    <year>1982</year>
+    <genre>qissa</genre>
+    <price currency="UZS">45000</price>
+    <copies>3</copies>
+  </book>
+  <book id="8" lang="uz">
+    <title>Ikki eshik orasi</title>
+    <author>O&#x27;tkir Hoshimov</author>
+    <year>1986</year>
+    <genre>roman</genre>
+    <price currency="UZS">69000</price>
+    <copies>6</copies>
+  </book>
+  <book id="9" lang="uz">
+    <title>Xamsa (tanlangan)</title>
+    <author>Alisher Navoiy</author>
+    <year>1485</year>
+    <genre>she&#x27;riyat</genre>
+    <price currency="UZS">120000</price>
+    <copies>1</copies>
+  </book>
+  <book id="10" lang="uz">
+    <title>Boburnoma</title>
+    <author>Zahiriddin Muhammad Bobur</author>
+    <year>1530</year>
+    <genre>tarix</genre>
+    <price currency="UZS">98000</price>
+    <copies>10</copies>
+  </book>
+  <book id="11" lang="ru">
+    <title>Мастер и Маргарита</title>
+    <author>Михаил Булгаков</author>
+    <year>1967</year>
+    <genre>roman</genre>
+    <price currency="UZS">72000</price>
+    <copies>7</copies>
+  </book>
+  <book id="12" lang="ru">
+    <title>Преступление и наказание</title>
+    <author>Фёдор Достоевский</author>
+    <year>1866</year>
+    <genre>roman</genre>
+    <price currency="UZS">68000</price>
+    <copies>6</copies>
+  </book>
+  <book id="13" lang="en">
+    <title>Python Crash Course</title>
+    <author>Eric Matthes</author>
+    <year>2023</year>
+    <genre>texnologiya</genre>
+    <price currency="UZS">185000</price>
+    <copies>1</copies>
+  </book>
+  <book id="14" lang="en">
+    <title>Automate the Boring Stuff with Python</title>
+    <author>Al Sweigart</author>
+    <year>2025</year>
+    <genre>texnologiya</genre>
+    <price currency="UZS">175000</price>
+    <copies>11</copies>
+  </book>
+  <book id="15" lang="en">
+    <title>Speech and Language Processing</title>
+    <author>Jurafsky, Martin</author>
+    <year>2024</year>
+    <genre>texnologiya</genre>
+    <price currency="UZS">240000</price>
+    <copies>0</copies>
+  </book>
+  <book id="16" lang="en">
+    <title>Big Data: A Revolution</title>
+    <author>Mayer-Schonberger, Cukier</author>
+    <year>2013</year>
+    <genre>texnologiya</genre>
+    <price currency="UZS">150000</price>
+    <copies>1</copies>
+  </book>
+</library>

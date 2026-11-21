@@ -1,0 +1,34 @@
+{
+  "id": 11,
+  "title": "Мастер и Маргарита",
+  "authors": [
+    {
+      "name": "Михаил Булгаков",
+      "country": "Rossiya"
+    }
+  ],
+  "year": 1967,
+  "language": "ru",
+  "genres": [
+    "roman",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "АСТ",
+    "city": "Москва"
+  },
+  "price": {
+    "amount": 72000,
+    "currency": "UZS"
+  },
+  "rating": 4.5,
+  "in_stock": true,
+  "translator": "Ibrohim G'afurov",
+  "reviews": [
+    {
+      "user": "user205",
+      "stars": 3,
+      "text": "Juda yoqdi!"
+    }
+  ]
+}

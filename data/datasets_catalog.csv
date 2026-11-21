@@ -1,0 +1,11 @@
+name,description,size_gb,records,update_freq,formats,sources,missing_pct,duplicates_pct,value
+Toshkent metrosi turniket loglari,"har bir o'tish: vaqt, bekat, karta turi",850,1200000000,real-time,"CSV, Parquet",1,0.5,0.1,yo'lovchi oqimini rejalashtirish
+Telegram kanallari xabarlari,"matn, rasm, video, reaksiyalar",2300,3500000000,real-time,"JSON, rasm, video",4000,7.5,12.0,jamoatchilik fikrini tahlil qilish
+Ob-havo meteostansiyalari,"harorat, namlik, bosim, shamol (10 daqiqada)",40,520000000,har 10 daqiqa,CSV,180,3.2,0.4,prognoz aniqligi
+Universitet kutubxonasi katalogi,kitoblar haqida ma'lumot,0.02,85000,oyiga 1 marta,XML,1,1.0,0.5,kitob qidirish
+Bank karta tranzaksiyalari,"summa, vaqt, terminal, MCC kodi",5200,9000000000,real-time,"Avro, Parquet",12,0.2,0.05,firibgarlikni aniqlash
+O'zbek Vikipediyasi dampi,maqolalar matni va metadata,1.6,300000,oyiga 1 marta,"XML, wiki-markup",1,0.0,2.0,til korpusi
+Shifoxona elektron kartalari,"tashxis, tahlil, retsept, rasm (MRT)",12000,450000000,kuniga,"HL7, DICOM, PDF, CSV",320,9.0,3.5,kasalliklarni bashorat qilish
+Talabalar baholari (bitta guruh),"25 talaba, 10 fan bo'yicha baholar",1e-05,250,semestrda 1 marta,Excel,1,2.0,0.0,guruh reytingi
+Dron va dala sensorlari,"namlik, NDVI, suratlar",640,75000000,har soat,"CSV, GeoTIFF",900,6.0,1.0,sug'orishni optimallashtirish
+Onlayn do'kon sharhlari,matn + yulduzcha baho,3.5,2400000,real-time,JSON,3,4.0,8.0,mahsulot sifati tahlili

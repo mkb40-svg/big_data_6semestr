@@ -1,0 +1,35 @@
+{
+  "id": 12,
+  "title": "Преступление и наказание",
+  "authors": [
+    {
+      "name": "Фёдор Достоевский",
+      "country": "Rossiya"
+    }
+  ],
+  "year": 1866,
+  "language": "ru",
+  "genres": [
+    "roman",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "АСТ",
+    "city": "Москва"
+  },
+  "price": {
+    "amount": 68000,
+    "currency": "UZS"
+  },
+  "rating": 4.0,
+  "in_stock": true,
+  "isbn": "978-9943-30-244-5",
+  "translator": "Ibrohim G'afurov",
+  "reviews": [
+    {
+      "user": "user548",
+      "stars": 4,
+      "text": "Ajoyib kitob"
+    }
+  ]
+}

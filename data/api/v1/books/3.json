@@ -1,0 +1,39 @@
+{
+  "id": 3,
+  "title": "Kecha va kunduz",
+  "authors": [
+    {
+      "name": "Cho'lpon",
+      "country": "O'zbekiston"
+    }
+  ],
+  "year": 1936,
+  "language": "uz",
+  "genres": [
+    "roman",
+    "klassika"
+  ],
+  "publisher": {
+    "name": "Akademnashr",
+    "city": "Toshkent"
+  },
+  "price": {
+    "amount": 55000,
+    "currency": "UZS"
+  },
+  "rating": 4.7,
+  "in_stock": false,
+  "isbn": "978-9943-40-884-9",
+  "reviews": [
+    {
+      "user": "user170",
+      "stars": 3,
+      "text": "Talabalar uchun foydali"
+    },
+    {
+      "user": "user732",
+      "stars": 3,
+      "text": "Yaxshi, lekin qimmat"
+    }
+  ]
+}

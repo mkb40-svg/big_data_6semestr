@@ -1,0 +1,585 @@
+[
+  {
+    "id": 1,
+    "title": "O'tkan kunlar",
+    "authors": [
+      {
+        "name": "Abdulla Qodiriy",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1926,
+    "language": "uz",
+    "genres": [
+      "roman",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "G'afur G'ulom nashriyoti",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 65000,
+      "currency": "UZS"
+    },
+    "rating": 4.7,
+    "in_stock": true,
+    "isbn": "978-9943-71-415-9",
+    "reviews": [
+      {
+        "user": "user120",
+        "stars": 5,
+        "text": "Juda yoqdi!"
+      },
+      {
+        "user": "user929",
+        "stars": 5,
+        "text": "Yaxshi, lekin qimmat"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mehrobdan chayon",
+    "authors": [
+      {
+        "name": "Abdulla Qodiriy",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1929,
+    "language": "uz",
+    "genres": [
+      "roman",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "Akademnashr",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 58000,
+      "currency": "UZS"
+    },
+    "rating": 5.0,
+    "in_stock": false,
+    "isbn": "978-9943-12-362-6",
+    "reviews": [
+      {
+        "user": "user480",
+        "stars": 3,
+        "text": "Talabalar uchun foydali"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Kecha va kunduz",
+    "authors": [
+      {
+        "name": "Cho'lpon",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1936,
+    "language": "uz",
+    "genres": [
+      "roman",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "Akademnashr",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 55000,
+      "currency": "UZS"
+    },
+    "rating": 4.7,
+    "in_stock": false,
+    "isbn": "978-9943-40-884-9",
+    "reviews": [
+      {
+        "user": "user170",
+        "stars": 3,
+        "text": "Talabalar uchun foydali"
+      },
+      {
+        "user": "user732",
+        "stars": 3,
+        "text": "Yaxshi, lekin qimmat"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sariq devni minib",
+    "authors": [
+      {
+        "name": "Xudoyberdi To'xtaboyev",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1968,
+    "language": "uz",
+    "genres": [
+      "bolalar",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "Akademnashr",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 42000,
+      "currency": "UZS"
+    },
+    "rating": 4.2,
+    "in_stock": false,
+    "isbn": "978-9943-57-809-0",
+    "reviews": [
+      {
+        "user": "user398",
+        "stars": 5,
+        "text": "Hammaga tavsiya qilaman"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Shum bola",
+    "authors": [
+      {
+        "name": "G'afur G'ulom",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1936,
+    "language": "uz",
+    "genres": [
+      "qissa",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "Akademnashr",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 39000,
+      "currency": "UZS"
+    },
+    "rating": 3.9,
+    "in_stock": false,
+    "isbn": "978-9943-43-533-7",
+    "reviews": [
+      {
+        "user": "user756",
+        "stars": 4,
+        "text": "Qayta o'qishga arziydi"
+      },
+      {
+        "user": "user828",
+        "stars": 4,
+        "text": "Juda yoqdi!"
+      },
+      {
+        "user": "user221",
+        "stars": 5,
+        "text": "Qayta o'qishga arziydi"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ufq",
+    "authors": [
+      {
+        "name": "Said Ahmad",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1974,
+    "language": "uz",
+    "genres": [
+      "roman",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "Akademnashr",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 61000,
+      "currency": "UZS"
+    },
+    "rating": 5.0,
+    "in_stock": false,
+    "isbn": "978-9943-18-981-1",
+    "reviews": [
+      {
+        "user": "user229",
+        "stars": 4,
+        "text": "Yaxshi, lekin qimmat"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Dunyoning ishlari",
+    "authors": [
+      {
+        "name": "O'tkir Hoshimov",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1982,
+    "language": "uz",
+    "genres": [
+      "qissa",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "G'afur G'ulom nashriyoti",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 45000,
+      "currency": "UZS"
+    },
+    "rating": 4.1,
+    "in_stock": false,
+    "isbn": "978-9943-70-545-3",
+    "reviews": []
+  },
+  {
+    "id": 8,
+    "title": "Ikki eshik orasi",
+    "authors": [
+      {
+        "name": "O'tkir Hoshimov",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1986,
+    "language": "uz",
+    "genres": [
+      "roman",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "Akademnashr",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 69000,
+      "currency": "UZS"
+    },
+    "rating": 4.7,
+    "in_stock": false,
+    "isbn": "978-9943-82-907-9",
+    "reviews": [
+      {
+        "user": "user616",
+        "stars": 3,
+        "text": "Yaxshi, lekin qimmat"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Xamsa (tanlangan)",
+    "authors": [
+      {
+        "name": "Alisher Navoiy",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1485,
+    "language": "uz",
+    "genres": [
+      "she'riyat",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "Sharq",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 120000,
+      "currency": "UZS"
+    },
+    "rating": 4.4,
+    "in_stock": false,
+    "reviews": [
+      {
+        "user": "user280",
+        "stars": 4,
+        "text": "Qayta o'qishga arziydi"
+      },
+      {
+        "user": "user963",
+        "stars": 5,
+        "text": "Juda yoqdi!"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Boburnoma",
+    "authors": [
+      {
+        "name": "Zahiriddin Muhammad Bobur",
+        "country": "O'zbekiston"
+      }
+    ],
+    "year": 1530,
+    "language": "uz",
+    "genres": [
+      "tarix",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "Sharq",
+      "city": "Toshkent"
+    },
+    "price": {
+      "amount": 98000,
+      "currency": "UZS"
+    },
+    "rating": 4.1,
+    "in_stock": true,
+    "isbn": "978-9943-75-553-8",
+    "reviews": [
+      {
+        "user": "user971",
+        "stars": 5,
+        "text": "Ajoyib kitob"
+      },
+      {
+        "user": "user604",
+        "stars": 5,
+        "text": "Juda yoqdi!"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Мастер и Маргарита",
+    "authors": [
+      {
+        "name": "Михаил Булгаков",
+        "country": "Rossiya"
+      }
+    ],
+    "year": 1967,
+    "language": "ru",
+    "genres": [
+      "roman",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "АСТ",
+      "city": "Москва"
+    },
+    "price": {
+      "amount": 72000,
+      "currency": "UZS"
+    },
+    "rating": 4.5,
+    "in_stock": true,
+    "translator": "Ibrohim G'afurov",
+    "reviews": [
+      {
+        "user": "user205",
+        "stars": 3,
+        "text": "Juda yoqdi!"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Преступление и наказание",
+    "authors": [
+      {
+        "name": "Фёдор Достоевский",
+        "country": "Rossiya"
+      }
+    ],
+    "year": 1866,
+    "language": "ru",
+    "genres": [
+      "roman",
+      "klassika"
+    ],
+    "publisher": {
+      "name": "АСТ",
+      "city": "Москва"
+    },
+    "price": {
+      "amount": 68000,
+      "currency": "UZS"
+    },
+    "rating": 4.0,
+    "in_stock": true,
+    "isbn": "978-9943-30-244-5",
+    "translator": "Ibrohim G'afurov",
+    "reviews": [
+      {
+        "user": "user548",
+        "stars": 4,
+        "text": "Ajoyib kitob"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Python Crash Course",
+    "authors": [
+      {
+        "name": "Eric Matthes",
+        "country": "AQSh"
+      }
+    ],
+    "year": 2023,
+    "language": "en",
+    "genres": [
+      "texnologiya"
+    ],
+    "publisher": {
+      "name": "No Starch Press",
+      "city": "San Francisco"
+    },
+    "price": {
+      "amount": 185000,
+      "currency": "UZS"
+    },
+    "rating": 4.8,
+    "in_stock": false,
+    "isbn": "978-9943-36-532-5",
+    "reviews": [
+      {
+        "user": "user352",
+        "stars": 4,
+        "text": "Yaxshi, lekin qimmat"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Automate the Boring Stuff with Python",
+    "authors": [
+      {
+        "name": "Al Sweigart",
+        "country": "AQSh"
+      }
+    ],
+    "year": 2025,
+    "language": "en",
+    "genres": [
+      "texnologiya"
+    ],
+    "publisher": {
+      "name": "No Starch Press",
+      "city": "San Francisco"
+    },
+    "price": {
+      "amount": 175000,
+      "currency": "UZS"
+    },
+    "rating": 3.9,
+    "in_stock": true,
+    "isbn": "978-9943-23-200-1",
+    "translator": "Vafo Fayzulloh",
+    "reviews": [
+      {
+        "user": "user98",
+        "stars": 3,
+        "text": "Yaxshi, lekin qimmat"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Speech and Language Processing",
+    "authors": [
+      {
+        "name": "Jurafsky",
+        "country": "AQSh"
+      },
+      {
+        "name": "Martin",
+        "country": "AQSh"
+      }
+    ],
+    "year": 2024,
+    "language": "en",
+    "genres": [
+      "texnologiya"
+    ],
+    "publisher": {
+      "name": "No Starch Press",
+      "city": "San Francisco"
+    },
+    "price": {
+      "amount": 240000,
+      "currency": "UZS"
+    },
+    "rating": 4.7,
+    "in_stock": true,
+    "translator": "Mirzo Kenjabek",
+    "reviews": [
+      {
+        "user": "user549",
+        "stars": 3,
+        "text": "Juda yoqdi!"
+      },
+      {
+        "user": "user660",
+        "stars": 4,
+        "text": "Qayta o'qishga arziydi"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Big Data: A Revolution",
+    "authors": [
+      {
+        "name": "Mayer-Schonberger",
+        "country": "AQSh"
+      },
+      {
+        "name": "Cukier",
+        "country": "AQSh"
+      }
+    ],
+    "year": 2013,
+    "language": "en",
+    "genres": [
+      "texnologiya"
+    ],
+    "publisher": {
+      "name": "No Starch Press",
+      "city": "San Francisco"
+    },
+    "price": {
+      "amount": 150000,
+      "currency": "UZS"
+    },
+    "rating": 4.0,
+    "in_stock": true,
+    "translator": "Mirzo Kenjabek",
+    "reviews": [
+      {
+        "user": "user774",
+        "stars": 4,
+        "text": "Juda yoqdi!"
+      },
+      {
+        "user": "user726",
+        "stars": 3,
+        "text": "Juda yoqdi!"
+      }
+    ]
+  }
+]
