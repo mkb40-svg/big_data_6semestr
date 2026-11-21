@@ -37,12 +37,16 @@ async function fetchBytes(url) {
   return new Uint8Array(await r.arrayBuffer());
 }
 
+// На сервере файлы пакетов называются pkg_init.py: GitHub Pages (Jekyll) не публикует
+// файлы, имя которых начинается с "_", если в репозитории нет файла .nojekyll.
+const serverName = (rel) => rel.replace(/(^|\/)__init__\.py$/, "$1pkg_init.py");
+
 async function writeFiles(list, urlPrefix, fsPrefix) {
   const queue = list.slice();
   const workers = Array.from({ length: 8 }, async () => {
     while (queue.length) {
       const rel = queue.shift();
-      const bytes = await fetchBytes(urlPrefix + rel);
+      const bytes = await fetchBytes(urlPrefix + serverName(rel));
       const full = fsPrefix + "/" + rel;
       mkdirs(full.substring(0, full.lastIndexOf("/")));
       py.FS.writeFile(full, bytes);

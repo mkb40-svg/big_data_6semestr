@@ -3,5 +3,5 @@
  * https://<имя>.github.io/<репозиторий>/. Если используется свой домен —
  * укажите владельца и имя репозитория вручную. */
 window.BDT_CONFIG = {
-  github: { owner: "", repo: "", branch: "main" },
+  github: { owner: "mkb40-svg", repo: "big_data_6semestr", branch: "main" },
 };
